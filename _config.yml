@@ -19,7 +19,7 @@ author :
 
 url: https://jaypalexa.github.io
 baseurl: /baseballink
-production_url : https://jaypalexa.github.io/baseballink/
+# production_url : https://jaypalexa.github.io/baseballink/
 # favicon: /favicon.ico
 # theme: minima
 
