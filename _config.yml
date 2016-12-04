@@ -1,0 +1,26 @@
+# This is the default format.
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title
+# permalink: /:title
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+#
+title : BaseballInk
+author : 
+  name : nil
+  email : nil
+  github : nil
+  twitter : nil
+  feedburner : nil
+
+production_url : https://jaypalexa.github.io/baseballink/
+# favicon: /favicon.ico
+# theme: minima
+
+# Tell Github to use the kramdown markdown interpreter
+# (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
+markdown: kramdown
