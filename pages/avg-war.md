@@ -158,7 +158,6 @@ title: • AvgWAR
       For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
     </p>
     <pre><strong>avgWAR = (careerWAR / (battingCareerG / 162))</strong></pre>
-    </p>
     <table id="battingMain" width="100" border="0" cellspacing="0" cellpadding="3">
       <tbody>
         <tr>
@@ -204,7 +203,6 @@ title: • AvgWAR
       For <a href="http://www.baseball-reference.com/about/pitch_glossary.shtml#162_avg">pitchers</a>, we use:
     </p>
     <pre><strong>avgWAR = (careerWAR / ((pitchingCareerG + pitchingCareerGS) / 68))</strong></pre>
-    </p>
     <table id="pitchingMain" width="100" border="0" cellspacing="0" cellpadding="3">
       <tbody>
         <tr>
