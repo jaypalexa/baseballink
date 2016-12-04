@@ -4,13 +4,13 @@ title: • About Baseball Ink
 ---
 <h1>About Baseball Ink</h1>
 <div class="storycontent">
-  <p><img src="assets/images/contact1.jpg" alt="" /></p>
-  <p><img src="assets/images/contact2.jpg" alt="" /></p>
+  <p><img src="{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
+  <p><img src="{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
   <h3>Our Staff and Contributors</h3>
   <table border="0" cellspacing="3" cellpadding="3">
     <tbody>
       <tr>
-        <td><img class="alignleft size-full wp-image-2018" title="SamM" src="assets/images/glickman_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="SamM" src="{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> SamM</li>
@@ -18,7 +18,7 @@ title: • About Baseball Ink
         </td>
       </tr>
       <tr>
-        <td><img class="alignleft size-full wp-image-2019" title="TommyT" src="assets/images/tommyt_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="TommyT" src="{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> TommyT</li>
@@ -26,7 +26,7 @@ title: • About Baseball Ink
         </td>
       </tr>
       <tr>
-        <td><img class="alignleft size-full wp-image-2017" title="TheUmpire" src="assets/images/umpire_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="TheUmpire" src="{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> TheUmpire</li>
@@ -37,7 +37,7 @@ title: • About Baseball Ink
   </table>
   <h3>Disclaimers and All That</h3>
   <p>Not all the pictures and quoted content are ours. In such cases, the original source is noted, usually via a hyperlink.</p>
-  <p>All original content within is copyrighted to the author of each item unless otherwise indicated. Presentation of content is copyrighted © 2000-2015 by Baseball Ink. Articles may be edited for clarity, content, and/or space. Offending, irrelevant, or idiotic comments may be deleted.</p>
+  <p>All original content within is copyrighted to the author of each item unless otherwise indicated. Presentation of content is copyrighted © 2000-2017 by Baseball Ink. Articles may be edited for clarity, content, and/or space. Offending, irrelevant, or idiotic comments may be deleted.</p>
   <p>We are not responsible for anything, explicit or implied. All rights reserved. Please contact us before using or quoting any materials herein. Mumbo. Jumbo.</p>
   <p>
     <!--[if gte mso 9]>
