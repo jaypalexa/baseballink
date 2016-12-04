@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,7 +12,7 @@
   <body>
     <!-- Header -->
     <header id="header">
-      <a href="index.html" class="logo">Baseball<strong>Ink</strong></a>
+      <a href="/" class="logo">Baseball<strong>Ink</strong></a>
       <nav>
         <a href="#menu">Menu</a>
       </nav>
@@ -19,32 +21,311 @@
     <nav id="menu">
       <ul class="links">
         <li><a href="/">Home</a></li>
-        <li><a href="/glossary.html">Glossary</a></li>
-        <li><a href="/rules-of-fireage.html">Rules of Fireage</a></li>
-        <li><a href="/videos.html">Videos</a></li>
+        <li><a href="/avg-war.html">Average WAR</a></li>
+        <li><a href="/promotion-relegation.html">Promotion/Relegation</a></li>
+        <li><a href="/baseball-limericks.html">Baseball Limericks</a></li>
+        <li><a href="/about-us.html">About Us</a></li>
       </ul>
     </nav>
-    <!-- Banner -->
-    <section id="banner">
-      <div class="inner">
-        <h1>Tort and Joie</h1>
-        <ul class="actions">
-          <li><a href="#one" class="button alt scrolly big">Continue</a></li>
-        </ul>
-      </div>
-    </section>
-    <div class="container">
-      {{ content }}
-    </div>
+    <table width="1000px" cellpadding="2" cellspacing="2">
+      <tr>
+        <td width="250px" valign="top">
+          <!-- <?php get_sidebar(); ?> -->
+          <div id="sidebar">
+            <table width="244px" cellpadding="1" cellspacing="1">
+              <tr>
+                <td align="center" width="244px">
+                  <a href="http://www.baseballink.com" title="Baseball Ink"><img src="http://www.baseballink.com/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" width="244px">
+                  <h5><a href="http://www.baseballink.com" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
+                </td>
+              </tr>
+            </table>
+            <ul>
+              <!-- ADMIN CONSOLE -->
+              <li id="admin">
+                <h4>The Dugout</h4>
+                <ul>
+                  <li><a href="http://www.baseballink.com">Home</a></li>
+                  <li><a href="http://www.baseballink.com/average-war" title="Average WAR">Average WAR</a></li>
+                  <li><a href="http://www.baseballink.com/promotionrelegation" title="Promotion/Relegation">Promotion/Relegation</a></li>
+                  <li><a href="http://www.baseballink.com/limericks" title="Baseball Limericks">Baseball Limericks</a></li>
+                </ul>
+              </li>
+              <!-- RECENT ARTICLES -->
+              <li>
+                <h4>Recent Articles</h4>
+                <ul>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/average-war-for-2016-hall-of-fame-candidates-4062989'>Average WAR for 2016 Hall of Fame Candidates</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/average-war-for-2015-hall-of-fame-candidates-4062980'>Average WAR for 2015 Hall of Fame Candidates</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/average-war-for-2014-hall-of-fame-candidates-4062974'>Average WAR for 2014 Hall of Fame Candidates</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/average-war-for-2013-hall-of-fame-candidates-4062953'>Average WAR for 2013 Hall of Fame Candidates</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/nearly-half-2012-hof-firsties-not-starter-quality-4062892'>Nearly Half 2012 HoF Firsties Not Starter Quality</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/average-war-for-2012-hall-of-fame-candidates-4062887'>Average WAR for 2012 Hall of Fame Candidates</a></li>
+                  <li>• <a href='http://www.baseballink.com/archives/stories/letter-to-the-editor-promotion-and-relegation-in-baseball-4062878'>Letter to the Editor &ndash; Promotion and Relegation in Baseball</a></li>
+                </ul>
+              </li>
+              <!-- PROMOTION/RELEGATION -->
+              <li>
+                <h4>2015 <a href="http://www.baseballink.com/promotionrelegation" style="font-size: 90%;">PROMOTION/RELEGATION</a></h4>
+                <table style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;" border="1" cellspacing="2" cellpadding="2" width="210">
+                  <tbody>
+                    <tr style="background-color: lightgray; font-weight: bold;">
+                      <td>BPL</td>
+                      <td>Team</td>
+                      <td>W</td>
+                      <td>L</td>
+                      <td>RD</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>NL-C</td>
+                      <td>*St Louis</td>
+                      <td>100</td>
+                      <td>62</td>
+                      <td>122</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>NL-C</td>
+                      <td>*Pittsburgh</td>
+                      <td>98</td>
+                      <td>64</td>
+                      <td>101</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>NL-C</td>
+                      <td>*Chicago</td>
+                      <td>97</td>
+                      <td>65</td>
+                      <td>81</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>AL-C</td>
+                      <td>***Kansas City</td>
+                      <td>95</td>
+                      <td>67</td>
+                      <td>83</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>AL-E</td>
+                      <td>*Toronto</td>
+                      <td>93</td>
+                      <td>69</td>
+                      <td>221</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>NL-W</td>
+                      <td>*Los Angeles</td>
+                      <td>92</td>
+                      <td>70</td>
+                      <td>72</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>NL-E</td>
+                      <td>**New York</td>
+                      <td>90</td>
+                      <td>72</td>
+                      <td>70</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>AL-W</td>
+                      <td>*Texas</td>
+                      <td>88</td>
+                      <td>74</td>
+                      <td>18</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>NL-E</td>
+                      <td>Atlanta</td>
+                      <td>67</td>
+                      <td>95</td>
+                      <td>-187</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>NL-C</td>
+                      <td>Cincinnati</td>
+                      <td>64</td>
+                      <td>98</td>
+                      <td>-114</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>NL-E</td>
+                      <td>Philadelphia</td>
+                      <td>63</td>
+                      <td>99</td>
+                      <td>-183</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;" border="0" cellspacing="0" cellpadding="0" width="210">
+                  <tbody>
+                    <tr>
+                      <td>*** = 2015 World Series winner</td>
+                    </tr>
+                    <tr>
+                      <td>** = 2015 World Series loser</td>
+                    </tr>
+                    <tr>
+                      <td>* = in 2015 MLB playoffs</td>
+                    <tr>
+                      <td>
+                        <br />
+                        2015 <a href="http://www.baseballink.com/promotionrelegation" title="Promotion/Relegation" style="font-weight: bold;">BPL</a> first-round matchups:
+                        <ul style="list-style-type: disc;">
+                          <li style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;">&nbsp;&bull;&nbsp;(1) St Louis Cardinals vs<br />&nbsp;&nbsp;&nbsp;&nbsp;(8) Texas Rangers</li>
+                          <li style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;">&nbsp;&bull;&nbsp;(4) Kansas City Royals vs<br />&nbsp;&nbsp;&nbsp;&nbsp;(5) Toronto Blue Jays</li>
+                          <li style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;">&nbsp;&bull;&nbsp;(3) Chicago Cubs vs<br />&nbsp;&nbsp;&nbsp;&nbsp;(6) Los Angeles Dodgers</li>
+                          <li style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;">&nbsp;&bull;&nbsp;(2) Pittsburgh Pirates vs<br />&nbsp;&nbsp;&nbsp;&nbsp;(7) New York Mets</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <br />
+                <table style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;" border="1" cellspacing="2" cellpadding="2" width="210">
+                  <tbody>
+                    <tr style="background-color: lightgray; font-weight: bold;">
+                      <td>BL2</td>
+                      <td>Team</td>
+                      <td>W</td>
+                      <td>L</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>PCL</td>
+                      <td>Oklahoma City</td>
+                      <td>86</td>
+                      <td>58</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>PCL</td>
+                      <td>Fresno</td>
+                      <td>84</td>
+                      <td>59</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>INTL</td>
+                      <td>Columbus</td>
+                      <td>83</td>
+                      <td>61</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>INTL</td>
+                      <td>Indianapolis</td>
+                      <td>83</td>
+                      <td>61</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>INTL</td>
+                      <td>Scranton/Wilkes-Barre</td>
+                      <td>81</td>
+                      <td>63</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>PCL</td>
+                      <td>Iowa</td>
+                      <td>80</td>
+                      <td>64</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>PCL</td>
+                      <td>Omaha</td>
+                      <td>80</td>
+                      <td>64</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>INTL</td>
+                      <td>Pawtucket</td>
+                      <td>59</td>
+                      <td>85</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>PCL</td>
+                      <td>New Orleans</td>
+                      <td>58</td>
+                      <td>86</td>
+                    </tr>
+                    <tr style="background-color: lightpink;">
+                      <td>PCL</td>
+                      <td>Salt Lake</td>
+                      <td>58</td>
+                      <td>86</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <br />
+                <table style="font-size: 8pt; font-weight: normal; line-height: 120%; text-transform: none;" border="1" cellspacing="2" cellpadding="2" width="210">
+                  <tbody>
+                    <tr style="background-color: lightgray; font-weight: bold;">
+                      <td>BL3</td>
+                      <td>Team</td>
+                      <td>W</td>
+                      <td>L</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>TEX</td>
+                      <td>Corpus Christi</td>
+                      <td>89</td>
+                      <td>51</td>
+                    </tr>
+                    <tr style="background-color: lightgreen;">
+                      <td>TEX</td>
+                      <td>Midland</td>
+                      <td>83</td>
+                      <td>57</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>EAST</td>
+                      <td>Reading</td>
+                      <td>80</td>
+                      <td>61</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>EAST</td>
+                      <td>Bowie</td>
+                      <td>79</td>
+                      <td>63</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>SOU</td>
+                      <td>Biloxi</td>
+                      <td>78</td>
+                      <td>59</td>
+                    </tr>
+                    <tr style="background-color: yellow;">
+                      <td>SOU</td>
+                      <td>Montgomery</td>
+                      <td>77</td>
+                      <td>61</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </li>
+            </ul>
+          </div>
+        </td>
+        <td width="0px" bgcolor="#C0C0C0">
+        </td>
+        <td width="625px" valign="top">
+          <div id="content" class="container">
+            {{ content }}
+          </div>
+        </td>
+        <td width="0px" bgcolor="#C0C0C0">
+        </td>
+        <td width="125px" valign="top" align="right">
+        </td>
+      </tr>
+    </table>
     <!-- Footer -->
     <footer id="footer">
       <ul class="icons">
-        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-        <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        <li><a href="http://www.facebook.com/pages/Baseball-Ink/106910028062" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+        <li><a href="http://twitter.com/BaseballInk" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
       </ul>
       <div class="copyright">
-        2007-2017 &copy; Baseball Ink. Design: <a href="https://templated.co">TEMPLATED</a>.
+        Copyright 2000-2017 &copy; <a href="http://www.baseballink.com/about">Baseball Ink</a>. Design: <a href="https://templated.co">TEMPLATED</a>.
       </div>
     </footer>
     <!-- Scripts -->
@@ -55,3 +336,4 @@
     <script src="assets/js/main.js"></script>
   </body>
 </html>
+
