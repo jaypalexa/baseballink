@@ -4,13 +4,13 @@
     <title>Baseball Ink {{ page.title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
   </head>
   <body>
     <!-- Header -->
     <header id="header">
-      <a href="{{ site.baseurl }}" class="logo">Baseball<strong>Ink</strong></a>
+      <a href="{{ site.url }}{{ site.baseurl }}" class="logo">Baseball<strong>Ink</strong></a>
       <nav>
         <a href="#menu">Menu</a>
       </nav>
@@ -18,11 +18,11 @@
     <!-- Nav -->
     <nav id="menu">
       <ul class="links">
-        <li><a href="{{ site.baseurl }}">Home</a></li>
-        <li><a href="{{ site.baseurl }}/pages/avg-war.html">Average WAR</a></li>
-        <li><a href="{{ site.baseurl }}/pages/promotion-relegation.html">Promotion/Relegation</a></li>
-        <li><a href="{{ site.baseurl }}/pages/baseball-limericks.html">Baseball Limericks</a></li>
-        <li><a href="{{ site.baseurl }}/pages/about-us.html">About Us</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">Average WAR</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/promotion-relegation.html">Promotion/Relegation</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/baseball-limericks.html">Baseball Limericks</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">About Us</a></li>
       </ul>
     </nav>
     <table width="1000px" cellpadding="2" cellspacing="2">
@@ -33,12 +33,12 @@
             <table width="244px" cellpadding="1" cellspacing="1">
               <tr>
                 <td align="center" width="244px">
-                  <a href="{{ site.baseurl }}" title="Baseball Ink"><img src="assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
+                  <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink"><img src="assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
                 </td>
               </tr>
               <tr>
                 <td align="center" width="244px">
-                  <h5><a href="{{ site.baseurl }}" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
+                  <h5><a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
                 </td>
               </tr>
             </table>
@@ -47,11 +47,11 @@
               <li id="admin">
                 <h4>The Dugout</h4>
                 <ul>
-                  <li><a href="{{ site.baseurl }}">Home</a></li>
-                  <li><a href="{{ site.baseurl }}/pages/avg-war.html" title="Average WAR">Average WAR</a></li>
-                  <li><a href="{{ site.baseurl }}/pages/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
-                  <li><a href="{{ site.baseurl }}/pages/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
-                  <li><a href="{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
+                  <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
+                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html" title="Average WAR">Average WAR</a></li>
+                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
+                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
+                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
                 </ul>
               </li>
               <!-- RECENT ARTICLES -->
@@ -324,7 +324,7 @@
         <li><a href="http://twitter.com/BaseballInk" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
       </ul>
       <div class="copyright">
-        Copyright 2000-2017 &copy; <a href="http://www.baseballink.com/about">Baseball Ink</a>. Design: <a href="https://templated.co">TEMPLATED</a>.
+        Copyright 2000-2017 &copy; <a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">Baseball Ink</a>. Design: <a href="https://templated.co">TEMPLATED</a>.
       </div>
     </footer>
     <!-- Scripts -->
