@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BaseballInk
+title: 
 tagline: Baseball The Way It Was Meant To Be
 description:  
 ---
