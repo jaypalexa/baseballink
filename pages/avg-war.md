@@ -1,6 +1,6 @@
 ---
 layout: default
-title: - AvgWAR
+title: • AvgWAR
 ---
 <div>
   <h1>AvgWAR</h1>
