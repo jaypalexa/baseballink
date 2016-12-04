@@ -4,13 +4,13 @@ title: • About Baseball Ink
 ---
 <h1>About Baseball Ink</h1>
 <div class="storycontent">
-  <p><img src="{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
-  <p><img src="{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
   <h3>Our Staff and Contributors</h3>
   <table border="0" cellspacing="3" cellpadding="3">
     <tbody>
       <tr>
-        <td><img class="alignleft size-full" title="SamM" src="{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> SamM</li>
@@ -18,7 +18,7 @@ title: • About Baseball Ink
         </td>
       </tr>
       <tr>
-        <td><img class="alignleft size-full" title="TommyT" src="{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> TommyT</li>
@@ -26,7 +26,7 @@ title: • About Baseball Ink
         </td>
       </tr>
       <tr>
-        <td><img class="alignleft size-full" title="TheUmpire" src="{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /></td>
+        <td><img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /></td>
         <td>
           <ul>
             <li> TheUmpire</li>
