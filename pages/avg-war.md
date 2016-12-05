@@ -1,6 +1,6 @@
 ---
 layout: default
-title: • AvgWAR
+title: AvgWAR
 ---
 <h1>Average WAR</h1>
 <div class="storycontent">
