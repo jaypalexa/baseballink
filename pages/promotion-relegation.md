@@ -3,7 +3,7 @@ layout: default
 title: Promotion/Relegation
 ---
 <h1>Promotion/Relegation</h1>
-<div class="storycontent">
+<div class="storycontent post">
 <p>In my imaginary new system, MLB would combine the National League and American League into one Baseball Premier League (BPL) comprising the current 30 major league teams.</p>
 <p>The top eight BPL teams would have a playoff consisting of three rounds of seven-game series. Seedings would be based on overall record (using run differential as a tie-breaker, if needed). 1 vs 8, 2 vs 7, etc., — higher seed hosting — culminating in a World Series. This would be the same number of rounds in the current MLB playoffs.</p>
 <p>The Triple-A Pacific Coast League and International League would combine to form a Baseball League 2 (BL2). No longer would this tier be affiliated with major league (BPL) clubs.</p>
