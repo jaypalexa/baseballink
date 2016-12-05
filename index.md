@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Home
 tagline: Baseball The Way It Was Meant To Be
 description:  
 ---
