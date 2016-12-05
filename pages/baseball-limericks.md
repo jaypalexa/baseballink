@@ -1,6 +1,6 @@
 ---
 layout: default
-title: • Baseball Limericks
+title: Baseball Limericks
 ---
 <h1>Baseball Limericks</h1>
 <div class="storycontent">
