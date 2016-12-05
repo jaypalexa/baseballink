@@ -25,8 +25,3 @@ description:
 <ul>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/baseball-limericks.html">Baseball Limericks</a></li>
 </ul>
-
----
-
-[Github repository](https://github.com/jaypalexa/baseballink) for this site.
-
