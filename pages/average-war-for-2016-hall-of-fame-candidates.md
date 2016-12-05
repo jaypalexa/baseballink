@@ -1,6 +1,6 @@
 ---
 layout: default
-title: • Average WAR for 2016 Hall of Fame Candidates
+title: Average WAR for 2016 Hall of Fame Candidates
 ---
 <h1>Average WAR for 2016 Hall of Fame Candidates</h1>
 <div class="meta">December 17, 2015 by TheUmpire | <a class="post-edit-link" href="http://www.baseballink.com/wordpress/wp-admin/post.php?post=2989&#038;action=edit">Edit This</a></div>
