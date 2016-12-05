@@ -3,7 +3,7 @@ layout: default
 title: Baseball Limericks
 ---
 <h1>Baseball Limericks</h1>
-<div class="storycontent">
+<div class="storycontent post">
   <h3>Albert Pujols</h3>
   <p><em>by TheUmpire</em><br />
     If pitching a shutout is one of your goals<br />
