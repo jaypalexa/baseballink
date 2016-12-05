@@ -16,7 +16,7 @@ title: Average WAR for 2013 Hall of Fame Candidates
 <li>0-2 Reserve </li>
 <li>&lt;0 Replacement Level </li>
 </ul>
-<p>It is our proposal that players having an <a href="http://www.baseballink.com/average-war">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+<p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
 <table style="font-family: arial; font-size: 8pt;" width="250" border="1" cellspacing="1" cellpadding="2">
 <tbody>
 <tr style="background-color: #000000; color: #ffffff; font-weight: bold;">
