@@ -3,7 +3,7 @@ layout: default
 title: About Baseball Ink
 ---
 <h1>About Baseball Ink</h1>
-<div class="storycontent">
+<div class="storycontent post">
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
   <h3>Our Staff and Contributors</h3>
