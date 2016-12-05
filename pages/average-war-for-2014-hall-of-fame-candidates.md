@@ -8,7 +8,7 @@ title: Average WAR for 2014 Hall of Fame Candidates
 <p><a title="Todd Jones" href="http://en.wikipedia.org/wiki/File:ToddJones.jpg" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="Todd Jones" border="0" alt="Todd Jones" align="right" src="{{ site.url }}{{ site.baseurl }}/images/todd_jones.jpg" width="183" height="260" /></a></p>
 <p><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml" target="_blank">Mike Mussina</a> leads the pack of first-year candidates.</p>
 <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
-<p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/average-war">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+<p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
 <ul>
 <li>8+ MVP Quality </li>
 <li>5+ All-Star Quality </li>
