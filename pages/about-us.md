@@ -1,6 +1,6 @@
 ---
 layout: default
-title: • About Baseball Ink
+title: About Baseball Ink
 ---
 <h1>About Baseball Ink</h1>
 <div class="storycontent">
