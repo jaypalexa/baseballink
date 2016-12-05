@@ -4,7 +4,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
 ---
 <h1>Average WAR for 2012 Hall of Fame Candidates</h1>
 <div class="meta">December 18, 2011 by TheUmpire</div>
-<div class="storycontent">
+<div class="storycontent post">
 <p><a title="Jeff Bagwell" href="http://commons.wikimedia.org/wiki/File:The_Killer_Bs.jpg" target="_blank"><img style="margin: 0px 0px 10px 10px; display: inline; border-width: 0px;" title="Jeff Bagwell" src="{{ site.url }}{{ site.baseurl }}/assets/images/jeff_bagwell.jpg" alt="Jeff Bagwell" width="129" height="157" align="right" border="0" /></a> <a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> tops the list again for Baseball Hall of Fame candidates.  None of the first-year 2012 candidates makes the cut.</p>
 <p><a href="http://www.baseball-reference.com/players/j/jordabr01.shtml">Brian Jordan</a> leads the pack of non-worthy rookies, largely due to an impressive defensive WAR.</p>
 <p><a href="http://www.baseball-reference.com/players/w/womacto01.shtml">Tony Womack</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year&#8217;s Lenny Harris</a>.</p>
