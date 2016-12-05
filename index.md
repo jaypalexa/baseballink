@@ -15,15 +15,11 @@ description:
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
 </ul>
 
-<br/>
-
 <h1>Promotion/Relegation</h1>
 <ul>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/promotion-relegation.html">Promotion/Relegation Tables</a></li>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/introducing-promotion-and-relegation-to-professional-baseball.html">Introducing Promotion and Relegation to Professional Baseball</a></li>
 </ul>
-
-<br/>
 
 <h1>Baseball Limericks</h1>
 <ul>
