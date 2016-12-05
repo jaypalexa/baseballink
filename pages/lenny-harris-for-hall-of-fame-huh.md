@@ -4,7 +4,7 @@ title: Lenny Harris for Hall of Fame...huh?
 ---
 <h1>Lenny Harris for Hall of Fame...huh?</h1>
 <div class="meta">December 27, 2010 by TheUmpire</div>
-<div class="storycontent">
+<div class="storycontent post">
   <p><a title="Lenny Harris" href="http://commons.wikimedia.org/wiki/File:Lenny_Harris.JPG" target="_blank">
   <img style="margin: 0px 0px 10px 10px; display: inline; border: 0pt none;" title="Lenny Harris" src="{{ site.url }}{{ site.baseurl }}/assets/images/lenny_harris.jpg" border="0" alt="Lenny Harris" width="158" height="137" align="right" /></a> 
   If you suffer from credibility issues, what do you do about it?  
