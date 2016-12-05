@@ -19,6 +19,7 @@ Some things we like to do are:
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
 </ul>
 
 ---
