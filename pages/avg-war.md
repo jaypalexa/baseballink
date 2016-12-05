@@ -153,12 +153,14 @@ title: AvgWAR
       -->
   </style>
   <p><a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.</p>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2015-hall-of-fame-candidates.html">AvgWAR for 2015 Hall of Fame Candidates</a></li>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
-<li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
+  <div style="margin-left: 12px;">
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2015-hall-of-fame-candidates.html">AvgWAR for 2015 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
+</div>
   <form name="calculator">
     <p>
       For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
