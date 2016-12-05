@@ -6,7 +6,7 @@ title: Lenny Harris for Hall of Fame...huh?
 <div class="meta">December 27, 2010 by TheUmpire</div>
 <div class="storycontent">
   <p><a title="Lenny Harris" href="http://commons.wikimedia.org/wiki/File:Lenny_Harris.JPG" target="_blank">
-  <img style="margin: 0px 0px 10px 10px; display: inline; border: 0pt none;" title="Lenny Harris" src="{{ site.url }}{{ site.baseurl }}/images/lenny_harris.jpg" border="0" alt="Lenny Harris" width="158" height="137" align="right" /></a> 
+  <img style="margin: 0px 0px 10px 10px; display: inline; border: 0pt none;" title="Lenny Harris" src="{{ site.url }}{{ site.baseurl }}/assets/images/lenny_harris.jpg" border="0" alt="Lenny Harris" width="158" height="137" align="right" /></a> 
   If you suffer from credibility issues, what do you do about it?  
   <a href="http://bbwaa.com/2010/11/2011-hof-ballot/" target="_blank">Nominate Lenny Harris for the Hall of Fame</a>, of course.</p>
   <p>The <a href="http://bbwaa.com/" target="_blank">Baseball Writers&#8217; Association of America</a> (BBWAA) is responsible for electing inductees to the National Baseball Hall of Fame in Cooperstown, NY.  With some Steroid Era players now up for consideration, the BBWAA finds itself in the midst of one of baseball&#8217;s most contentious debates.  One overly-dramatic and illogical writer even suggests that voting for a PED user is analogous to <a href="http://www.pressdemocrat.com/article/20101220/NEWS/101229944?p=all&amp;tc=pgall&amp;tc=ar" target="_blank">releasing a convicted murderer</a>.</p>
@@ -14,8 +14,8 @@ title: Lenny Harris for Hall of Fame...huh?
   <blockquote>
     <p>&#8220;Voting shall be based upon the player’s record, playing ability, integrity, sportsmanship, character, and contributions to the team(s) on which the player played&#8221;</p>
   </blockquote>
-  <p>&#8230;but when you also have writers <a href="http://www.baseballink.com/archives/stories/marty-noble-is-not-4061059" target="_blank">deliberately excluding first-ballot-worthy players</a> &#8212; or <a href="http://www.baseballink.com/archives/stories/mariotti-volunteers-to-be-thrown-out-of-the-bbwaa-4061053" target="_blank">not voting at all</a> &#8212; then your organization has a problem.<br />
-    <span id="more-2151"></span><br />
+  <p>&#8230;but when you also have writers <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100105&content_id=7878286&vkey=news_mlb&fext=.jsp&c_id=mlb" target="_blank">deliberately excluding first-ballot-worthy players</a> &#8212; or <a href="http://espnradio.espn.go.com/espnradio/podcast/index" target="_blank">not voting at all</a> &#8212; then your organization has a problem.<br />
+    <br />
     Which brings us to <a href="http://www.baseball-reference.com/players/h/harrile01.shtml" target="_blank">Lenny Harris</a>.
   </p>
   <p>I appreciate that his “Range Factor/9Inn as 2B” of 6.09 in 1992 led the National League (when he was also second in errors).  And, sure, the guy has a 0.00 ERA and a SO/9 of 9.0.  But how on Earth does a career .269 hitter with 37(!) HR and an OPS of .667 even get <em>considered </em>for the ballot?  (Don&#8217;t get me started on <a href="http://www.baseball-reference.com/players/r/rueteki01.shtml" target="_blank">Kirk Rueter</a>.)</p>
