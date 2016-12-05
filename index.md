@@ -4,13 +4,6 @@ title: Home
 tagline: Baseball The Way It Was Meant To Be
 description:  
 ---
-
-Some things we like to do are:
-<ul>
-  <li>Drive down roads</li>
-  <li>Think 'bout pancakes</li>
-</ul>
----
 <h1>Average WAR</h1>
 <ul>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">AvgWAR Explained</a></li>
@@ -22,9 +15,22 @@ Some things we like to do are:
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
 </ul>
 
+<br/>
+
+<h1>Promotion/Relegation</h1>
+<ul>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/promotion-relegation.html">Promotion/Relegation Tables</a></li>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/introducing-promotion-and-relegation-to-professional-baseball.html">Introducing Promotion and Relegation to Professional Baseball</a></li>
+</ul>
+
+<br/>
+
+<h1>Baseball Limericks</h1>
+<ul>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/baseball-limericks.html">Baseball Limericks</a></li>
+</ul>
+
 ---
 
 [Github repository](https://github.com/jaypalexa/baseballink) for this site.
-
-See more turtle goodness [on TurtleGeek.com](http://www.turtlegeek.com).
 
