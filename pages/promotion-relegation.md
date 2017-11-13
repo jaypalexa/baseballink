@@ -14,7 +14,8 @@ title: Promotion/Relegation
 <p>As with the BL2, the next four teams in the BL3 standings would play a two-round series of seven games each, seeded by overall record, home field advantage going to the team with the better record. Winner of this BL3 promotion playoff would move up to the BL2.</p>
 <p>The Single-A structure could still be used by the upper three leagues as a farm system.</p>
 <p>As <a href="{{ site.url }}{{ site.baseurl }}/pages/introducing-promotion-and-relegation-to-professional-baseball">Sam says</a>, the prospect of relegation keeps fans of poor performing teams interested (albeit not happily!) while allowing for a “natural order” of the better teams rising to the higher leagues (and more money) and worse teams being demoted due to lack of performance.</p>
-<p>Lots of current baseball tradition would have to be sacrificed, and stadium rules and scheduling would be a challenge, but the competition could be as intriguing as the <a href="http://www.premierleague.com/" target="_blank">English Premier League</a>!</p>
+<p>Lots of current baseball tradition would have to be sacrificed, and stadium rules and scheduling would be a challenge, but the competition could be as intriguing as the <a href="http://www.premierleague.com/" target="_blank">Barclays English Premier League</a>!</p>
+
 <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
 <tbody>
 <tr style="background-color: black; color: white; font-weight: bold;">
@@ -25,6 +26,12 @@ title: Promotion/Relegation
 <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
 <tbody>
 <tr style="background-color: lightgray; font-weight: bold;">
+<td>BPL</td>
+<td>Team</td>
+<td>W</td>
+<td>L</td>
+<td>RD</td>
+</tr>
 <tr style="background-color: lightgreen;"><td>NL-W</td><td>**Los Angeles</td><td>104</td><td>58</td><td>190</td></tr>
 <tr style="background-color: lightgreen;"><td>AL-C</td><td>*Cleveland</td><td>102</td><td>60</td><td>254</td></tr>
 <tr style="background-color: lightgreen;"><td>AL-W</td><td>***Houston</td><td>101</td><td>61</td><td>196</td></tr>
@@ -152,7 +159,6 @@ title: Promotion/Relegation
 <tr><td>EAST</td><td>New Hampshire</td><td>59</td><td>80</td></tr>
 <tr><td>SOU</td><td>Mississippi</td><td>58</td><td>80</td></tr>
 <tr><td>SOU</td><td>Birmingham</td><td>53</td><td>85</td></tr>
-
 </tbody>
 </table>
 </td>
@@ -161,10 +167,10 @@ title: Promotion/Relegation
 </table>
 <p>The 2017 BPL first-round matchups:</p>
 <ul>
-<li>(1) St Louis Cardinals vs (8) Texas Rangers</li>
-<li>(4) Kansas City Royals vs (5) Toronto Blue Jays</li>
-<li>(3) Chicago Cubs vs (6) Los Angeles Dodgers</li>
-<li>(2) Pittsburgh Pirates vs (7) New York Mets</li>
+<li>(1) Los Angeles Dodgers vs (8) New York Yankees</li>
+<li>(4) Washington Nationals vs (5) Arizona Diamondbacks</li>
+<li>(3) Houston Astros vs (6) Boston Red Sox</li>
+<li>(2) Cleveland Indians vs (7) Chicago Cubs</li>
 </ul>
 <p>&nbsp;</p>
 <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
@@ -268,7 +274,6 @@ title: Promotion/Relegation
 <tr style="background-color: lightpink;"><td>INTL</td><td>Norfolk</td><td>62</td><td>82</td></tr>
 <tr style="background-color: lightpink;"><td>INTL</td><td>Syracuse</td><td>61</td><td>82</td></tr>
 <tr style="background-color: lightpink;"><td>PCL</td><td>Omaha</td><td>58</td><td>82</td></tr>
-
 </tbody>
 </table>
 </td>
@@ -311,7 +316,6 @@ title: Promotion/Relegation
 <tr><td>EAST</td><td>Bowie</td><td>56</td><td>86</td></tr>
 <tr><td>EAST</td><td>Portland</td><td>55</td><td>84</td></tr>
 <tr><td>SOU</td><td>Birmingham</td><td>49</td><td>91</td></tr>
-
 </tbody>
 </table>
 </td>
