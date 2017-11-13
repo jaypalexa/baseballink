@@ -18,7 +18,7 @@ title: Promotion/Relegation
 <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
 <tbody>
 <tr style="background-color: black; color: white; font-weight: bold;">
-<td colspan="3" align="center">2015 Baseball Standings</td>
+<td colspan="3" align="center">2017 Baseball Standings</td>
 </tr>
 <tr>
 <td valign="top">
@@ -60,13 +60,13 @@ title: Promotion/Relegation
 <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td>*** = 2015 World Series winner</td>
+<td>*** = 2017 World Series winner</td>
 </tr>
 <tr>
-<td>** = 2015 World Series loser</td>
+<td>** = 2017 World Series loser</td>
 </tr>
 <tr>
-<td>* = in 2015 MLB playoffs</td>
+<td>* = in 2017 MLB playoffs</td>
 </tr>
 </tbody>
 </table>
