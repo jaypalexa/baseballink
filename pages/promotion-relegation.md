@@ -14,7 +14,7 @@ title: Promotion/Relegation
 <p>As with the BL2, the next four teams in the BL3 standings would play a two-round series of seven games each, seeded by overall record, home field advantage going to the team with the better record. Winner of this BL3 promotion playoff would move up to the BL2.</p>
 <p>The Single-A structure could still be used by the upper three leagues as a farm system.</p>
 <p>As <a href="{{ site.url }}{{ site.baseurl }}/pages/introducing-promotion-and-relegation-to-professional-baseball">Sam says</a>, the prospect of relegation keeps fans of poor performing teams interested (albeit not happily!) while allowing for a “natural order” of the better teams rising to the higher leagues (and more money) and worse teams being demoted due to lack of performance.</p>
-<p>Lots of current baseball tradition would have to be sacrificed, and stadium rules and scheduling would be a challenge, but the competition could be as intriguing as the <a href="http://www.premierleague.com/" target="_blank">Barclays English Premier League</a>!</p>
+<p>Lots of current baseball tradition would have to be sacrificed, and stadium rules and scheduling would be a challenge, but the competition could be as intriguing as the <a href="http://www.premierleague.com/" target="_blank">English Premier League</a>!</p>
 
 <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
 <tbody>
