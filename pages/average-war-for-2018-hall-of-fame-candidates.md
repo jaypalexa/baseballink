@@ -26,6 +26,7 @@ title: Average WAR for 2018 Hall of Fame Candidates
 <tr style="background-color: #000000; color: #ffffff; font-weight: bold">
 <td>Player</td>
 <td>avgWAR</td>
+</tr>
 <tr style="background-color: #ffd700"><td>Barry Bonds</td><td>8.81</td></tr>
 <tr style="background-color: #ffd700"><td>Roger Clemens</td><td>6.74</td></tr>
 <tr style="background-color: #ffd700"><td>Larry Walker</td><td>5.92</td></tr>
