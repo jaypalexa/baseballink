@@ -154,6 +154,8 @@ title: AvgWAR
   </style>
   <p><a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.</p>
   <div style="margin-left: 12px;">
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2015-hall-of-fame-candidates.html">AvgWAR for 2015 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
