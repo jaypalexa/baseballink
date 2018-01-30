@@ -200,8 +200,11 @@ title: AvgWAR
                   <td class="battingDark"><input type="text" name="battingCareerGValue" size="3" /></td>
                   <td class="battingDark"> / 162 ) =</td>
                   <td class="battingDark" style="background: black; padding: 4px;"> <span id="battingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span></td>
-                  <td style="padding-left: 6px;"><input onclick="javascript:calculateBattingAvgWar();" type="button" value="Calculate" /></td>
-                  <td><input onclick="javascript:clearBattingAvgWar();" type="button" value="Clear" /></td>
+                  <td style="padding-left: 6px;">
+					<input onclick="javascript:calculateBattingAvgWar();" type="button" value="Calculate" />
+					<br />
+					<input onclick="javascript:clearBattingAvgWar();" type="button" value="Clear" />
+				  </td>
                 </tr>
               </tbody>
             </table>
@@ -253,8 +256,10 @@ title: AvgWAR
                   <td class="pitchingDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
                   <td class="pitchingDark"> )  /  68 ) =</td>
                   <td class="pitchingDark" style="background: black; padding: 4px;"> <span id="pitchingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span></td>
-                  <td style="padding-left: 6px;"><input onclick="javascript:calculatePitchingAvgWar();" type="button" value="Calculate" /></td>
-                  <td><input onclick="javascript:clearPitchingAvgWar();" type="button" value="Clear" /></td>
+                  <td style="padding-left: 6px;">
+					<input onclick="javascript:calculatePitchingAvgWar();" type="button" value="Calculate" /><br />
+					<input onclick="javascript:clearPitchingAvgWar();" type="button" value="Clear" />
+				  </td>
                 </tr>
               </tbody>
             </table>
