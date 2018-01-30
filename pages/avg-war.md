@@ -168,14 +168,14 @@ title: AvgWAR
       For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
     </p>
     <pre><strong>avgWAR = (careerWAR / (battingCareerG / 162))</strong></pre>
-    <table id="battingMain" width="100" border="0" cellspacing="0" cellpadding="3">
+    <table id="battingMain" width="100%" border="0" cellspacing="0" cellpadding="3">
       <tbody>
         <tr>
           <td class="battingDark" style="font-size: medium; text-align: left;">Batting</td>
         </tr>
         <tr>
           <td class="battingDark">
-            <table id="battingWAR" width="100" border="0" cellspacing="0" cellpadding="2">
+            <table id="battingWAR" width="100%" border="0" cellspacing="0" cellpadding="2">
               <tbody>
                 <tr>
                   <td class="battingLight">oWAR</td>
@@ -213,14 +213,14 @@ title: AvgWAR
       For <a href="http://www.baseball-reference.com/about/pitch_glossary.shtml#162_avg">pitchers</a>, we use:
     </p>
     <pre><strong>avgWAR = (careerWAR / ((pitchingCareerG + pitchingCareerGS) / 68))</strong></pre>
-    <table id="pitchingMain" width="100" border="0" cellspacing="0" cellpadding="3">
+    <table id="pitchingMain" width="100%" border="0" cellspacing="0" cellpadding="3">
       <tbody>
         <tr>
           <td class="pitchingDark" style="font-size: medium; text-align: left;">Pitching</td>
         </tr>
         <tr>
           <td class="pitchingDark">
-            <table id="pitchingWAR" width="100" border="0" cellspacing="0" cellpadding="2">
+            <table id="pitchingWAR" width="100%" border="0" cellspacing="0" cellpadding="2">
               <tbody>
                 <tr>
                   <td class="pitchingLight">WAR</td>
