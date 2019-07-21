@@ -9,25 +9,27 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
   </head>
   <body>
-    <div class="columns is-one-quarter">
-      <div class="column menu">
-        <div class="index-masthead">
-            <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
-            <h5><a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
-          </div>
-          <ul>
-            <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html" title="Magazine">Magazine</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html" title="Average WAR">Average WAR</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/pages/pro-rel/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
-          </ul>
+    <section>
+      <div class="columns">
+        <div class="column is-one-quarter menu">
+          <div class="index-masthead">
+              <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
+              <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink" class="tagline">Baseball The Way It Was Meant To Be</a>
+            </div>
+            <ul>
+              <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html" title="Magazine">Magazine</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html" title="Average WAR">Average WAR</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/pages/pro-rel/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
+            </ul>
+        </div>
+        <div class="column is-three-quarters container" id="content" >
+          {{ content }}
+        </div>
       </div>
-      <div class="column is-three-quarters container" id="content" >
-        {{ content }}
-      </div>
-    </div>
+    </section>
     <div class="clearer"></div>
     <footer class="footer">
       <div class="content has-text-centered">

@@ -12,11 +12,15 @@ div.aligncenter, .aligncenter {
   float: right;
 }
 
-a {
+a, a:hover {
   color: navy;
 }
 
-a, a:visited, .meta a, .meta, #header a, #menu ul ul li a:link, #menu ul ul li a, #menu ul ul li a:visited {
+a:hover {
+  text-decoration: underline;
+}
+
+a, a:visited {
   text-decoration: none;
 }
 
@@ -25,9 +29,17 @@ a img {
 }
 
 body {
-  background: no-repeat scroll top left;
-  font-family: georgia, "times new roman", times, serif;
-  font-size: 13px;
+  font-family: Georgia, "Times New Roman", Times, Serif;
+}
+
+h1 {
+  font-size: 150%;
+  font-weight: bolder;
+  padding-top: 6px;
+}
+
+.breadcrumb {
+  margin-top: 6px;
 }
 
 .clearer {
@@ -35,16 +47,14 @@ body {
 }
 
 .footer {
-  border-top: 1px dotted silver;
-  margin-top: 5px;
-  padding: 10px 5px;
+  margin-top: 12px;
+  padding: 2rem 1.5rem 2rem;
 }
 
 .menu {
   border-right: 2px solid silver;
-  padding-left: 4px;
-  padding-right: 4px;
-}
+  padding-left: 24px;
+  }
 
 /* --- INDEX --- */
 
@@ -54,8 +64,14 @@ body {
 }
 
 .index-masthead {
+  font-size: smaller;
   margin: 1px auto;
   text-align: center;
+}
+
+.index-masthead.tagline {
+  display: block;
+  font-size: smaller;
 }
 
 .index-sidebar-left {
