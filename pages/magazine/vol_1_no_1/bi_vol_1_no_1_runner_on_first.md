@@ -13,8 +13,8 @@ title: Vol. 1, No. 1 - June 2000 - Runner On First
 
 <section class="storycontent">
 
-<pre style="font-face: Courier">
-            <strong>runner on first</strong>
+  <pre style="font-family: Courier; width: 570px;">
+                 <strong>runner on first</strong>
 
 
 
@@ -49,9 +49,10 @@ q  u  i  c  k  s  n  a  p  t  h  r  o  w  t  o  f  i  r  s  t
 
 
                                             back to the bench
-</pre>
-<p>
-&copy; 1999 John P. Alexander<br />
-Atlanta, GA
-</p>
+  </pre>
+  
+  <p>
+  &copy; 1999 John P. Alexander<br />
+  Atlanta, GA
+  </p>
 </section>
