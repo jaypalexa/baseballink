@@ -116,6 +116,14 @@ h1 {
   padding-right: .5rem;
 }
 
+.font-bolder {
+  font-weight: bolder;
+}
+
+.font-larger {
+  font-size: larger;
+}
+
 .footer {
   margin-top: 12px;
   padding: 2rem 1.5rem 2rem;
@@ -137,6 +145,10 @@ h1 {
 
 .index-menu {
   border-right: 2px solid silver;
+}
+
+.index-menu-items {
+  margin-top: 1rem;
 }
 
 .storycontent p {
