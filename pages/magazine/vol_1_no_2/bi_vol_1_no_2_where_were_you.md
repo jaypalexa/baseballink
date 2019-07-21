@@ -1,3 +1,4 @@
+---
 layout: default
 title: Vol. 1, No. 2 - September 2000 - Table of Contents
 ---
