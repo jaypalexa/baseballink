@@ -2,9 +2,19 @@
 layout: default
 title: Vol. 1, No. 1 - June 2000 - Runner On First
 ---
-<PRE>
-<FONT FACE="Courier">
-                     <B>runner on first</B>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_home.html">Vol. 1, No. 1 - June 2000</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Runner On First</a></li>
+  </ul>
+</nav>
+
+<section class="storycontent">
+
+<pre style="font-face: Courier">
+            <strong>runner on first</strong>
 
 
 
@@ -39,9 +49,9 @@ q  u  i  c  k  s  n  a  p  t  h  r  o  w  t  o  f  i  r  s  t
 
 
                                             back to the bench
-</PRE>
-<BR>
-<BR>
-<BR>
-&copy; 1999 John P. Alexander<BR>
-Atlanta, GA<BR>
+</pre>
+<p>
+&copy; 1999 John P. Alexander<br />
+Atlanta, GA
+</p>
+</section>

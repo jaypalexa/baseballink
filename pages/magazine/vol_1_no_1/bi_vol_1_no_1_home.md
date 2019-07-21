@@ -22,7 +22,7 @@ A funny thing happened the other day. While visiting a lifelong friend, I had oc
 <li><a href="bi_vol_1_no_1_the_sox_and_i.html"><strong>The Sox and I</strong></a>, by Sandra Pollock</li>
 <li><a href="bi_vol_1_no_1_ryans_corner.html"><strong>Ryan's Corner</strong></a>, by Ryan</li>
 <li><a href="bi_vol_1_no_1_first_curve.html"><strong>The First Curveball I Ever Saw</strong></a>, by Dave Quinn</li>
-<li><a href="bi_vol_1_no_1_runner_on_first.html"><strong>Runner on First - a Poem</strong></a>, by J. P. Alexander</li>
-<li><a href="bi_vol_1_no_1_fear_strikes_out.html"><strong>Tommy T's Baseball Flix Pix</a></strong>, by Tom Tilert</li>
+<li><a href="bi_vol_1_no_1_runner_on_first.html"><strong>Runner on First</strong></a>, by J. P. Alexander</li>
+<li><a href="bi_vol_1_no_1_fear_strikes_out.html"><strong>Tommy T's Baseball Flix Pix</strong></a>, by Tom Tilert</li>
 </ul>
 

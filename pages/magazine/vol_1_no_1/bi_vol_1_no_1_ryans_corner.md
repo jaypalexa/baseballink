@@ -12,12 +12,14 @@ title: Vol. 1, No. 1 - June 2000 - Ryan's Corner
 </nav>
 
 <section class="storycontent">
-  <h1><img src="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/images/ryanlogo_xsm.gif">Ryan's Corner</h1>
+  <img src="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/images/ryanlogo_xsm.gif" alt="Ryan's Corner" title="Ryan's Corder"/>
+  
+  <h1>Ryan's Corner</h1>
 
   <p>
     <span class="font-bolder font-larger">B</span >aseball is an American sport which has fame and legend of all sort.
   </p>
-  
+
   <p>
     <span class="font-bolder font-larger">A</span>ll of the time you will hear about it, so when you do, don't retort it.
   </p>
