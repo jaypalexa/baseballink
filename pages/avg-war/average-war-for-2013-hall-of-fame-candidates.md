@@ -4,7 +4,7 @@ title: Average WAR for 2013 Hall of Fame Candidates
 ---
 <h1>Average WAR for 2013 Hall of Fame Candidates</h1>
 <div class="meta">December 6, 2012 by TheUmpire</div>
-<div class="storycontent post">
+<div class="storycontent">
 <p><a href="http://commons.wikimedia.org/wiki/File:Barry_Bonds_2006-05-08.jpg" target="_blank"><img style="margin: 0px 0px 10px 10px; display: inline; border: 0px;" title="Barry Bonds" src="{{ site.url }}{{ site.baseurl }}/assets/images/barry_bonds2.jpg" alt="Barry Bonds" width="161" height="232" align="right" border="0" /></a> Led by <a href="http://www.baseball-reference.com/players/b/bondsba01.shtml" target="_blank">Barry Bonds</a>, this year’s ballot features five avgWAR 5+ players.  <a href="http://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a> ain’t one of ‘em, despite his 609 career home runs.</p>
 <p><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> leads the pack of first-year candidates.</p>
 <p><a href="http://www.baseball-reference.com/players/m/mesajo01.shtml">José Mesa</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>

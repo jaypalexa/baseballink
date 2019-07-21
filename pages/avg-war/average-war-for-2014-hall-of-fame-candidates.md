@@ -4,7 +4,7 @@ title: Average WAR for 2014 Hall of Fame Candidates
 ---
 <h1>Average WAR for 2014 Hall of Fame Candidates</h1>
 <div class="meta">January 1, 2014 by TheUmpire</div>
-<div class="storycontent post">
+<div class="storycontent">
 <p><a title="Todd Jones" href="http://en.wikipedia.org/wiki/File:ToddJones.jpg" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="Todd Jones" border="0" alt="Todd Jones" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/todd_jones.jpg" width="183" height="260" /></a></p>
 <p><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml" target="_blank">Mike Mussina</a> leads the pack of first-year candidates.</p>
 <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>

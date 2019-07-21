@@ -4,7 +4,7 @@ title: Average WAR for 2015 Hall of Fame Candidates
 ---
 <h1>Average WAR for 2015 Hall of Fame Candidates</h1>
 <div class="meta">December 31, 2014 by TheUmpire</div>
-<div class="storycontent post">
+<div class="storycontent">
 <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg" target="_blank"><img style="border-right-width: 0px; margin: 0px 0px 10px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Eddie Guardado" border="0" alt="Eddie Guardado" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a>
 <p><a href="http://www.baseball-reference.com/players/m/martipe02.shtml">Pedro Martinez</a> leads the pack of first-year candidates.</p>
 <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>

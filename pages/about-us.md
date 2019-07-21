@@ -2,18 +2,25 @@
 layout: default
 title: About Baseball Ink
 ---
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">About Baseball Ink</a></li>
+  </ul>
+</nav>
+
 <h1>About Baseball Ink</h1>
-<div class="storycontent post">
+<div class="storycontent">
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
   <h3>Our Staff and Contributors</h3>
-  <div style="display: inline-block;">
+  <div class="about-us-contributor">
     <img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /> SamM
   </div>
-  <div style="display: inline-block;">
+  <div class="about-us-contributor">
     <img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /> TommyT
   </div>
-  <div style="display: inline-block;">
+  <div class="about-us-contributor">
     <img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /> TheUmpire
   </div>
 

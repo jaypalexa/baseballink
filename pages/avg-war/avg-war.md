@@ -3,7 +3,7 @@ layout: default
 title: AvgWAR
 ---
 <h1>Average WAR</h1>
-<div class="storycontent post">
+<div class="storycontent">
   <p>
     <script type="text/javascript" language="javascript">
       function calculateBattingCareerWar()

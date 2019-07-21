@@ -6,7 +6,7 @@ title: Average WAR for 2018 Hall of Fame Candidates
 <!--
 <div class="meta">November 17, 2017 by TheUmpire</div>
 -->
-<div class="storycontent post">
+<div class="storycontent">
 <!--
 <p><a title="Brad Ausmus" href="https://en.wikipedia.org/wiki/Brad_Ausmus#/media/File:Brad_Ausmus_on_August_1,_2015.jpg" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="brad_ausmus" border="0" alt="brad_ausmus" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/brad_ausmus.jpg" width="146" height="217" /></a></p>
 <p><a href="http://www.baseball-reference.com/players/g/griffke02.shtml">Ken Griffey</a> leads the pack of first-year candidates.</p>

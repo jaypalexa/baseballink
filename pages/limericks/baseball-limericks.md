@@ -2,8 +2,15 @@
 layout: default
 title: Baseball Limericks
 ---
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Baseball Limericks</a></li>
+  </ul>
+</nav>
+
 <h1>Baseball Limericks</h1>
-<div class="storycontent post">
+<div class="storycontent">
   <h3>Albert Pujols</h3>
   <p><em>by TheUmpire</em><br />
     If pitching a shutout is one of your goals<br />
@@ -39,7 +46,6 @@ title: Baseball Limericks
   <h3>Ernie Banks</h3>
   <p><em>by BennettO</em><br />
     When you ask Mr. Cub Ernie Banks<br />
-    Asking “What’s he done lately to please us?”<br />
     “How could you play with inferior ranks?”<br />
     What with two MVP’s<br />
     Five hundred homers to please?<br />
