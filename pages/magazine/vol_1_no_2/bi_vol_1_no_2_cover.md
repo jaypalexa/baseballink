@@ -1,24 +1,16 @@
-<HTML>
+---
+layout: default
+title: Vol. 1, No. 2 - September 2000 - Cover
+---
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_2/bi_vol_1_no_2_home.html">Vol. 1, No. 2 - September 2000</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Cover</a></li>
+  </ul>
+</nav>
 
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Vol. 1, No. 2 - September 2000</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY CLASS="Invert">
-<A HREF="bi_vol_1_no_2_home.html" CLASS="Invert" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-<BR>
-
-
-<CENTER>
-<H1>Vol. 1, No. 2 - September 2000</H1>
-<IMG SRC="images/bi_vol_1_no_2_cover.jpg">
-</CENTER>
-
-<BR>
-<A HREF="bi_vol_1_no_2_home.html" CLASS="Invert" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-
-</BODY>
-
-</HTML>
+<section class="storycontent">
+  <img src="images/bi_vol_1_no_2_cover.jpg">
+</section>

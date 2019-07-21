@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vol. 1, No. 1 - June 2000 - Table of Contents
+title: Vol. 1, No. 2 - September 2000 - Table of Contents
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
