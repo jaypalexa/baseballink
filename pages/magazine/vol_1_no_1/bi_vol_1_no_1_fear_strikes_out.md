@@ -7,7 +7,7 @@ title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix
     <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_home.html">Vol. 1, No. 1 - June 2000</a></li>
-    <li class="is-active"><a href="#" aria-current="page">Tommy T's Baseball Flix Pix</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Tommy T's Baseball Flix Pix - Fear Strikes Out</a></li>
   </ul>
 </nav>
 
@@ -17,7 +17,7 @@ title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix
 <h2>Fear Strikes Out  (1957)</h2>
 
 <p>
-  As the back of the Video box says: &quot;The powerful true story of Boston Red Sox outfielder, Jimmy Piersall who struggled throughout and following his career with a foe much tougher than a 90-m.p.h. fastball - mental illness.&quot; Jim Piersall is the guy who ran around the bases backward to celebrate his 100th career home run.
+  As the back of the video box says: &quot;The powerful true story of Boston Red Sox outfielder, Jimmy Piersall who struggled throughout and following his career with a foe much tougher than a 90-m.p.h. fastball - mental illness.&quot; Jim Piersall is the guy who ran around the bases backward to celebrate his 100th career home run.
 </p>
 
 <p>
