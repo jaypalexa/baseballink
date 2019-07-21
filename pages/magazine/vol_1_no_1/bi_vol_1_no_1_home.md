@@ -2,12 +2,16 @@
 layout: default
 title: Vol. 1, No. 1 - June 2000 - Table of Contents
 ---
-<h2>Vol. 1, No. 1 - June 2000</h2>
-<h3>Table of Contents</h3>
+<ul class="breadcrumb">
+  <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
+  <li>Vol. 1, No. 1 - June 2000</li>
+</ul>
+
+<h1>Table of Contents</h1>
 <ul>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_cover.html">The Cover</a></li>
-<br />
-<a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_letter_from_publisher.html">Letter from the Publisher</a></B></li>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_letter_from_publisher.html">Letter from the Publisher</a></li>
 </ul>
 <!-- <br>
 <li><a href="bi_vol_1_no_1_bona_allen_shoemakers.html"><B>The Bona Allen Shoemakers</B></a>, by J. P. Alexander</li><br>

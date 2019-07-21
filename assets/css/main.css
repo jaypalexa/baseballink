@@ -12,42 +12,6 @@ div.aligncenter, .aligncenter {
   float: right;
 }
 
-.wp-caption {
-  -khtml-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  background: #f3f3f3;
-  border-radius: 3px;
-  margin: 10px;
-  padding-top: 4px;
-}
-
-.wp-caption, .post img.alignleft, img.alignleft, .post img.alignright, img.alignright {
-  border: 1px solid #DDD;
-}
-
-.wp-caption, #footer1, #footer2 {
-  text-align: center;
-}
-
-.wp-caption img, .wp-caption p.wp-caption-text, body, h2, .clearer, .meta ul, .storytitle, #menu ul, #menu ul ul {
-  margin: 0;
-}
-
-.wp-caption img, body, .clearer, .meta ul, #menu ul ul {
-  padding: 0;
-}
-
-.wp-caption img {
-  border: 0 none;
-}
-
-.wp-caption p.wp-caption-text {
-  font-size: 11px;
-  line-height: 17px;
-  padding: 0 4px 5px;
-}
-
 a, .meta a, .storytitle a:link, .storytitle a {
   color: navy;
 }
@@ -310,7 +274,7 @@ ul.breadcrumb {
 
 ul.breadcrumb li {
   display: inline;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 ul.breadcrumb li+li:before {

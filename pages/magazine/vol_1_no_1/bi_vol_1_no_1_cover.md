@@ -9,5 +9,4 @@ title: Vol. 1, No. 1 - June 2000 - Cover
   <li>Cover</li>
 </ul>
 
-<h2>Vol. 1, No. 1 - June 2000</h2>
 <img src="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/images/bi_vol_1_no_1_cover.jpg">

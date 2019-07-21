@@ -1,48 +1,37 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Baseball Ink{% if page.title != 'Home' %}&nbsp;&bull;&nbsp;{{ page.title }}{% endif %}</title>
+    <title>Baseball Ink</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/bulma.css" />
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css" />
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
   </head>
   <body>
-    <table class="index-table-main" cellpadding="4" cellspacing="2">
-      <tr>
-        <td class="index-sidebar-left">
-          <div id="menu">
-            <div class="index-masthead">
-              <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
-              <h5><a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
-            </div>
-            <ul>
-              <li>
-                <ul>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html" title="Magazine">Magazine</a></li>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html" title="Average WAR">Average WAR</a></li>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/pro-rel/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
-                  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
-                </ul>
-              </li>
-            </ul>
+    <div class="columns">
+      <div class="column menu" style="border-right: 1px gray">
+        <div class="index-masthead">
+            <a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" /></a>
+            <h5><a href="{{ site.url }}{{ site.baseurl }}" title="Baseball Ink">Baseball The Way It Was Meant To Be</a></h5>
           </div>
-        </td>
-        <td class="index-vertical-bar">
-        </td>
-        <td class="index-cell-content">
-          <div id="content" class="container">
-            {{ content }}
-          </div>
-        </td>
-        <td class="index-vertical-bar">
-        </td>
-        <td class="index-sidebar-right">
-        </td>
-      </tr>
-    </table>
+          <ul>
+            <li>
+              <ul>
+                <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html" title="Magazine">Magazine</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html" title="Average WAR">Average WAR</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/pages/pro-rel/promotion-relegation.html" title="Promotion/Relegation">Promotion/Relegation</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" title="Baseball Limericks">Baseball Limericks</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html" title="About Us">About Us</a></li>
+              </ul>
+            </li>
+          </ul>
+      </div>
+      <div class="column container" id="content" >
+        {{ content }}
+      </div>
+    </div>
     <div class="clearer"></div>
     <div id="footer1">
     Copyright &copy; 2000-2019 <a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">Baseball Ink</a>
