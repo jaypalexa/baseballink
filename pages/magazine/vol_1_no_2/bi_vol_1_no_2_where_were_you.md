@@ -6,7 +6,7 @@ title: Vol. 1, No. 2 - September 2000 - Table of Contents
   <ul>
     <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
     <li><a href="../magazine.html">Magazine</a></li>
-    <li><a href="#" aria-current="page">Vol. 1, No. 2 - September 2000</a></li>
+    <li><a href="bi_vol_1_no_2_home.html">Vol. 1, No. 2 - September 2000</a></li>
     <li class="is-active"><a href="#" aria-current="page">Where Were You When McGwire Hit 62?</a></li>
   </ul>
 </nav>
