@@ -7,84 +7,30 @@ title: About Baseball Ink
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
   <h3>Our Staff and Contributors</h3>
-  <table border="0" cellspacing="3" cellpadding="3">
-    <tbody>
-      <tr>
-        <td><img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /></td>
-        <td>
-          <ul>
-            <li> SamM</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /></td>
-        <td>
-          <ul>
-            <li> TommyT</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /></td>
-        <td>
-          <ul>
-            <li> TheUmpire</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div style="display: inline-block;">
+    <img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /> SamM
+  </div>
+  <div style="display: inline-block;">
+    <img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /> TommyT
+  </div>
+  <div style="display: inline-block;">
+    <img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /> TheUmpire
+  </div>
+
   <h3>Disclaimers and All That</h3>
   <p>Not all the pictures and quoted content are ours. In such cases, the original source is noted, usually via a hyperlink.</p>
   <p>All original content within is copyrighted to the author of each item unless otherwise indicated. Presentation of content is copyrighted © 2000-2018 by Baseball Ink. Articles may be edited for clarity, content, and/or space. Offending, irrelevant, or idiotic comments may be deleted.</p>
   <p>We are not responsible for anything, explicit or implied. All rights reserved. Please contact us before using or quoting any materials herein. Mumbo. Jumbo.</p>
-  <p>
-    <!--[if gte mso 9]>
-    <xml>
-      <w:WordDocument>
-        <w:View>Normal</w:View>
-        <w:Zoom>0</w:Zoom>
-        <w:PunctuationKerning />
-        <w:ValidateAgainstSchemas />
-        <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-        <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-        <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-        <w:Compatibility>
-          <w:BreakWrappedTables />
-          <w:SnapToGridInCell />
-          <w:WrapTextWithPunct />
-          <w:UseAsianBreakRules />
-          <w:DontGrowAutofit />
-        </w:Compatibility>
-        <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
-      </w:WordDocument>
-    </xml>
-    <![endif]--><!--[if gte mso 9]>
-    <xml>
-      <w:LatentStyles DefLockedState="false" LatentStyleCount="156"> </w:LatentStyles>
-    </xml>
-    <![endif]--><!--[if !mso]><span class="mceItemObject"   classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></span>
-    <mce:style>
-    <!  st1\:*{behavior:url(#ieooui) } -->
-  </p>
-  <p>
-    <!--[endif]--> <!--[if gte mso 10]>
-    <mce:style>
-    <!   /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Table Normal"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:""; 	mso-padding-alt:0in 5.4pt 0in 5.4pt; 	mso-para-margin:0in; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman"; 	mso-ansi-language:#0400; 	mso-fareast-language:#0400; 	mso-bidi-language:#0400;} -->
-  </p>
-  <p>
-    <!--[endif]-->
-  </p>
+
   <h3>Terms and Conditions</h3>
-  <ol type="1">
-    <li class="MsoNormal">A physical or electronic      signature of a person authorized to act on behalf of the owner of an      exclusive right that is allegedly infringed;</li>
-    <li class="MsoNormal">Identification of the      copyright work claimed to have been infringed, or, if multiple copyrighted      works at a single online site are covered by a single notification, a      representative list of such works at that site;</li>
-    <li class="MsoNormal">Identification of the      material that is claimed to be infringing or to be the subject of      infringing activity and that is to be removed or access to which is to be      disabled, and information reasonably sufficient to permit us to locate the      material;</li>
-    <li class="MsoNormal">Information reasonably      sufficient to permit us to contact the complaining party;</li>
-    <li class="MsoNormal">A statement that the      complaining party has a good-faith belief that use of the material in the      manner complained of is not authorized by the copyright owner, its agent,      or the law; and</li>
-    <li class="MsoNormal">A statement that the      information in the notification is accurate, and under penalty of perjury,      that the complaining party is authorized to act on behalf of the owner of      an exclusive right that is allegedly infringed.</li>
-  </ol>
+  <ul>
+    <li>1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
+    <li>2. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</li>
+    <li>3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;</li>
+    <li>4. Information reasonably sufficient to permit us to contact the complaining party;</li>
+    <li>5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</li>
+    <li>6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+  </ul>
   <p><strong>1. Definitions.</strong></p>
   <p>“BaseballInk.com<sup><span style="font-size: 7pt;">SM</span></sup>” is an on-line service (“BASEBALL INK”) on the World Wide Web of the Internet, consisting of information services and content provided by BASEBALL INK, affiliates of BASEBALL INK and other third parties. “Subscriber” means each person who establishes or accesses a connection (“Account”) for access to and use of BASEBALL INK, or each person who views a page on the website, or each person who leaves a comment on the website.</p>
   <p><strong>2. General.</strong></p>
@@ -126,7 +72,6 @@ title: About Baseball Ink
   <p><strong>13. Copyrights.</strong></p>
   <p>BASEBALL INK respects the rights of all copyright holders and in this regard, BASEBALL INK has adopted and implemented a policy that provides for the termination in appropriate circumstances of subscribers and account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide BASEBALL INK’s Copyright Agent the following information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. ‘ 512:</p>
   <p><strong>14. Privacy Policy.</strong></p>
-  <p>BASEBALL INK does not collect personal information.  If you enter an e-mail address, we may contact you about an article or a comment, but we will not spam you.</p>
-  <p>Google, as a third party vendor, uses cookies to serve ads on the BASEBALL INK website.  Google’s use of the <strong><a href="http://www.doubleclick.com/privacy/faq.aspx" target="_blank">DoubleClick DART cookie</a></strong> enables it to serve ads to based on your visit to BASEBALL INK and other sites on the Internet.  These companies may use information (not including your name, address, email address, or telephone number) about your visits to BASEBALL INK and other websites in order to provide advertisements about goods and services of interest to you.  You may opt out of the use of the DART cookie by visiting the <strong><a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a></strong>.</p>
+  <p>BASEBALL INK does not collect any or personal information.</p>
 </div>
 

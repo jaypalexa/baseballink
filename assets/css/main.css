@@ -32,9 +32,12 @@ body {
   font-family: Georgia, "Times New Roman", Times, Serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bolder;
+}
+
 h1 {
   font-size: 150%;
-  font-weight: bolder;
   padding-top: 6px;
 }
 
@@ -63,13 +66,17 @@ h1 {
   width: 625px;
 }
 
+.index-main .columns {
+  min-height: 600px
+}
+
 .index-masthead {
   font-size: smaller;
   margin: 1px auto;
   text-align: center;
 }
 
-.index-masthead.tagline {
+.index-masthead .tagline {
   display: block;
   font-size: smaller;
 }
