@@ -2,11 +2,13 @@
 layout: default
 title: Vol. 1, No. 1 - June 2000 - Table of Contents
 ---
-<ul class="breadcrumb">
-  <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
-  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
-  <li>Vol. 1, No. 1 - June 2000</li>
-</ul>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Magazine</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Vol. 1, No. 1 - June 2000</a></li>
+  </ul>
+</nav>
 
 <h1>Table of Contents</h1>
 <ul>

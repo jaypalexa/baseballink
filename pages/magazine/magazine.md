@@ -2,10 +2,12 @@
 layout: default
 title: Magazine
 ---
-<ul class="breadcrumb">
-  <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
-  <li>Magazine</li>
-</ul>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li class="is-active"><a href="#" aria-current="page">Magazine</a></li>
+  </ul>
+</nav>
+
 
 <h1>Magazine</h1>
 <ul>
