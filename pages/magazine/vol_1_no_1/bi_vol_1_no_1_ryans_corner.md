@@ -1,12 +1,7 @@
-<HTML>
-
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Ryan's Corner</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY BACKGROUND="" BGCOLOR="#ffffff" TEXT="#000000" LINK="#0000ff" VLINK="#800080" ALINK="#ff0000">
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - Ryan's Corner
+---
 <IMG ALIGN="LEFT" SRC=images/ryanlogo_xsm.gif><H1>Ryan's Corner</H1>
 
 <TABLE>
@@ -64,8 +59,4 @@ March 3, Y2K
 </TD>
 </TR>
 </TABLE>
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-</BODY>
 
-</HTML>

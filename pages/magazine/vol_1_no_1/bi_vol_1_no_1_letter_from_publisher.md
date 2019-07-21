@@ -1,12 +1,7 @@
-<HTML>
-
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Vol. 1, No. 1 - Letter From The Publisher</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY>
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - Letter From The Publisher
+---
 <H2>Letter From The Publisher</H2>
 
 Welcome to Baseball Ink.  My goal is to celebrate baseball the way it was meant to be:  fun, magical, nostalgic.  You'll find no artificial turf here.  Pitchers hit for themselves.  Real beef in the hot dogs, buns freshly steamed.  Mustard only.<BR>
@@ -19,10 +14,3 @@ I look forward to hearing your suggestions and receiving your submissions.  Plea
 <BR>
 J. P. Alexander<BR>
 Publisher, Baseball Ink<BR>
-
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-</BODY>
-
-</HTML>
-

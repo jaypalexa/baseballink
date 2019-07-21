@@ -1,12 +1,8 @@
-<HTML>
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - The Sox And I
+---
 
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Vol. 1, No. 1 - June 2000 - The Sox and I</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY>
 <H1>The Sox and I</H1>
 As a pre-teen, living on the south side of Chicago, it was an easy 
 transition from plastering my bedroom walls with photos of Roy Rogers and 
@@ -32,8 +28,3 @@ Wish I could find that autograph book now!<BR>
 <BR>
 Sandra Pollock<BR>
 Roswell, Georgia<BR>
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-</BODY>
-
-</HTML>

@@ -1,12 +1,7 @@
-<HTML>
-
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Vol. 1, No. 1 - June 2000 - Luke's Birthday</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY>
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - Luke's Birthday
+---
 <H2>Luke's Birthday</H2>
 A funny thing happened the other day.  While visiting a lifelong friend, I had occasion to spend quality time with his 11-year-old son, Luke.  I found Luke sorting his collection of baseball cards and leafing through an old copy of "Beckett's Official Price Guide to Baseball Cards."  He stared directly at me and asked "MD, where are your baseball cards from when you were young?"  "In my mom's basement," I replied.  The conversation, as most with today's youth, rapidly changed direction.  Afterwards I stopped by my mom's house, ransacked her basement, and found my baseball cards from when I was 11 years old.
 <BR>
@@ -38,9 +33,3 @@ Luke, seemingly confused, stared at me and said, "Thanks!"  He sat this present 
 <BR>
 Mark Denny<BR>
 St. Louis, Missouri<BR>
-
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-</BODY>
-
-</HTML>

@@ -1,12 +1,7 @@
-<HTML>
-
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Vol. 1, No. 1 - Tommy T's Baseball Flix Pix</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY>
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix
+---
 <H1>Tommy T's Baseball Flix Pix </H1>
 <H3>Fear Strikes Out  (1957)</H3>
 As the back of the Video box says: "The powerful true story of Boston Red 
@@ -44,8 +39,4 @@ didn't fall in for the one-bagger.<BR>
 <BR>
 <BR>
 Review by Tom Tilert
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-</BODY>
 
-</HTML>

@@ -1,13 +1,7 @@
-<HTML>
-
-<HEAD>
-<LINK rel="stylesheet" type="text/css" href="../bi_styles.css" title="Baseball Ink Styles">
-<TITLE>Baseball Ink - Runner on First</TITLE>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</HEAD>
-
-<BODY>
-
+---
+layout: default
+title: Vol. 1, No. 1 - June 2000 - Runner On First
+---
 <PRE>
 <FONT FACE="Courier">
                      <B>runner on first</B>
@@ -46,17 +40,8 @@ q  u  i  c  k  s  n  a  p  t  h  r  o  w  t  o  f  i  r  s  t
 
                                             back to the bench
 </PRE>
-</FONT>
 <BR>
 <BR>
 <BR>
-<FONT SIZE=2>
-© 1999 John P. Alexander<BR>
+&copy; 1999 John P. Alexander<BR>
 Atlanta, GA<BR>
-</FONT>
-<HR>
-<A HREF="bi_vol_1_no_1_home.html" CLASS="BaseballInk" TARGET="fraViewFrame">Back to Table of Contents</A><BR>
-
-</BODY>
-
-</HTML>
