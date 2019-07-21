@@ -2,8 +2,30 @@
 layout: default
 title: AvgWAR
 ---
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Average WAR</a></li>
+  </ul>
+</nav>
+
 <h1>Average WAR</h1>
-  <section class="avg-war">
+  <section class="storycontent avg-war">
+    <p>
+      <a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.
+    </p>
+    <p>
+      <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:
+    </p>
+    <p>
+      <ul>
+        <li>8+ MVP Quality</li>
+        <li>5+ All-Star Quality</li>
+        <li>2+ Starter</li>
+        <li>0-2 Reserve</li>
+        <li>&lt;0 Replacement Level</li>
+      </ul>
+    </p>
     <form name="calculator">
       <p>
         For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
@@ -113,17 +135,6 @@ title: AvgWAR
       <p>
         The result is <strong>Average WAR (avgWAR)</strong> — the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>
-      <p><a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
-      <p>
-        <ul>
-          <li>8+ MVP Quality</li>
-          <li>5+ All-Star Quality</li>
-          <li>2+ Starter</li>
-          <li>0-2 Reserve</li>
-          <li>&lt;0 Replacement Level</li>
-        </ul>
-      </p>
-      <p><a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.</p>
       <div style="margin-left: 12px;">
         <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
         <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>

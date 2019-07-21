@@ -11,4 +11,6 @@ title: Vol. 1, No. 1 - June 2000 - Cover
   </ul>
 </nav>
 
-<img src="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/images/bi_vol_1_no_1_cover.jpg">
+<section class="storycontent">
+  <img src="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/images/bi_vol_1_no_1_cover.jpg">
+</section>
