@@ -4,6 +4,11 @@ title: Home
 tagline: Baseball The Way It Was Meant To Be
 description:  
 ---
+<h1>Magazine</h1>
+<ul>
+<li><a href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">Content from Print Editions</a></li>
+</ul>
+
 <h1>Average WAR</h1>
 <ul>
 <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html">AvgWAR Explained</a></li>

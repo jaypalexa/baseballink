@@ -1,361 +1,333 @@
-div.aligncenter,
-.aligncenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+div.aligncenter, .aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-.alignleft,
-.post img.alignleft,
-img.alignleft {
-    float: left;
+
+.alignleft, .post img.alignleft, img.alignleft {
+  float: left;
 }
-.alignright,
-.post img.alignright,
-img.alignright {
-    float: right;
+
+.alignright, .post img.alignright, img.alignright {
+  float: right;
 }
+
 .wp-caption {
-    -khtml-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    background: #f3f3f3;
-    border-radius: 3px;
-    margin: 10px;
-    padding-top: 4px;
+  -khtml-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background: #f3f3f3;
+  border-radius: 3px;
+  margin: 10px;
+  padding-top: 4px;
 }
-.wp-caption,
-.post img.alignleft,
-img.alignleft,
-.post img.alignright,
-img.alignright {
-    border: 1px solid #DDD;
+
+.wp-caption, .post img.alignleft, img.alignleft, .post img.alignright, img.alignright {
+  border: 1px solid #DDD;
 }
-.wp-caption,
-#footer1,
-#footer2 {
-    text-align: center;
+
+.wp-caption, #footer1, #footer2 {
+  text-align: center;
 }
-.wp-caption img,
-.wp-caption p.wp-caption-text,
-body,
-h2,
-.clearer,
-.meta ul,
-.storytitle,
-#menu ul,
-#menu ul ul {
-    margin: 0;
+
+.wp-caption img, .wp-caption p.wp-caption-text, body, h2, .clearer, .meta ul, .storytitle, #menu ul, #menu ul ul {
+  margin: 0;
 }
-.wp-caption img,
-body,
-.clearer,
-.meta ul,
-#menu ul ul {
-    padding: 0;
+
+.wp-caption img, body, .clearer, .meta ul, #menu ul ul {
+  padding: 0;
 }
+
 .wp-caption img {
-    border: 0 none;
+  border: 0 none;
 }
+
 .wp-caption p.wp-caption-text {
-    font-size: 11px;
-    line-height: 17px;
-    padding: 0 4px 5px;
+  font-size: 11px;
+  line-height: 17px;
+  padding: 0 4px 5px;
 }
-a,
-.meta a,
-.storytitle a:link,
-.storytitle a {
-    color: navy;
+
+a, .meta a, .storytitle a:link, .storytitle a {
+  color: navy;
 }
-a,
-a:visited,
-.meta a,
-.meta,
-#header a,
-#menu ul ul li a:link,
-#menu ul ul li a,
-#menu ul ul li a:visited {
-    text-decoration: none;
+
+a, a:visited, .meta a, .meta, #header a, #menu ul ul li a:link, #menu ul ul li a, #menu ul ul li a:visited {
+  text-decoration: none;
 }
+
 a img {
-    border: none;
+  border: none;
 }
+
 #subtitle {
-    color: #999;
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 125%;
-    font-weight: 700;
-    height: 40px;
-    margin-left: 275px;
+  color: #999;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 125%;
+  font-weight: 700;
+  height: 40px;
+  margin-left: 275px;
 }
-a:hover,
-#menu ul ul li a:hover {
-    text-decoration: underline;
+
+a:hover, #menu ul ul li a:hover {
+  text-decoration: underline;
 }
-abbr,
-acronym {
-    border-bottom: 1px dashed #999;
-    cursor: help;
+
+abbr, acronym {
+  border-bottom: 1px dashed #999;
+  cursor: help;
 }
-span.caps,
-abbr,
-acronym,
-ol#comments li p,
-.meta,
-#commentlist li ul {
-    font-size: 90%;
+
+span.caps, abbr, acronym, ol#comments li p, .meta, #commentlist li ul {
+  font-size: 90%;
 }
-span.caps,
-abbr,
-acronym {
-    letter-spacing: .07em;
+
+span.caps, abbr, acronym {
+  letter-spacing: .07em;
 }
+
 blockquote {
-    border: 1px dashed #999;
-    font-family: "courier new";
-    margin-left: 1.5em;
+  border: 1px dashed #999;
+  font-family: "courier new";
+  margin-left: 1.5em;
 }
+
 blockquote p {
-    font-family: "courier new";
-    font-size: 12px;
+  font-family: "courier new";
+  font-size: 12px;
 }
-blockquote,
-#comments-post,
-.post {
-    padding: 5px;
+
+blockquote, #comments-post, .post {
+  padding: 5px;
 }
-.feedback,
-li {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 14px;
-    line-height: 140%;
+
+.feedback, li {
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 14px;
+  line-height: 140%;
 }
+
 p {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 16px;
-    line-height: 140%;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 16px;
+  line-height: 140%;
 }
+
 body {
-    background: no-repeat scroll top left;
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 13px;
+  background: no-repeat scroll top left;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 13px;
 }
-body,
-h3,
-h5 a,
-#header,
-#header a,
-#menu input#s,
-#menu ul,
-#menu ul li,
-#menu ul ul li a:link,
-#menu ul ul li a {
-    color: #000;
+
+body, h3, h5 a, #header, #header a, #menu input#s, #menu ul, #menu ul li, #menu ul ul li a:link, #menu ul ul li a {
+  color: #000;
 }
+
 h1 {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 18px;
-    font-weight: 700;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 18px;
+  font-weight: 700;
 }
+
 h2 {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 125%;
-    font-weight: 700;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 125%;
+  font-weight: 700;
 }
-h3,
-.meta a,
-.meta,
-#menu ul li,
-#menu ul ul li {
-    font-family: georgia, "times new roman", times, serif;
+
+h3, .meta a, .meta, #menu ul li, #menu ul ul li {
+  font-family: georgia, "times new roman", times, serif;
 }
+
 #menu ul li {
-    font-size: 13px;
+  font-size: 13px;
 }
-h3,
-#menu ul li {
-    margin-top: 10px;
+
+h3, #menu ul li {
+  margin-top: 10px;
 }
+
 h3 {
-    font-size: 100%;
-    margin-bottom: 0;
+  font-size: 100%;
+  margin-bottom: 0;
 }
+
 h4 {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 90%;
-    margin-bottom: 0;
-    margin-top: 10px;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 90%;
+  margin-bottom: 0;
+  margin-top: 10px;
 }
+
 h5 {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 85%;
-    margin-bottom: 0;
-    margin-top: 10px;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 85%;
+  margin-bottom: 0;
+  margin-top: 10px;
 }
-ul.post-meta,
-.meta ul {
-    list-style: none;
+
+ul.post-meta, .meta ul {
+  list-style: none;
 }
-ul.post-meta span.post-meta-key,
-.divider,
-.post a,
-#menu ul,
-#menu ul li {
-    font-weight: 700;
+
+ul.post-meta span.post-meta-key, .divider, .post a, #menu ul, #menu ul li {
+  font-weight: 700;
 }
-.clearer,
-.feedback {
-    clear: both;
+
+.clearer, .feedback {
+  clear: both;
 }
+
 .divider {
-    color: silver;
-    font-size: 120%;
-    text-align: center;
+  color: silver;
+  font-size: 120%;
+  text-align: center;
 }
+
 .feedback {
-    color: #CCC;
-    margin-bottom: 20px;
+  color: #CCC;
+  margin-bottom: 20px;
 }
-.feedback,
-#menu ul ul {
-    text-align: left;
+
+.feedback, #menu ul ul {
+  text-align: left;
 }
-#comments-post,
-.post {
-    margin: 5px;
+
+#comments-post, .post {
+  margin: 5px;
 }
-ul.post-meta li,
-.meta li,
-.meta ul,
-.post img.alignleft,
-img.alignleft,
-.post img.alignright,
-img.alignright {
-    display: inline;
+
+ul.post-meta li, .meta li, .meta ul, .post img.alignleft, img.alignleft, .post img.alignright, img.alignright {
+  display: inline;
 }
-.meta a,
-.meta,
-#menu ul ul,
-#menu ul ul li {
-    font-weight: 400;
+
+.meta a, .meta, #menu ul ul, #menu ul ul li {
+  font-weight: 400;
 }
-.meta a,
-.meta,
-#menu ul ul li {
-    letter-spacing: 0;
+
+.meta a, .meta, #menu ul ul li {
+  letter-spacing: 0;
 }
-#commentform textarea,
-#commentform #url,
-#commentform #email,
-#commentform #author,
-#menu input#s {
-    background: #EEE;
-    border: 1px solid #999;
+
+#commentform textarea, #commentform #url, #commentform #email, #commentform #author, #menu input#s {
+  background: #EEE;
+  border: 1px solid #999;
 }
-#commentform textarea,
-#commentform #url,
-#commentform #email,
-#commentform #author {
-    padding: 3px;
+
+#commentform textarea, #commentform #url, #commentform #email, #commentform #author {
+  padding: 3px;
 }
+
 #commentform textarea {
-    width: 100%;
+  width: 100%;
 }
+
 #commentlist li ul {
-    border-left: 1px solid #999;
+  border-left: 1px solid #999;
 }
-#commentlist li ul,
-#menu ul,
-#menu ul ul {
-    list-style-type: none;
+
+#commentlist li ul, #menu ul, #menu ul ul {
+  list-style-type: none;
 }
+
 #footer1 {
-    border-top: 1px dotted silver;
-    color: gray;
-    font-size: 100%;
-    margin-top: 5px;
-    padding: 10px 5px;
+  border-top: 1px dotted silver;
+  color: gray;
+  font-size: 100%;
+  margin-top: 5px;
+  padding: 10px 5px;
 }
+
 #footer2 {
-    color: gray;
-    font-size: 75%;
+  color: gray;
+  font-size: 75%;
 }
+
 #header {
-    font-family: georgia, "times new roman", times, serif;
-    font-size: 340%;
-    height: 65px;
+  font-family: georgia, "times new roman", times, serif;
+  font-size: 340%;
+  height: 65px;
 }
-#header,
-#subtitle {
-    background: transparent;
-    text-align: right;
-    vertical-align: middle;
+
+#header, #subtitle {
+  background: transparent;
+  text-align: right;
+  vertical-align: middle;
 }
+
 #menu form {
-    margin: 0 0 0 13px;
+  margin: 0 0 0 13px;
 }
+
 #menu input#s {
-    width: 130px;
+  width: 130px;
 }
+
 #menu ul {
-    padding-left: 3px;
-    text-transform: uppercase;
+  padding-left: 3px;
+  text-transform: uppercase;
 }
+
 #menu ul ul {
-    font-variant: normal;
+  font-variant: normal;
 }
+
 #menu ul ul li {
-    border: 0;
-    margin-top: 0;
-    padding-left: 12px;
-    text-transform: none;
+  border: 0;
+  margin-top: 0;
+  padding-left: 12px;
+  text-transform: none;
 }
+
 #menu ul ul ul.children {
-    font-size: 142%;
-    padding-left: 4px;
+  font-size: 142%;
+  padding-left: 4px;
 }
+
 #wrapper {
-    background: #FFF no-repeat scroll top left;
-    margin: 10px auto;
-    width: 95%;
+  background: #FFF no-repeat scroll top left;
+  margin: 10px auto;
+  width: 95%;
 }
-.post img.alignleft,
-img.alignleft {
-    margin: 0 2px 2px 0;
-    padding: 1px;
+
+.post img.alignleft, img.alignleft {
+  margin: 0 2px 2px 0;
+  padding: 1px;
 }
-.post img.alignright,
-img.alignright {
-    margin: 0 0 2px 2px;
-    padding: 1px;
+
+.post img.alignright, img.alignright {
+  margin: 0 0 2px 2px;
+  padding: 1px;
 }
 
 /* --- INDEX --- */
+
 .index-cell-content {
-    vertical-align: top;
-    width: 625px;
+  vertical-align: top;
+  width: 625px;
 }
 
 .index-masthead {
-    margin: 1px auto;
+  margin: 1px auto;
+  text-align: center;
 }
 
 .index-sidebar-left {
-    vertical-align: top;
-    width: 250px;
+  vertical-align: top;
+  width: 250px;
 }
 
 .index-sidebar-right {
-    text-align: right;
-    vertical-align: top;
-    width: 125px;
+  text-align: right;
+  vertical-align: top;
+  width: 125px;
 }
 
 .index-table-main {
-    width: 1000px;
+  width: 1000px;
 }
 
 .index-vertical-bar {
-    background-color: #C0C0C0;
-    width: 0px;
+  background-color: #C0C0C0;
+  width: 0px;
 }
