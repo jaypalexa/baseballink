@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bolder;
-  padding-top: 6px;
+  margin-top: .5rem;
 }
 
 h1 {
@@ -45,11 +45,65 @@ h1 {
   display: inline-block;
   height: 50px;
   line-height: 50px;
-  padding: 6px;
+  padding: .5rem;
+}
+
+.avg-war [type="text"] { 
+  background:white; 
+  color:black; 
+  font-family:Tahoma,Arial; 
+  text-align:center;  
+  font-weight:900;
+}
+
+.avg-war table {
+  border: none;
+}
+
+.avg-war .battingDark { 
+  background:#336600; 
+  color:white; 
+  font-family:Tahoma,Arial; 
+  font-size:small;
+  font-weight:900;
+  text-align:center;  
+}
+
+.avg-war .battingLight { 
+  background:#339966; 
+  color:white; 
+  font-family:Tahoma,Arial; 
+  font-size:small;
+  font-weight:900;
+  text-align:center;  
+}
+
+.avg-war .pitchingDark { 
+  background:#336600; 
+  color:white; 
+  font-family:Tahoma,Arial; 
+  font-size:small;
+  font-weight:900;
+  text-align:center;  
+}
+
+.avg-war .pitchingLight { 
+  background:#339966; 
+  color:white; 
+  font-family:Tahoma,Arial; 
+  font-size:small;
+  font-weight:900;
+  text-align:center;  
+}
+
+.avg-war-players {
+  border: 1px solid black;
+  font-family: Arial;
+  font-size: 8pt;
 }
 
 .breadcrumb {
-  margin-top: 6px;
+  margin-top: .5rem;
 }
 
 .clearer {
@@ -57,7 +111,7 @@ h1 {
 }
 
 .footer {
-  margin-top: 12px;
+  margin-top: 1rem;
   padding: 2rem 1.5rem 2rem;
 }
 
@@ -81,5 +135,5 @@ h1 {
 }
 
 .storycontent p {
-  margin-bottom: 6px;
+  margin-bottom: 1rem;
 }
