@@ -160,6 +160,10 @@ h1 {
   margin-top: 1rem;
 }
 
+.nested-list {
+  margin-left: 1rem;
+}
+
 .storycontent p {
   margin-bottom: 1rem;
 }
