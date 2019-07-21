@@ -329,3 +329,33 @@ img.alignright {
     margin: 0 0 2px 2px;
     padding: 1px;
 }
+
+/* --- INDEX --- */
+.index-cell-content {
+    vertical-align: top;
+    width: 625px;
+}
+
+.index-masthead {
+    margin: 1px auto;
+}
+
+.index-sidebar-left {
+    vertical-align: top;
+    width: 250px;
+}
+
+.index-sidebar-right {
+    text-align: right;
+    vertical-align: top;
+    width: 125px;
+}
+
+.index-table-main {
+    width: 1000px;
+}
+
+.index-vertical-bar {
+    background-color: #C0C0C0;
+    width: 0px;
+}
