@@ -9,6 +9,54 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
   </head>
   <body>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}">
+          <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bi_logo_xsm.gif" width="200" height="71" alt="Baseball Ink" />
+          <span>Baseball The Way It Was Meant To Be</span>
+        </a>
+    
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBaseballInk">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      
+      <div id="navbarBaseballInk" class="navbar-menu">
+        <div class="navbar-start">
+          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}">
+            Home
+          </a>
+    
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">
+              Magazine
+            </a>
+    
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_home.html">
+                Vol. 1, No. 1 - June 2000
+              </a>
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_2/bi_vol_1_no_2_home.html">
+                Vol. 1, No. 2 - September 2000
+              </a>
+            </div>
+          </div>
+      
+          <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html" class="navbar-item">
+            Average WAR
+          </a>
+          <a href="{{ site.url }}{{ site.baseurl }}/pages/pro-rel/promotion-relegation.html" class="navbar-item">
+            Promotion/Relegation
+          </a>
+          <a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" class="navbar-item">
+            Limericks
+          </a>
+        </div>
+      </div>
+    </nav>
     <section>
       <div class="columns index-main">
         <div class="column is-one-quarter index-menu">
