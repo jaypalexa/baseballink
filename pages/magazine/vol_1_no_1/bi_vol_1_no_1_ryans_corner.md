@@ -17,35 +17,35 @@ title: Vol. 1, No. 1 - June 2000 - Ryan's Corner
   <h1>Ryan's Corner</h1>
 
   <p>
-    <span class="font-bolder font-larger">B</span >aseball is an American sport which has fame and legend of all sort.
+    <span class="has-text-weight-bold is-size-4">B</span >aseball is an American sport which has fame and legend of all sort.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">A</span>ll of the time you will hear about it, so when you do, don't retort it.
+    <span class="has-text-weight-bold is-size-4">A</span>ll of the time you will hear about it, so when you do, don't retort it.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">S</span>ometimes it is such a wonderful sport.
+    <span class="has-text-weight-bold is-size-4">S</span>ometimes it is such a wonderful sport.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">E</span>xcellent behavior is required.
+    <span class="has-text-weight-bold is-size-4">E</span>xcellent behavior is required.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">B</span>aseball can make many people become inspired.
+    <span class="has-text-weight-bold is-size-4">B</span>aseball can make many people become inspired.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">A</span>t any time you should not be tired.
+    <span class="has-text-weight-bold is-size-4">A</span>t any time you should not be tired.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">L</span>osers are not made fun of.
+    <span class="has-text-weight-bold is-size-4">L</span>osers are not made fun of.
   </p>
 
   <p>
-    <span class="font-bolder font-larger">L</span>iving in America is just as good as wearing a baseball glove.
+    <span class="has-text-weight-bold is-size-4">L</span>iving in America is just as good as wearing a baseball glove.
   </p>
 
   <p>

@@ -16,7 +16,7 @@
           <span>Baseball The Way It Was Meant To Be</span>
         </a> -->
     
-        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" onclick="toggleBurger()">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -33,13 +33,24 @@
             <a class="navbar-link" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">
               Magazine
             </a>
-    
             <div class="navbar-dropdown">
               <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_1/bi_vol_1_no_1_home.html">
                 Vol. 1, No. 1 - June 2000
               </a>
               <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_2/bi_vol_1_no_2_home.html">
                 Vol. 1, No. 2 - September 2000
+              </a>
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_3/bi_vol_1_no_3_home.html">
+                Vol. 1, No. 3 - December 2000
+              </a>
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_1_no_4/bi_vol_1_no_4_home.html">
+                Vol. 1, No. 4 - March 2001
+              </a>
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_2_no_1/bi_vol_2_no_1_home.html">
+                Vol. 2, No. 1 - June 2001
+              </a>
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/vol_2_no_2/bi_vol_2_no_2_home.html">
+                Vol. 2, No. 2 - September 2001
               </a>
             </div>
           </div>
@@ -53,6 +64,21 @@
           <a href="{{ site.url }}{{ site.baseurl }}/pages/limericks/baseball-limericks.html" class="navbar-item">
             Limericks
           </a>
+    
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="{{ site.url }}{{ site.baseurl }}/pages/magazine/magazine.html">
+              More
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">
+                About Baseball Ink
+              </a>
+              <a class="navbar-item" href="https://github.com/jaypalexa/baseballink" title="GitHub" target="_blank">
+                GitHub
+              </a>
+            </div>
+          </div>
+      
         </div>
       </div>
     </nav>
@@ -69,14 +95,6 @@
         </div>
       </div>
     </section>
-    <div class="clearer"></div>
-    <footer class="footer is-fixed-bottom">
-      <div class="content has-text-centered font-smaller">
-        Copyright &copy; 2000-2019 Baseball Ink
-        &#8226; <a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">About Baseball Ink</a>
-        &#8226; <a href="https://github.com/jaypalexa/baseballink" title="GitHub" target="_blank">GitHub</a>
-      </div>
-    </footer>
   </body>
   <script async type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/scripts/bulma.js"></script>
 </html>
