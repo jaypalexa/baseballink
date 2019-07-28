@@ -51,7 +51,7 @@ title: Vol. 1, No. 2 - September 2000 - Table of Contents
   </p>
 
   <p>
-    (Written 9/9/1998. Copyright (c) Allen C. Levi. Reprinted by permission.)
+    <em>(Written 9/9/1998. Copyright (c) Allen C. Levi. Reprinted by permission.)</em>
   </p>
 
   <p>

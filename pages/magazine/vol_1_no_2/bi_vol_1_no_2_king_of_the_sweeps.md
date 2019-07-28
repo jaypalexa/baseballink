@@ -72,6 +72,6 @@ title: Vol. 1, No. 2 - September 2000 - Table of Contents
 </p>
 
 <p>
-  Steve Lombardi is a lifelong resident of the American northeast coast and a baseball researcher with almost three decades of experience.  In January 1999, he launched NetShrine (<a href="http://www.netshrine.com">www.netshrine.com</a>) which is designed to be an "easy-to-use" and low-tech mechanism for baseball fans to peruse and enjoy.  NetShrine provides an accomplished, informative, and entertaining approach to the reporting of our National Pastime.
+  <em>Steve Lombardi is a lifelong resident of the American northeast coast and a baseball researcher with almost three decades of experience.  In January 1999, he launched NetShrine (<a href="http://www.netshrine.com">www.netshrine.com</a>) which is designed to be an "easy-to-use" and low-tech mechanism for baseball fans to peruse and enjoy.  NetShrine provides an accomplished, informative, and entertaining approach to the reporting of our National Pastime.</em>
 </p>
 </section>

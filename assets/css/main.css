@@ -111,8 +111,9 @@ h1 {
   border-right: 2px solid silver;
 }
 
-.index-menu-items {
-  margin-top: 1rem;
+.level {
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 .nested-list {
