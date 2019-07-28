@@ -163,7 +163,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 </p>
 
 <p>
-  <em>Dick Fitzgerald would certainly not be considered a household word in the pitching world.  Thousands of pitchers have been more successful.  However, there probably has never been another pitcher in baseball history who has stood on a pitching mound longer than Fitz.<em>
+  <em>Dick Fitzgerald would certainly not be considered a household word in the pitching world.  Thousands of pitchers have been more successful.  However, there probably has never been another pitcher in baseball history who has stood on a pitching mound longer than Fitz.</em>
 </p>
 
 <p>
