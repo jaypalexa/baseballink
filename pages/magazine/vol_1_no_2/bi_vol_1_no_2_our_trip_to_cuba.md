@@ -164,34 +164,4 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 
 <hr />
 
-<p>
-  <em>Dick Fitzgerald would certainly not be considered a household word in the pitching world.  Thousands of pitchers have been more successful.  However, there probably has never been another pitcher in baseball history who has stood on a pitching mound longer than Fitz.</em>
-</p>
-
-<p>
-  <em>Fitzgerald, who is 65, still pitches competitively -- locally, nationally and internationally.  He has thrown more pitches than Nolan Ryan (of course, not quite as hard) - and probably more pitches than even the legendary Satchel Paige.  In fact, it has been estimated by reliable medical authorities that Fitzgerald has thrown more than a million pitches in his lifetime.  (Fitz Fact #1:  Dick never had a sore arm due to pitching until he was age 57!)</em>
-</p>
-
-<p>
-  <em>Fitz has not missed a season of pitching since age 12 -- a steak of 54 consecutive years).  He has pitched in youth, high school, college, amateur, semi-pro and senior men's baseball.  For five of those years, he pitched in the Baltimore Orioles' organization, spending his final years in the Pacific Coast League, including a brief stint with the old Seattle Rainiers.</em>
-</p>
-
-<p>
-  <em>Beginning at age 42, Fitz pitched batting practice for the Seattle Mariners for seven years.</em>
-</p>
-
-<p>
-  <em>At age 50, Fitzgerald's fastball was clocked at 84 mph.  At age 55, 80 mph; and at age 60, 78 mph.  Now at age 65, he still can throw in the 70's.</em>
-</p>
-
-<p>
-  <em>During his extended pitching career, Fitzgerald has won over 500 games...and has averaged less than two walks per game.  (Fitz Fact #2:  In the last two years, Dick has walked only 19 batters in 301 innings!)</em>
-</p>
-
-<p>
-  <em>Though he retired from professional baseball at the relatively young age of 24 to go into the business world, Fitzgerald has elected to continue pitching instead of pursuing more normal "adult sports" such as golf or tennis.  And there always seems to be a team and a league where Fitzgerald can continue to pitch successfully.</em>
-</p>
-
-<hr />
-
 </section>
