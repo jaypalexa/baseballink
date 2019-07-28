@@ -12,5 +12,6 @@ title: Vol. 1, No. 2 - September 2000 - Cover
 </nav>
 
 <section class="storycontent">
+  <h1>Cover</h1>
   <img src="images/bi_vol_1_no_2_cover.jpg">
 </section>

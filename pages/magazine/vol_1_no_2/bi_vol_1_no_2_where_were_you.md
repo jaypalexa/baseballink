@@ -12,8 +12,8 @@ title: Vol. 1, No. 2 - September 2000 - Where Were You When McGwire Hit 62?
 </nav>
 
 <section class="storycontent">
-<h1>Where Were You When McGwire Hit 62?</h1>
-<h2>A song by Allen Levi</h2>
+  <h1>Where Were You When McGwire Hit 62?</h1>
+  <h2>A song by Allen Levi</h2>
 
   <p>
   Where were you when he stepped up to the batter's box<br />
