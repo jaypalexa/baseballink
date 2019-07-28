@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix
+title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix - Fear Strikes Out
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
