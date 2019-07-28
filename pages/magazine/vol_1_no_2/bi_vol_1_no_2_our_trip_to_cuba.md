@@ -201,12 +201,4 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 <p>
   For more information on International Baseball Rundown&trade;, please visit the website at <a href="http://members.aol.com/ibrundown/" target="_top">http://members.aol.com/ibrundown/</a>, or write to:
 </p>
-
-<p>
-  International Baseball Rundown<br />
-  Jeff Elijah, Editor and Publisher<br />
-  PO Box 608<br />
-  Glen Ellyn, IL 60138-0608<br />
-  Email: <a href="mailto:ibrundown@aol.com">ibrundown@aol.com</a>
-</p>
 </section>
