@@ -44,7 +44,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <p>
-    Baseballs were a precious commodity among the penny-pinching clubs around the circuit. It was not uncommon for club owners to compete with local youngsters in pursuit of foul balls that made their way outside the ballpark. The visiting Mayfield (KY) Browns once lodged a protest with the league when they were unable to warm up a relief pitcher because the home team's supply had dwindled to two balls by the fifth inning. When Hopkinsville (KY) Hoppers hurler Johnny Schmitz was denied a new baseball to use, he promptly heaved the game-worn ball up and over the grandstand. He was tossed out of the game, the home plate umpire later explained, because "Hoptown had more pitchers � but that happened to be the only baseball we had right then."
+    Baseballs were a precious commodity among the penny-pinching clubs around the circuit. It was not uncommon for club owners to compete with local youngsters in pursuit of foul balls that made their way outside the ballpark. The visiting Mayfield (KY) Browns once lodged a protest with the league when they were unable to warm up a relief pitcher because the home team's supply had dwindled to two balls by the fifth inning. When Hopkinsville (KY) Hoppers hurler Johnny Schmitz was denied a new baseball to use, he promptly heaved the game-worn ball up and over the grandstand. He was tossed out of the game, the home plate umpire later explained, because "Hoptown had more pitchers...but that happened to be the only baseball we had right then."
   </p>
 
   <p>
@@ -52,7 +52,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <p>
-    In his rookie season, Hopkinsville hurler Victor "Deacon" Delmore -- who later became a National League umpire-- decided to go rabbit hunting from the mound. With a runner on second, he spotted a rabbit scampering across the outfield headed toward third and fired the ball at it. The target went unscathed and the runner rounded third and headed home. After discussing the situation, the home plate umpire ruled that the run didn't count and instructed the runner to return to second. The opposing manager was livid and asked how the arbiter came to such a conclusion. "Well, I don't find anything about it in the rule book," he replied. "But the Kitty League's a character, and I want it to stay this way."
+    In his rookie season, Hopkinsville hurler Victor "Deacon" Delmore &mdash; who later became a National League umpire &mdash; decided to go rabbit hunting from the mound. With a runner on second, he spotted a rabbit scampering across the outfield headed toward third and fired the ball at it. The target went unscathed and the runner rounded third and headed home. After discussing the situation, the home plate umpire ruled that the run didn't count and instructed the runner to return to second. The opposing manager was livid and asked how the arbiter came to such a conclusion. "Well, I don't find anything about it in the rule book," he replied. "But the Kitty League's a character, and I want it to stay this way."
   </p>
 
   <p>
