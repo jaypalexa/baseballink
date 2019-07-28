@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+//document.addEventListener('DOMContentLoaded', () => {
 
   // Get "navbar-burger" element
   const $navbarBurger = document.querySelector('.navbar-burger');
@@ -22,4 +22,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   });
 
-});
+//});
