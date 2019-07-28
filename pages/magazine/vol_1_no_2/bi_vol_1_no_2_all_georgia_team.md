@@ -66,6 +66,7 @@ title: Vol. 1, No. 2 - September 2000 - All-Star State Teams:  Georgia
       <td>MGR</td><td>Bill Terry</td><td>Atlanta, GA</td><td>NY-N / 823-661-12, .555</td>
     </tr>
   </table>
+  <br />
 
   <p>
     Submit your best All-State baseball team!

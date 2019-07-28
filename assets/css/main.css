@@ -32,10 +32,6 @@ h1 {
   font-size: 150%;
 }
 
-.all-star-state-teams > table, th, td {
-  border: none;
-}
-
 .all-star-state-teams > th, td {
   padding: 3px;
 }
