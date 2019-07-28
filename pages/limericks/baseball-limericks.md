@@ -23,7 +23,7 @@ title: Baseball Limericks
   <p><em>by BennettO</em><br />
     Leave it to Bill Veeck to finally fidget<br />
     To get attendance to reach double digits<br />
-    Fireworks, “Ladies’ Day”<br />
+    Fireworks, "Ladies’ Day"<br />
     An organist and half-price pay<br />
     And to bat he would send up a midget
   </p>
@@ -38,18 +38,18 @@ title: Baseball Limericks
   <h3>Philly Fans</h3>
   <p><em>by BennettO</em><br />
     In Philly their fans would boo Jesus<br />
-    Asking “What’s he done lately to please us?”<br />
-    “We’ve heard all the loud raves<br />
+    Asking "What’s he done lately to please us?"<br />
+    "We’ve heard all the loud raves<br />
     Of how Jesus saves<br />
-    So did he blow that late lead to appease us?”
+    So did he blow that late lead to appease us?"
   </p>
   <h3>Ernie Banks</h3>
   <p><em>by BennettO</em><br />
     When you ask Mr. Cub Ernie Banks<br />
-    “How could you play with inferior ranks?”<br />
+    "How could you play with inferior ranks?"<br />
     What with two MVP’s<br />
     Five hundred homers to please?<br />
-    He just said “Let’s play two” and gave thanks
+    He just said "Let’s play two" and gave thanks
   </p>
   <h3>Roger Craig</h3>
   <p><em>by BennettO</em><br />
@@ -63,9 +63,9 @@ title: Baseball Limericks
   <p><em>by TheUmpire</em><br />
     There once was a Yankee named Jeter<br />
     Who proclaimed he was not a tax cheater<br />
-    “I owe no more than the<br />
+    "I owe no more than the<br />
     next guy from Florida<br />
-    who knows how to handle a heater!”
+    who knows how to handle a heater!"
   </p>
   <h3>Barry Bonds</h3>
   <p><em>by TheUmpire</em><br />
@@ -265,7 +265,7 @@ title: Baseball Limericks
     To perk up his career if he can<br />
     His last five seasons were bad<br />
     So I’m sure he’ll be glad<br />
-    If he can once again be “the man”
+    If he can once again be "the man"
   </p>
   <h3>Ozzie Smith</h3>
   <p><em>by TheUmpire</em><br />
@@ -297,11 +297,11 @@ title: Baseball Limericks
     The four words of highest import<br />
     Uttered each February<br />
     As sweet as a cherry<br />
-    “Pitchers and catchers report”
+    "Pitchers and catchers report"
   </p>
   <h3>Josh Booty Redux</h3>
   <p><em>by TheUmpire</em><br />
-    MLB’s “The Next Knuckler” show<br />
+    MLB’s "The Next Knuckler" show<br />
     Revealed who had the best throw<br />
     Former first-rounder Josh Booty<br />
     Beat out Doug Flutie<br />
