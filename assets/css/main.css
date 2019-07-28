@@ -103,6 +103,11 @@ h1 {
   padding-right: 1rem;
 }
 
+.index-main {
+  height: 100vh;
+  min-height: 100vh;
+}
+
 .index-masthead {
   margin-top: 6px;
 }
