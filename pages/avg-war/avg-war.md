@@ -5,12 +5,13 @@ title: AvgWAR
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
-    <li class="is-active"><a href="#" aria-current="page">Average WAR</a></li>
+    <li><a href="../avg-war-home.html">Average WAR</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Average WAR Explained</a></li>
   </ul>
 </nav>
 
 <section class="storycontent avg-war">
-  <h1>Average WAR</h1>
+  <h1>Average WAR Explained</h1>
     <p>
       <a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.
     </p>
