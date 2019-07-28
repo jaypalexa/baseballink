@@ -67,6 +67,56 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   After the game we had a tour of the caves of the ancient Indians, then had lunch and bonded with the Cubans. Everyone toasted new friendships by indulging in too many Cuban cigars. Many of the Cuban players did not know of Ken Griffrey Jr. They were familiar with Willie Mays. Speaking of great ballplayers, one of the best in Cuban history, Omar Linares, makes $20 per month, which is comparable to a medical doctor's salary. Linares is a member of the Communist Party and receives certain "fringe benefits" like a Mercedes, unlimited expense account at restaurants and hotels, plus the freedom to travel. All Cuban players are considered "amateurs."
 </p>
 
+<h3>Tuesday, March 14, 2000</h3>
+<p>
+  We woke up to a beautiful sunrise and the roosters crowing in the countryside. That morning most of the wives took a break from baseball and hiked up a mountain. They reported that the view from the top was spectacular. Guess it was much prettier than watching another slaughter on the baseball diamond.
+</p>
+
+<p>
+  We played again in the same stadium and lost, 16-5. A highlight of that game was the pitching antics of Porfirio Perez, who was a provincial player in his day -- now age 55. His motion and gyrations on the mound would make Luis Tiant look like he's standing still. It was unbelievable, plus he threw all strikes. The next day Porfirio wowed the wives with his loose-jointed moves on the dance floor.
+</p>
+
+<p>
+  We went to lunch in town, entertained by two talented singers accompanied by a Cuban band. Their music can be contagious and is almost as important in their lives as baseball.
+</p>
+
+<p>
+  After lunch we visited a cigar factory. It was mass production, late 19th century style, with hundreds of workers crammed into a large room. After tourism (700,000 Europeans and Canadians visited Cuba in 1999) and sugar cane, cigars are a major export.
+</p>
+
+<p>
+  Later that afternoon we were guests at Juan Carlos Oliva's home for still another cookout. Juan is Tony Oliva's brother. Typical of all Cubans, he and his wife were warm, friendly and gracious hosts.
+</p>
+
+<p>
+  Nearby we observed 10- and 11-year-olds practicing baseball and then playing a pickup game. It became obvious to us why baseball is king in Cuba -- superior coaching, with much greater emphasis and focus on playing the game. Most of the coaches are ex-"professional" players who displayed a firm but gentle approach. In return the kids showed both extraordinary skill and discipline on the field.
+</p>
+
+<p>
+  Those kids were amazing. In four complete innings, there was only one walk! Half of the kids played in bare feet, with no batting helmets, and they shared gloves. But don't let the lack of fancy uniforms and equipment fool you. They would "kill" American kids of the same age bracket, and would probably be able to compete with U.S. players three years older. Young Cuban pitchers are not permitted to throw breaking balls until they reach age 15, so they only throw the fastball and change. Weight training is taboo for the upper body and is used only for the legs. They believe that the best way to get strong and quick with the bat, legs and arm is to play baseball and do, as they say, "baseball exercises."
+</p>
+
+<h3>Wednesday, March 15, 2000</h3>
+<p>
+  We played our final game. Yes, Virginia, there is mercy in baseball. This time we mixed our players with the Cubans on both teams, so no one really "lost." As a result the game was tied 7-7 in the eighth inning. The final score was 15-8. Former Cuban national team shortstop Giraido Gonzalez hit two home runs and showed why he was considered one of the best fielding shortstops ever. Giraido is still a kid at age 42.
+</p>
+
+<p>
+  After the game, it was our last chance to give away gifts -- baseballs, gloves, clothing, pens, soap, baseball shoes, etc. Each recipient was very grateful, no matter how small or insignificant the item. They all displayed a genuine smile to say "thank you."
+</p>
+
+<p>
+  Both Cuban and U.S. players went to a scenic area in the valley with huge prehistoric murals painted on the side of a nearby mountain. There we feasted on a roasted pig. Pork is a major staple in Cuba. Only pigs are fat in Cuba. All other animals are skinny, and there certainly is no obesity among the Cuban people, with few cars, very little TV, and little food available. Thus, more walking and less sitting and eating.
+</p>
+
+<p>
+  This was the time to say goodbye to our new found friends. After four days, it was obvious that a mutual respect had developed -- our appreciation for the talent displayed by the Cubans, and their admiration for such an old group of guys who are still playing the game they love.
+</p>
+
+<p>
+  Speaking of old, the average age of our group of "finely-tuned athletes" was 61. Our youngest player, at age 51, was Bill "Spaceman" Lee, ex-Red Sox and Expos pitcher. His boyish enthusiasm and love for the game was an inspiration for the rest of us.
+</p>
+
 <hr />
 
 </section>
