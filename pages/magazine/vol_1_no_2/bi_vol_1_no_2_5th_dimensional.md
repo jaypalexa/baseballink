@@ -13,7 +13,7 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
 
 <section class="storycontent">
   <h1>5th Dimensional Baseball</h1>
-  <p><em>by T. C. Moore</em><p>
+  <p><em>by T. C. Moore</em></p>
 
 <p>
   As baseball fans, I'm sure we are all aware of the latest physical theory that states the universe -- all energy and matter -- is made of little tiny strings and actually sports a lot more dimensions than the three spatial dimensions we are aware of:  11 dimensions, as a matter of fact, counting the time dimension. Apparently, the additional spatial dimensions are wrapped up like tiny tubes, so we don't notice them, even though we move through them constantly.
