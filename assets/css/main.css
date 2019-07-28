@@ -32,6 +32,14 @@ h1 {
   font-size: 150%;
 }
 
+.all-star-state-teams table, th, td {
+  border: 0px;
+}
+
+.all-star-state-teams th, td {
+  padding: 3px;
+}
+
 .avg-war [type="text"] { 
   background: white; 
   color: black; 
