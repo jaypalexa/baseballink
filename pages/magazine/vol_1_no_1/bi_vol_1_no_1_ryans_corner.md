@@ -12,7 +12,7 @@ title: Vol. 1, No. 1 - June 2000 - Ryan's Corner
 </nav>
 
 <section class="storycontent">
-  <img src="images/ryanlogo_xsm.gif" alt="Ryan's Corner" title="Ryan's Corder"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ryanlogo_xsm.gif" alt="Ryan's Corner" title="Ryan's Corner"/>
   
   <h1>Ryan's Corner</h1>
 
