@@ -4,9 +4,9 @@ title: Vol. 1, No. 3 - December 2000 - Table of Contents
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</strong></a></li>
-    <li><a href="../magazine.html">Magazine</strong></a></li>
-    <li class="is-active"><a href="#" aria-current="page">Vol. 1, No. 3 - December 2000</strong></a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="../magazine.html">Magazine</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Vol. 1, No. 3 - December 2000</a></li>
   </ul>
 </nav>
 
