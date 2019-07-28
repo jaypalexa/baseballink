@@ -32,6 +32,11 @@ h1 {
   font-size: 150%;
 }
 
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
 .all-star-state-teams th, td {
   padding: 3px;
 }
