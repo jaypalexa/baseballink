@@ -13,7 +13,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 
 <section class="storycontent">
 <h1>Our Trip to Cuba</h1>
-<h2>by Dick Fitzgerald<h2>
+<h2>by Dick Fitzgerald</h2>
 <p>
   <em>(This article first appeared in the March/April 2000 edition of International Baseball Rundown&trade; magazine and has been reprinted by permission.)</em>
 </p>
@@ -162,6 +162,8 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   Our trip to Cuba was arranged by Tom Robertson of Associated Travel Consultants, 105-389 Twelfth St., Courtenay, Canada V9N 8V7. Phone: 800-856-4777. E-Mail: yqqtravl@island.net. His company will be putting together similar tours for December 2000, and February, March and April 2001.
 </p>
 
+<hr />
+
 <p>
   <em>Dick Fitzgerald would certainly not be considered a household word in the pitching world.  Thousands of pitchers have been more successful.  However, there probably has never been another pitcher in baseball history who has stood on a pitching mound longer than Fitz.</em>
 </p>
@@ -189,6 +191,8 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 <p>
   <em>Though he retired from professional baseball at the relatively young age of 24 to go into the business world, Fitzgerald has elected to continue pitching instead of pursuing more normal "adult sports" such as golf or tennis.  And there always seems to be a team and a league where Fitzgerald can continue to pitch successfully.</em>
 </p>
+
+<hr />
 
 <p>
   International Baseball Rundown&trade; magazine provides information about baseball all over the world, with news from many of the 100-plus countries in which the game is played. It has been published for eight years (since March 1992). IBR&trade; will be published nine times in 2000 and is sent to about 4,000 people in more than 90 countries.
