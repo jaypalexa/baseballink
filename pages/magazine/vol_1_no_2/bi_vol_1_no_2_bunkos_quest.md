@@ -20,7 +20,7 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    If I could at one point in my life say that I've been to a game in every city that currently has a major or minor league baseball team, I would feel that my quest has been accomplished.  Currently, that number stands at 190�and I'm at number 23.  It's always good to set your goals high, right?
+    If I could at one point in my life say that I've been to a game in every city that currently has a major or minor league baseball team, I would feel that my quest has been accomplished.  Currently, that number stands at 190...and I'm at number 23.  It's always good to set your goals high, right?
   </p>
 
   <p>
@@ -32,7 +32,7 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    First things first:  I need to find somebody to go with.  It's Tuesday, and I find out that my girlfriend, Steph, doesn't have to work on Sunday.  She tells me that she willing to go with me from here in the Philadelphia area to New Britain, CT (where I have never been) for a Rock Cats game.  That's almost a four hour trip, but it isn't enough to scare me off.  On Wednesday, I call the Rock Cats to confirm that tickets are still available for the 2:05 game.  (Mid-afternoon starts are always good since I don't have to leave early in the morning and I wouldn't get home so late that I would need to miss work on Monday.)  I am informed that they are playing a doubleheader, which starts at 1:05.  Now [ital]that's[ital] enough to scare me off.  Back to the drawing board.
+    First things first:  I need to find somebody to go with.  It's Tuesday, and I find out that my girlfriend, Steph, doesn't have to work on Sunday.  She tells me that she willing to go with me from here in the Philadelphia area to New Britain, CT (where I have never been) for a Rock Cats game.  That's almost a four hour trip, but it isn't enough to scare me off.  On Wednesday, I call the Rock Cats to confirm that tickets are still available for the 2:05 game.  (Mid-afternoon starts are always good since I don't have to leave early in the morning and I wouldn't get home so late that I would need to miss work on Monday.)  I am informed that they are playing a doubleheader, which starts at 1:05.  Now <em>that's</em> enough to scare me off.  Back to the drawing board.
   </p>
 
   <p>
@@ -66,7 +66,7 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    <em>Learn more about Bunko's quest to visit every major and minor league stadium: <a href="http://minorleaguesource.com/baseball.html" TARGET="_top">hhttp://minorleaguesource.com/baseball.html</a></em>
+    <em>Learn more about Bunko's quest to visit every major and minor league stadium: <a href="http://minorleaguesource.com/baseball.html" TARGET="_top">http://minorleaguesource.com/baseball.html</a></em>
   </p>
 
   <p>
