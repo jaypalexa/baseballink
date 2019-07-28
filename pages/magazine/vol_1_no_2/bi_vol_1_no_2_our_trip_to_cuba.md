@@ -209,5 +209,4 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   Glen Ellyn, IL 60138-0608<br />
   Email: <a href="mailto:ibrundown@aol.com">ibrundown@aol.com</a>
 </p>
-
 </section>
