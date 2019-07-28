@@ -84,13 +84,15 @@ title: Vol. 1, No. 3 - December 2000 - Table of Contents
     Well, no more.  I am calling on all baseball fans to:
   </p>
 
-  <ul>
-    <li>Demand that MLB (and the minors and the indies) mandate a complete ban on steroid usage consistent with the policies already in place in the NFL, NCAA, and IOC.</li>
-    <li>Insist on truly independent, third-party testing.</li>
-    <li>Boycott your ballpark until comprehensive steroid restrictions and regular testing have been implemented.</li> 
-    <li>Refuse to patronize businesses which advertise on radio and television broadcasts of baseball games.</li>
-  </ul>
-
+  <p>
+    <ul>
+      <li>Demand that MLB (and the minors and the indies) mandate a complete ban on steroid usage consistent with the policies already in place in the NFL, NCAA, and IOC.</li>
+      <li>Insist on truly independent, third-party testing.</li>
+      <li>Boycott your ballpark until comprehensive steroid restrictions and regular testing have been implemented.</li> 
+      <li>Refuse to patronize businesses which advertise on radio and television broadcasts of baseball games.</li>
+    </ul>
+  </p>
+  
   <p>
     It is time to retaliate.  How?  By rubbing out the Syndicate of Six.  By hitting the owners and players where it hurts.  Take the money out of their pockets.  Take away the incentive to use steroids.
   </p>
