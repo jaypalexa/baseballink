@@ -117,6 +117,49 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   Speaking of old, the average age of our group of "finely-tuned athletes" was 61. Our youngest player, at age 51, was Bill "Spaceman" Lee, ex-Red Sox and Expos pitcher. His boyish enthusiasm and love for the game was an inspiration for the rest of us.
 </p>
 
+<h3>Thursday, March 16, 2000</h3>
+<p>
+  Instead of playing baseball today, we went to a beautiful little island, Cayo Levisa, with white sandy beaches to relax, swim and snorkel. It was interesting to note that some of the Cubans accompanying us on the tour were not allowed to get on a boat and venture out to sea. Apparently this wasn't a one-time restriction. Many Cubans are prohibited from going out on boats, and it's not because they can't swim.
+</p>
+
+<p>
+  After the beach, we headed for Havana, arriving back at the El Bosque Hotel. That evening we went to the Latino Americano Estadio to watch two provincial teams play. There are 16 such teams in Cuba, one from each province. Players from these teams make up the Cuban national team. It was our humble opinion that the level of baseball was AAA. As Americans we paid $1 for a ticket, while Cuban fans paid a nickel.
+</p>
+
+<p>
+  There are 11 million Cubans, about the same number as the combined populations of Washington and Oregon. Imagine trying to get enough baseball talent from those two states to field 16 AAA teams, plus at least one major league team!
+</p>
+
+<h3>Friday, March 17, 2000</h3>
+<p>
+  We spent the day touring Havana, including drinks at Ernest Hemingway's favorite bar, La Bodegita del Medio, and lunch at his old hangout, Floridita. Unfortunately, most of the buildings appear to be decaying. Some areas look like a war zone. Despite the appearance of the city, there is very little crime, so it is safe to walk the streets at night.
+</p>
+
+<p>
+  Not being preoccupied by baseball today, we learned more about Cuba, the government and its people. It was said that 60% of what is earned by the people goes to the government. In return, everyone gets guaranteed health care and an excellent education, and also an annual allotment of shoes, rice, beans, cigarettes and water.
+</p>
+
+<p>
+  Our farewell dinner was at Los 12 Apostoles, a restaurant overlooking the harbor.
+</p>
+
+<p>
+  By U.S. standards the Cuban people don't have much. Nevertheless, they are a warm, happy, friendly people. Perhaps they don't miss what they don't have. Without a lot of material things, the lost art of conversation, family ties and friendship are still alive and well in Cuba. Their lives seem so wealthy in the face of so little.
+</p>
+
+<h3>Saturday, March 18, 2000</h3>
+<p>
+  After getting up at 3:30 a.m., Sally and I caught a flight back to Seattle. When we landed safely, Sally sighed and smiled -- like our Cuban friends.
+</p>
+
+<p>
+  In summary, the trip was an unforgettable and unique experience. Baseball broke the barrier and opened the doors to friendship, bonding people of differing languages and cultures. The common denominator was a mutual love and respect for the game of beisbol.
+</p>
+
+<p>
+  Our trip to Cuba was arranged by Tom Robertson of Associated Travel Consultants, 105-389 Twelfth St., Courtenay, Canada V9N 8V7. Phone: 800-856-4777. E-Mail: yqqtravl@island.net. His company will be putting together similar tours for December 2000, and February, March and April 2001.
+</p>
+
 <hr />
 
 </section>
