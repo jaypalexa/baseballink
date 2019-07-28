@@ -13,26 +13,20 @@ title: About Baseball Ink
 <div class="storycontent">
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact1.jpg" alt="" /></p>
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/contact2.jpg" alt="" /></p>
-  <h3>Our Staff and Contributors</h3>
+  <h3 class="has-text-centered">Our Staff and Contributors</h3>
   <div class="level">
     <div class="level-item has-text-centered">
-      <img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="SamM" width="50" height="50" /> SamM
+      <img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="SamM" width="50" height="50" />
+      <p>SamM</p>
     </div>
     <div class="level-item has-text-centered">
-      <img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="TommyT" width="50" height="50" /> TommyT
+      <img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="TommyT" width="50" height="50" />
+      <p>TommyT</p>
     </div>
     <div class="level-item has-text-centered">
-    <img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="TheUmpire" width="50" height="50" /> TheUmpire
+      <img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="TheUmpire" width="50" height="50" />
+      <p>TheUmpire</p>
     </div>
-  </div>
-  <div class="about-us-contributor">
-    <img class="alignleft size-full" title="SamM" src="{{ site.url }}{{ site.baseurl }}/assets/images/glickman_small.jpg" alt="" width="50" height="50" /> SamM
-  </div>
-  <div class="about-us-contributor">
-    <img class="alignleft size-full" title="TommyT" src="{{ site.url }}{{ site.baseurl }}/assets/images/tommyt_small.jpg" alt="" width="50" height="50" /> TommyT
-  </div>
-  <div class="about-us-contributor">
-    <img class="alignleft size-full" title="TheUmpire" src="{{ site.url }}{{ site.baseurl }}/assets/images/umpire_small.jpg" alt="" width="50" height="50" /> TheUmpire
   </div>
 
   <h3>Disclaimers and All That</h3>
