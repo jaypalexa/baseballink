@@ -9,8 +9,8 @@ title: AvgWAR
   </ul>
 </nav>
 
-<h1>Average WAR</h1>
-  <section class="storycontent avg-war">
+<section class="storycontent avg-war">
+  <h1>Average WAR</h1>
     <p>
       <a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war" target="_blank">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.
     </p>
@@ -3168,7 +3168,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>251</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'rouji01.shtml">Jim O&#8217;Rourke</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'rouji01.shtml">Jim O&rsquo;Rourke</a></td>
           <td>4.06</td>
           <td>50.1</td>
           <td>1999</td>
@@ -7884,7 +7884,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>644</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'neipa01.shtml">Paul O&#8217;Neill</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'neipa01.shtml">Paul O&rsquo;Neill</a></td>
           <td>2.77</td>
           <td>35.1</td>
           <td>2053</td>
@@ -11028,7 +11028,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>906</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'neist01.shtml">Steve O&#8217;Neill</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'neist01.shtml">Steve O&rsquo;Neill</a></td>
           <td>2.16</td>
           <td>21.2</td>
           <td>1590</td>
@@ -12036,7 +12036,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>990</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'delbi01.shtml">Billy O&#8217;Dell</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'delbi01.shtml">Billy O&rsquo;Dell</a></td>
           <td>2.01</td>
           <td>20.0</td>
           <td>530</td>
@@ -12192,7 +12192,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>1003</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'farbo01.shtml">Bob O&#8217;Farrell</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'farbo01.shtml">Bob O&rsquo;Farrell</a></td>
           <td>1.99</td>
           <td>18.3</td>
           <td>1492</td>
@@ -13740,7 +13740,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>1132</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'bripe03.shtml">Pete O&#8217;Brien</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'bripe03.shtml">Pete O&rsquo;Brien</a></td>
           <td>1.71</td>
           <td>16.5</td>
           <td>1567</td>
@@ -19488,7 +19488,7 @@ title: AvgWAR
         </tr>
         <tr>
           <td>1611</td>
-          <td><a href="http://www.baseball-reference.com/players/o/o'conja01.shtml">Jack O&#8217;Connor</a></td>
+          <td><a href="http://www.baseball-reference.com/players/o/o'conja01.shtml">Jack O&rsquo;Connor</a></td>
           <td>0.61</td>
           <td>5.5</td>
           <td>1452</td>
