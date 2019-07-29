@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vol. 1, No. 3 - December 2000 - Table of Contents
+title: Vol. 1, No. 3 - December 2000 - Letter From The Publisher
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
