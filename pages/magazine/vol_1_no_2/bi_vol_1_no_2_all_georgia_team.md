@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vol. 1, No. 2 - September 2000 - All-Star State Teams:  Georgia
+title: Vol. 1, No. 2 - September 2000 - All-Star State Teams - Georgia
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
