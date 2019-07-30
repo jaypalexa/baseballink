@@ -36,7 +36,7 @@ title: Vol. 1, No. 2 - September 2000 - Decline Of The Minor Leagues
   </p>
 
   <p>
-    Along with the increased costs of attending a game at these newer, "more modern" stadiums is the <B>decreased</B> sense of character that permeated the ramshackle ballparks of yesterday.  This charm used to be part of the allure of attending a minor league game.
+    Along with the increased costs of attending a game at these newer, "more modern" stadiums is the <strong>decreased</strong> sense of character that permeated the ramshackle ballparks of yesterday.  This charm used to be part of the allure of attending a minor league game.
   </p>
 
   <p>

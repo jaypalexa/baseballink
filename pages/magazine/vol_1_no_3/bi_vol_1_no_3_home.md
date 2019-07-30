@@ -27,7 +27,7 @@ title: Vol. 1, No. 3 - December 2000 - Table of Contents
     <li><a href="bi_vol_1_no_3_tom_tresh.html"><strong>Former Yankee Tom Tresh Recalls Stellar Rookie Year</strong></a>, by Todd Newville</li>
     <li><a href="bi_vol_1_no_3_ryans_corner.html"><strong>Ryan's Corner</strong></a>, by Ryan</li>
     <li><a href="bi_vol_1_no_3_all_maryland_team.html"><strong>All-Star State Teams:  Maryland</strong></a>, by Dave Quinn</li>
-    <li><a href="bi_vol_1_no_3_tommy_t.html"><strong>Tommy T's Baseball Flix Pix</strong></a>, by Tom Tilert</li>
+    <li><a href="bi_vol_1_no_3_for_love_of_the_game.html"><strong>Tommy T's Baseball Flix Pix - For Love of the Game</strong></a>, by Tom Tilert</li>
     <li><a href="bi_vol_1_no_3_international_dream.html"><strong>Chasing the International Baseball Dream</strong></a>, by Olga Zavolovich</li>
     <li><a href="bi_vol_1_no_3_magic_in_rohnert_park.html"><strong>Magic in Rohnert Park</strong></a>, by Jane Richard</li>
     <li><a href="bi_vol_1_no_3_puzzle_answers.html"><strong>Puzzle Answers</strong></a></li>
