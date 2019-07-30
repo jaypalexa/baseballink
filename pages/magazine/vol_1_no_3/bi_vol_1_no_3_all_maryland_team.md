@@ -58,6 +58,8 @@ title: Vol. 1, No. 3 - December 2000 - All-Star State Teams - Maryland
   </tr>
   </table>
 
+  <hr />
+
   <p>
     Submit your best All-State baseball team!
   </p>

@@ -12,7 +12,7 @@ title: Vol. 1, No. 3 - December 2000 - Baseball Limericks
 </nav>
 
 <section class="storycontent">
-  <h1>Baseball Limericks</H2>
+  <h1>Baseball Limericks</h1>
   <p><em>by Bennett Oberfeld</em></p>
 
   <p>
