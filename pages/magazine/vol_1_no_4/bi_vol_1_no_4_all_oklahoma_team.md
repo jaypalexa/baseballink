@@ -56,11 +56,13 @@ title: Vol. 1, No. 4 - March 2001 - All-Star State Teams - Oklahoma
   <tr>
   <td>MGR</td><td>Alvin Dark</td><td>Comanche, OK</td><td>994-954, .510 Winning Pct., '62 NL Pennant w/SF, '74 WS Champ w/OAK</td>
   </tr>
-  </table>
-
-  <p>
+  <tr>
+  <td>Bench</td>
+  <td colspan="3">
     Bench: Bobby Murcer (OF), Dale Mitchell (OF), Joe Carter (OF), Paul Blair (OF), Harland Clift (3B), "Indian" Bob Johnson (OF), Don Demeter (OF), Fred Patek (SS), Bill Russell (SS), Mickey Tettleton (C), Darrell Porter (C), Cal McLish (P), Tom Sturdivant (P).
-  </p>
+  </td>
+  </tr>
+  </table>
 
   <hr />
 
