@@ -28,7 +28,7 @@ title: Vol. 1, No. 3 - December 2000 - Letter From The Publisher
   </p>
 
   <p>
-    We had planned on going in the middle of July because that fit into our schedules best.  Unfortunately, the trip needed to be pushed back a few days because I had to go to Ft. Worth, TX on business.  I did, however, get to see a Rangers game, so the trip was definitely worthwhile.  The Ballpark at Arlington is an extremely nice stadium � it reminds me of Camden Yards in Baltimore.  (These are two ballparks which you should visit if given the opportunity.)  I flew back from Texas on Friday, and Steph and I left for South Carolina on Sunday.  We didn't stop very often, and we encountered very little traffic, so the drive down took only about 10 hours.  Making good time makes me happy.
+    We had planned on going in the middle of July because that fit into our schedules best.  Unfortunately, the trip needed to be pushed back a few days because I had to go to Ft. Worth, TX on business.  I did, however, get to see a Rangers game, so the trip was definitely worthwhile.  The Ballpark at Arlington is an extremely nice stadium &mdash; it reminds me of Camden Yards in Baltimore.  (These are two ballparks which you should visit if given the opportunity.)  I flew back from Texas on Friday, and Steph and I left for South Carolina on Sunday.  We didn't stop very often, and we encountered very little traffic, so the drive down took only about 10 hours.  Making good time makes me happy.
   </p>
 
   <p>
