@@ -12,8 +12,8 @@ title: Vol. 1, No. 3 - December 2000 - McGwire 17 HR Behind Mantle
 </nav>
 
 <section class="storycontent">
-  <h1>McGwire 17 HR Behind Mantle</H2>
-  <p><em>by Raymond Mileur</em><p>
+  <h1>McGwire 17 HR Behind Mantle</h1>
+  <p><em>by Raymond Mileur</em></p>
 
   <p>
     St. Louis &mdash; I sat behind home plate that Sunday and watched Mark McGwire hit a monster bash well into the left-field upper deck.  This was Big Mac's second home run of the day &mdash; the 536<sup>th</sup> of his career &mdash; and it tied him with Mickey Mantle for the eighth spot on the all-time home run list. I didn't realize it until I got home after the game.

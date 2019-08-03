@@ -11,7 +11,7 @@ title: Vol. 1, No. 2 - September 2000 - All-Star State Teams - Georgia
   </ul>
 </nav>
 
-<section class="storycontent all-star-state-teams">
+<section class="storycontent basic-table">
   <h1>All-Star State Teams:  Georgia</h1>
   <p><em>submitted by J. P. Alexander</em></p>
   <br />

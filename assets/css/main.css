@@ -37,10 +37,6 @@ ul {
   list-style-position: inside;
 }
 
-.all-star-state-teams th, td {
-  padding: 3px;
-}
-
 .avg-war [type="text"] { 
   background: white; 
   color: black; 
@@ -94,6 +90,10 @@ ul {
   border-collapse: collapse;
   font-family: Arial;
   font-size: 8pt;
+}
+
+.basic-table th, td {
+  padding: 3px;
 }
 
 .breadcrumb {

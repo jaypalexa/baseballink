@@ -11,7 +11,7 @@ title: Vol. 1, No. 3 - December 2000 - All-Star State Teams - Maryland
   </ul>
 </nav>
 
-<section class="storycontent all-star-state-teams">
+<section class="storycontent basic-table">
   <h1>All-Star State Teams:  Maryland</h1>
   <p><em>submitted by Dave Quinn</em></p>
   <br />

@@ -11,7 +11,7 @@ title: Vol. 1, No. 4 - March 2001 - All-Star State Teams - Oklahoma
   </ul>
 </nav>
 
-<section class="storycontent all-star-state-teams">
+<section class="storycontent basic-table">
   <h1>All-Star State Teams:  Oklahoma</h1>
   <p><em>submitted by Todd Newville</em></p>
   <br />
@@ -73,4 +73,5 @@ title: Vol. 1, No. 4 - March 2001 - All-Star State Teams - Oklahoma
   <p>
     Players on the list must have been born in the state of choice and must have played in the major leagues or Negro leagues.
   </p>
+
 </section>
