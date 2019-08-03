@@ -48,7 +48,7 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    We stop for dinner on the way back and get home around 8:30.  Definitely a great day in my mind &mdash; a beautiful day for a drive and a baseball game.  I didn't need to plan much in advance, either, though I always call to confirm ticket availability and game time.  Depending on where you are, you won't need to drive quite as far.  I consider myself lucky to live in an area where there are so many teams within a close proximity.  I have been able to visit many of them, but there are still a few that I need to cross off my list.  I'll do my best to keep you informed of my travelR>
+    We stop for dinner on the way back and get home around 8:30.  Definitely a great day in my mind &mdash; a beautiful day for a drive and a baseball game.  I didn't need to plan much in advance, either, though I always call to confirm ticket availability and game time.  Depending on where you are, you won't need to drive quite as far.  I consider myself lucky to live in an area where there are so many teams within a close proximity.  I have been able to visit many of them, but there are still a few that I need to cross off my list.  I'll do my best to keep you informed of my travels.
   </p>
 
   <p>

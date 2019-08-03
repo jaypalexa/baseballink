@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Vol. 2, No. 1 - June 2001 - Letter From The Publisher
+title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
     <li><a href="../magazine-home.html">Magazine</a></li>
     <li><a href="bi_vol_2_no_1_home.html">Vol. 2, No. 1 - June 2001</a></li>
-    <li class="is-active"><a href="#" aria-current="page">Letter From The Publisher</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Tarot and Baseball, Part 1</a></li>
   </ul>
 </nav>
 
@@ -21,7 +21,7 @@ title: Vol. 2, No. 1 - June 2001 - Letter From The Publisher
   </p>
 
   <p>
-    Before offering a review, I want to briefly explain to you what a Tarot deck is. In many ways, it's like a standard pack of playing cards. It has 40 <strong>minor arcana</strong>, or<strong>"pip"</strong>cards, which are numbered from ace to ten, in four suits. These four suits correspond to clubs, hearts, spades and diamonds. There are 16 <strong>court cards</strong>, four for each suit. They usually are called King, Queen, Knight, and Page. A Tarot deck has 22 additional <strong>major arcana</strong> cards. These have names like <em>The Lovers</em>, <em>Death</em> and <em>Judgment</em>, and are the ones most people associate with a Tarot reading.
+    Before offering a review, I want to briefly explain to you what a Tarot deck is. In many ways, it's like a standard pack of playing cards. It has 40 <strong>minor arcana</strong>, or <strong>"pip"</strong>cards, which are numbered from ace to ten, in four suits. These four suits correspond to clubs, hearts, spades and diamonds. There are 16 <strong>court cards</strong>, four for each suit. They usually are called King, Queen, Knight, and Page. A Tarot deck has 22 additional <strong>major arcana</strong> cards. These have names like <em>The Lovers</em>, <em>Death</em> and <em>Judgment</em>, and are the ones most people associate with a Tarot reading.
   </p>
 
   <p>
@@ -55,15 +55,15 @@ title: Vol. 2, No. 1 - June 2001 - Letter From The Publisher
     I'll begin with the names of the four suits:
   </p>
 
-  <p>
-    <table>
-      <tr><th>Traditional</th><th>Baseball Tarot</th><th>Tarot of Baseball</th><th>T. de Cooperstown</th></tr>
-      <tr><td>Wands (fire)</td><td>Bats</td><td>Bats</td><td>Bats</td></tr>
-      <tr><td>Cups (water)</td><td>Mitts</td><td>Gloves</td><td>Gloves</td></tr>
-      <tr><td>Swords (air)</td><td>Balls</td><td>Balls</td><td>Bases</td></tr>
-      <tr><td>Disks (earth)</td><td>Bases</td><td>Caps</td><td>Balls</td></tr>
-    </table>
-  </p>
+  <table>
+    <tr><th>Traditional</th><th>Baseball Tarot</th><th>Tarot of Baseball</th><th>T. de Cooperstown</th></tr>
+    <tr><td>Wands (fire)</td><td>Bats</td><td>Bats</td><td>Bats</td></tr>
+    <tr><td>Cups (water)</td><td>Mitts</td><td>Gloves</td><td>Gloves</td></tr>
+    <tr><td>Swords (air)</td><td>Balls</td><td>Balls</td><td>Bases</td></tr>
+    <tr><td>Disks (earth)</td><td>Bases</td><td>Caps</td><td>Balls</td></tr>
+  </table>
+  
+  <br />
 
   <p>
     All three decks use <strong>Bats</strong> for <strong>Wands</strong> &mdash; the <em>fire</em> suit symbolizing creative experiences. The Wand is a lightning rod that absorbs power from without and uses it to spark power from within. The bat is the instrument by which a hitter can channel the energy of a pitched ball into an expression of his or her own inner individual force.
