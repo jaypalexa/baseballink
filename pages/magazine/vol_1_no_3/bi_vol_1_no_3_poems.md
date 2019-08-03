@@ -32,6 +32,7 @@ title: Vol. 1, No. 3 - December 2000 - Baseball Poems
   </p>
 
   <h2>Confucius says</h2>
+
   <p>
     Only two things can last forever &mdash;<br />
     <br />
@@ -42,8 +43,8 @@ title: Vol. 1, No. 3 - December 2000 - Baseball Poems
     stormy weather.<br />
   </p>
 
-
   <h2>Baseball Riddle</h2>
+  
   <p>
     <strong>A</strong> ll professional<br />
     <strong>L</strong> eagues forbid its<br />
@@ -71,4 +72,3 @@ title: Vol. 1, No. 3 - December 2000 - Baseball Poems
   </p>
 
 </section>
-

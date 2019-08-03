@@ -74,7 +74,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   <hr />
 
   <p>
-    <em>Kevin D. McCann is the author of <strong>Jackson Diamonds: Professional Baseball in Jackson, Tennessee</strong> and is the webmaster for <strong>Kitty League Baseball</strong> (<a href="http://www.kittyleague.com" TARGET="_top">http://www.kittyleague.com</a>). He is currently working on a book on the Kitty League.</em>  Update:  <a href="https://kevindmccann.wordpress.com/category/kitty-league/">Book finished!</a>
+    <em>Kevin D. McCann is the author of <strong>Jackson Diamonds: Professional Baseball in Jackson, Tennessee</strong> and is the webmaster for <strong>Kitty League Baseball</strong> (<a href="http://www.kittyleague.com">http://www.kittyleague.com</a>). He is currently working on a book on the Kitty League.</em>  Update:  <a href="https://kevindmccann.wordpress.com/category/kitty-league/">Book finished!</a>
   </p>
 
 </section>

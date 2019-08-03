@@ -17,6 +17,6 @@ title: Vol. 1, No. 3 - December 2000 - Ryan's Corner
   <h1>Ryan's Corner</h1>
   <p><em>by Ryan, age 11</em></p>
 
-  <img src="images/bi_vol_1_no_3_ryans_corner.gif">
+  <img src="images/bi_vol_1_no_3_ryans_corner.gif" alt="Batmon">
 
 </section>

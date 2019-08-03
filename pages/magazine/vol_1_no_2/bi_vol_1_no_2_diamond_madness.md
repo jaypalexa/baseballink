@@ -12,6 +12,6 @@ title: Vol. 1, No. 2 - September 2000 - Diamond Madness
 </nav>
 
 <section class="storycontent">
-  <h1>Diamond Madness</h1>
-  <img src="images/bi_vol_1_no_2_diamond_madness.gif">
+  <h1>Diamond Madness #1</h1>
+  <img src="images/bi_vol_1_no_2_diamond_madness.gif" alt="Diamond Madness">
 </section>

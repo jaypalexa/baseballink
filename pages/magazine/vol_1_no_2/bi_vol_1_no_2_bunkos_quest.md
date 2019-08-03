@@ -66,11 +66,11 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    <em>Learn more about Bunko's quest to visit every major and minor league stadium: <a href="http://minorleaguesource.com/baseball.html" TARGET="_top">http://minorleaguesource.com/baseball.html</a></em>
+    <em>Learn more about Bunko's quest to visit every major and minor league stadium: <a href="http://minorleaguesource.com/baseball.html">http://minorleaguesource.com/baseball.html</a></em>
   </p>
 
   <p>
-    <em>Visit Mike McCann's minor league history Web page: <a href="http://minorleaguesource.com/minor.html" TARGET="_top">http://minorleaguesource.com/minor.html</a></em>
+    <em>Visit Mike McCann's minor league history Web page: <a href="http://minorleaguesource.com/minor.html">http://minorleaguesource.com/minor.html</a></em>
   </p>
 
 </section>

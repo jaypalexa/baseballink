@@ -197,7 +197,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    For more information on International Baseball Rundown&trade;, please visit the website at <a href="http://members.aol.com/ibrundown/" target="_top">http://members.aol.com/ibrundown/</a>, or write to:
+    For more information on International Baseball Rundown&trade;, please visit the website at <a href="http://members.aol.com/ibrundown/">http://members.aol.com/ibrundown/</a>, or write to:
   </p>
 
   <p>
