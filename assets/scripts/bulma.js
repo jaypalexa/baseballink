@@ -7,9 +7,3 @@ document.addEventListener('DOMContentLoaded', () => {
     $target.classList.toggle('is-active');
   });
 });
-
-let dropdown = document.querySelector('#dropdown-magazine');
-dropdown.addEventListener('click', function(event) {
-    event.stopPropagation();
-    dropdown.classList.toggle('is-active');
-});
