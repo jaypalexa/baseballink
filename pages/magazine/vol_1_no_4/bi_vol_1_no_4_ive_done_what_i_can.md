@@ -77,7 +77,7 @@ title: Vol. 1, No. 4 - March 2001 - I've Done What I Can
 
   <div class="level">
     <div class="level-item has-text-centered">
-      <img src="images/bi_vol_1_no_4_free_shoeless_joe.gif">
+      <img src="images/bi_vol_1_no_4_free_shoeless_joe.gif" alt="Free Shoeless Joe">
     </div>
   </div>
 
@@ -88,7 +88,7 @@ title: Vol. 1, No. 4 - March 2001 - I've Done What I Can
   <hr />
 
   <p>
-    <em>After a 20-year sabbatical from the world of baseball, Rick Lopez has returned.  Follow his chronicled journey in "Baseball and the 10,000 Things" as part of "The Whole Shebang" at: </em><a href="http://www.bb10k.com/BB10k/BB10khome.html">http://www.bb10k.com/BB10k/BB10khome.html<a>
+    <em>After a 20-year sabbatical from the world of baseball, Rick Lopez has returned.  Follow his chronicled journey in "Baseball and the 10,000 Things" as part of "The Whole Shebang" at: </em><a href="http://www.bb10k.com/BB10k/BB10khome.html">http://www.bb10k.com/BB10k/BB10khome.html</a>
   </p>
 
 </section>

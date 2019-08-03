@@ -16,7 +16,7 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
   <p><em>by T. C. Moore</em></p>
 
 <p>
-  As baseball fans, I'm sure we are all aware of the latest physical theory that states the universe -- all energy and matter -- is made of little tiny strings and actually sports a lot more dimensions than the three spatial dimensions we are aware of:  11 dimensions, as a matter of fact, counting the time dimension. Apparently, the additional spatial dimensions are wrapped up like tiny tubes, so we don't notice them, even though we move through them constantly.
+  As baseball fans, I'm sure we are all aware of the latest physical theory that states the universe &mdash; all energy and matter &mdash; is made of little tiny strings and actually sports a lot more dimensions than the three spatial dimensions we are aware of:  11 dimensions, as a matter of fact, counting the time dimension. Apparently, the additional spatial dimensions are wrapped up like tiny tubes, so we don't notice them, even though we move through them constantly.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
 </p>
 
 <p>
-  To help us visualize with an example, let's first visit Flatland, a fictional two-dimensional world of shapes, lines and points. Flatland is a universe that is a plane, and there is no up or down! The only directions are left-right and back-forth. Like those of us in three-D space, the inhabitants of Flatland can only see each other's outsides -- which are lines. They can only move in two directions, but they don't miss a third dimension as they have no concept of "up"! Their ballpark is the same shape as ours, but they can only hit line drives and they can't go over or under players or bases, only around and next to them!
+  To help us visualize with an example, let's first visit Flatland, a fictional two-dimensional world of shapes, lines and points. Flatland is a universe that is a plane, and there is no up or down! The only directions are left-right and back-forth. Like those of us in three-D space, the inhabitants of Flatland can only see each other's outsides &mdash; which are lines. They can only move in two directions, but they don't miss a third dimension as they have no concept of "up"! Their ballpark is the same shape as ours, but they can only hit line drives and they can't go over or under players or bases, only around and next to them!
 </p>
 
 <p>
@@ -44,7 +44,7 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
 </p>
 
 <p>
-  <strong>2nd Inning:</strong> Bases loaded, 2 outs.  The 4-Space slugger appears in 3-space to bat, pops a Randy Johnson slider on a 2-2 count straight up. Runner from 3rd comes in on Lopez, slides into his 4th dimension, and reappears on other side of the plate -- but McGwire makes catch to end the inning.
+  <strong>2nd Inning:</strong> Bases loaded, 2 outs.  The 4-Space slugger appears in 3-space to bat, pops a Randy Johnson slider on a 2-2 count straight up. Runner from 3rd comes in on Lopez, slides into his 4th dimension, and reappears on other side of the plate &mdash; but McGwire makes catch to end the inning.
 </p>
 
 <p>
@@ -56,7 +56,7 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
 </p>
 
 <p>
-  <strong>5th Inning:</strong> Because our 3-space is merely a "slice" of 4-space, the 2-out grand slam by the 4-Space cleanup hitter appears only briefly in our space as it sails through the slice and over their 4-D outfield wall as well. (As our wall in 3-space is a curve though 2 dimensions, their "wall" is a curve through 3-dimensions -- that is, a sphere.)  Score: 7 to 1, Tessaracts.
+  <strong>5th Inning:</strong> Because our 3-space is merely a "slice" of 4-space, the 2-out grand slam by the 4-Space cleanup hitter appears only briefly in our space as it sails through the slice and over their 4-D outfield wall as well. (As our wall in 3-space is a curve though 2 dimensions, their "wall" is a curve through 3-dimensions &mdash; that is, a sphere.)  Score: 7 to 1, Tessaracts.
 </p>
 
 <p>
@@ -68,11 +68,11 @@ title: Vol. 1, No. 2 - September 2000 - 5th Dimensional Baseball
 </p>
 
 <p>
-  <strong>8th Inning:</strong> As a dot divides a line, and a line divides a plane, 3-space divides 4-space in "half," In 4-space, you are on one side of a 3-D universe, or the other. Bobby Cox therefore signals to hit only to right field, which has no effect to the 4-Space fielders, but makes the players think he's got something figured out. Morale is up, we score 2 -- its a tie!
+  <strong>8th Inning:</strong> As a dot divides a line, and a line divides a plane, 3-space divides 4-space in "half," In 4-space, you are on one side of a 3-D universe, or the other. Bobby Cox therefore signals to hit only to right field, which has no effect to the 4-Space fielders, but makes the players think he's got something figured out. Morale is up, we score 2 &mdash; its a tie!
 </p>
 
 <p>
-  <strong>9th Inning:</strong> In the top half of the inning, the 4-Spacers take advantage of removal of Mariano Rivera from the game (and their extra direction) to piece together a three-run rally. The crowd screams furiously at Cox's decision, but Bobby just cracks his chewing gum and sends in his pinch hitter. Albert Hawking is up (no one in 3-space has ever heard of Hawking -- Cox has scouted another league and pulled in a free-agent rookie especially for this game). 2 outs, 3 on, Hawking comes up -- but as he practice swings, the 4-space pitcher sees his quarry's bat appear and disappear in his 4-space! The pitch is a 4-space curve ball, at which Hawking takes a deep cut...the ball disappears immediately from every player, even the 4-spacers! 2-out, bottom-of-the-9th grand slam!
+  <strong>9th Inning:</strong> In the top half of the inning, the 4-Spacers take advantage of removal of Mariano Rivera from the game (and their extra direction) to piece together a three-run rally. The crowd screams furiously at Cox's decision, but Bobby just cracks his chewing gum and sends in his pinch hitter. Albert Hawking is up (no one in 3-space has ever heard of Hawking &mdash; Cox has scouted another league and pulled in a free-agent rookie especially for this game). 2 outs, 3 on, Hawking comes up &mdash; but as he practice swings, the 4-space pitcher sees his quarry's bat appear and disappear in his 4-space! The pitch is a 4-space curve ball, at which Hawking takes a deep cut...the ball disappears immediately from every player, even the 4-spacers! 2-out, bottom-of-the-9th grand slam!
 </p>
 
 <p>

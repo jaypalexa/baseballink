@@ -35,11 +35,11 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 
   <h2>Sunday, March 12, 2000</h2>
   <p>
-    That morning we traveled by bus (made in Brazil) through the countryside for about two hours to the Pinar del Rio area and the La Ermita Hotel, located in a beautiful, pristine setting overlooking a valley of Vinales, with mountains in the background. Accompanying us was Jesus Barreso Gutierrez, representing the Cuban Baseball Federation. He was very interesting and informative. For example, Jesus mentioned that El Duque (New York Yankees) was considered a "good, but definitely not great" pitcher by Cuban standards. Driving from Havana we noticed the lack of any transportation on the roads and the pervasive poverty. Still, the country has so much potential, if the political and economic systems would only change. During the trip we saw only a handful of cars and no gas stations -- only bikes and trucks hauling 15-to-20 workers, all standing up in the back, to the fields. Some Cuban farmers have a quasi-incentive program to produce crops. Up to a certain amount, all crop production goes to the government. Any excess is kept by the farmer. There is no private property.
+    That morning we traveled by bus (made in Brazil) through the countryside for about two hours to the Pinar del Rio area and the La Ermita Hotel, located in a beautiful, pristine setting overlooking a valley of Vinales, with mountains in the background. Accompanying us was Jesus Barreso Gutierrez, representing the Cuban Baseball Federation. He was very interesting and informative. For example, Jesus mentioned that El Duque (New York Yankees) was considered a "good, but definitely not great" pitcher by Cuban standards. Driving from Havana we noticed the lack of any transportation on the roads and the pervasive poverty. Still, the country has so much potential, if the political and economic systems would only change. During the trip we saw only a handful of cars and no gas stations &mdash; only bikes and trucks hauling 15-to-20 workers, all standing up in the back, to the fields. Some Cuban farmers have a quasi-incentive program to produce crops. Up to a certain amount, all crop production goes to the government. Any excess is kept by the farmer. There is no private property.
   </p>
 
   <p>
-    We played a "practice game" in the local stadium against much younger players from the nearby town. Being Sunday, it seemed like most of the town came out to the game -- approximately 500 fans. They weren't disappointed. Home Team 34, Americans/Canadians 2. The Cuban kids hit four home runs, one by their first baseman that would have cleared the Grand Canyon.
+    We played a "practice game" in the local stadium against much younger players from the nearby town. Being Sunday, it seemed like most of the town came out to the game &mdash; approximately 500 fans. They weren't disappointed. Home Team 34, Americans/Canadians 2. The Cuban kids hit four home runs, one by their first baseman that would have cleared the Grand Canyon.
   </p>
 
   <p>
@@ -52,11 +52,11 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 
   <h2>Monday, March 13, 2000</h2>
   <p>
-    Because of our "impressive" display on the previous day, our Cuban hosts decided to upgrade our opposition. Today we faced older players, ages 42 to around 55 years; however, half (10) of them at one time had played for the Cuban national team, including their starting pitcher, Julio Rivero. At age 50, he easily threw the ball in the mid-80's. The remaining players on their roster played on provincial teams. The game was played at the stadium, called the Capitan San Luis, a revolutionary hero, or Pinar del Rio Estadio -- again before a pretty decent crowd. We lost, 12-0, not bad compared to the previous day!
+    Because of our "impressive" display on the previous day, our Cuban hosts decided to upgrade our opposition. Today we faced older players, ages 42 to around 55 years; however, half (10) of them at one time had played for the Cuban national team, including their starting pitcher, Julio Rivero. At age 50, he easily threw the ball in the mid-80's. The remaining players on their roster played on provincial teams. The game was played at the stadium, called the Capitan San Luis, a revolutionary hero, or Pinar del Rio Estadio &mdash; again before a pretty decent crowd. We lost, 12-0, not bad compared to the previous day!
   </p>
 
   <p>
-    It was obvious to us that our hosts were -- and still are -- amazing baseball players. What stood out was their quickness, despite their ages and slight builds. We witnessed quickness in the field, arm strength, and especially their incredible bat speed. They also showed a deep love for the game.
+    It was obvious to us that our hosts were &mdash; and still are &mdash; amazing baseball players. What stood out was their quickness, despite their ages and slight builds. We witnessed quickness in the field, arm strength, and especially their incredible bat speed. They also showed a deep love for the game.
   </p>
 
   <p>
@@ -73,7 +73,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    We played again in the same stadium and lost, 16-5. A highlight of that game was the pitching antics of Porfirio Perez, who was a provincial player in his day -- now age 55. His motion and gyrations on the mound would make Luis Tiant look like he's standing still. It was unbelievable, plus he threw all strikes. The next day Porfirio wowed the wives with his loose-jointed moves on the dance floor.
+    We played again in the same stadium and lost, 16-5. A highlight of that game was the pitching antics of Porfirio Perez, who was a provincial player in his day &mdash; now age 55. His motion and gyrations on the mound would make Luis Tiant look like he's standing still. It was unbelievable, plus he threw all strikes. The next day Porfirio wowed the wives with his loose-jointed moves on the dance floor.
   </p>
 
   <p>
@@ -89,7 +89,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    Nearby we observed 10- and 11-year-olds practicing baseball and then playing a pickup game. It became obvious to us why baseball is king in Cuba -- superior coaching, with much greater emphasis and focus on playing the game. Most of the coaches are ex-"professional" players who displayed a firm but gentle approach. In return the kids showed both extraordinary skill and discipline on the field.
+    Nearby we observed 10- and 11-year-olds practicing baseball and then playing a pickup game. It became obvious to us why baseball is king in Cuba &mdash; superior coaching, with much greater emphasis and focus on playing the game. Most of the coaches are ex-"professional" players who displayed a firm but gentle approach. In return the kids showed both extraordinary skill and discipline on the field.
   </p>
 
   <p>
@@ -102,7 +102,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    After the game, it was our last chance to give away gifts -- baseballs, gloves, clothing, pens, soap, baseball shoes, etc. Each recipient was very grateful, no matter how small or insignificant the item. They all displayed a genuine smile to say "thank you."
+    After the game, it was our last chance to give away gifts &mdash; baseballs, gloves, clothing, pens, soap, baseball shoes, etc. Each recipient was very grateful, no matter how small or insignificant the item. They all displayed a genuine smile to say "thank you."
   </p>
 
   <p>
@@ -110,7 +110,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    This was the time to say goodbye to our new found friends. After four days, it was obvious that a mutual respect had developed -- our appreciation for the talent displayed by the Cubans, and their admiration for such an old group of guys who are still playing the game they love.
+    This was the time to say goodbye to our new found friends. After four days, it was obvious that a mutual respect had developed &mdash; our appreciation for the talent displayed by the Cubans, and their admiration for such an old group of guys who are still playing the game they love.
   </p>
 
   <p>
@@ -149,7 +149,7 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
 
   <h2>Saturday, March 18, 2000</h2>
   <p>
-    After getting up at 3:30 a.m., Sally and I caught a flight back to Seattle. When we landed safely, Sally sighed and smiled -- like our Cuban friends.
+    After getting up at 3:30 a.m., Sally and I caught a flight back to Seattle. When we landed safely, Sally sighed and smiled &mdash; like our Cuban friends.
   </p>
 
   <p>
@@ -167,11 +167,11 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
   </p>
 
   <p>
-    <em>Fitzgerald, who is 65, still pitches competitively -- locally, nationally and internationally.  He has thrown more pitches than Nolan Ryan (of course, not quite as hard) - and probably more pitches than even the legendary Satchel Paige.  In fact, it has been estimated by reliable medical authorities that Fitzgerald has thrown more than a million pitches in his lifetime.  (Fitz Fact #1:  Dick never had a sore arm due to pitching until he was age 57!)</em>
+    <em>Fitzgerald, who is 65, still pitches competitively &mdash; locally, nationally and internationally.  He has thrown more pitches than Nolan Ryan (of course, not quite as hard) - and probably more pitches than even the legendary Satchel Paige.  In fact, it has been estimated by reliable medical authorities that Fitzgerald has thrown more than a million pitches in his lifetime.  (Fitz Fact #1:  Dick never had a sore arm due to pitching until he was age 57!)</em>
   </p>
 
   <p>
-    <em>Fitz has not missed a season of pitching since age 12 -- a steak of 54 consecutive years).  He has pitched in youth, high school, college, amateur, semi-pro and senior men's baseball.  For five of those years, he pitched in the Baltimore Orioles' organization, spending his final years in the Pacific Coast League, including a brief stint with the old Seattle Rainiers.</em>
+    <em>Fitz has not missed a season of pitching since age 12 &mdash; a steak of 54 consecutive years).  He has pitched in youth, high school, college, amateur, semi-pro and senior men's baseball.  For five of those years, he pitched in the Baltimore Orioles' organization, spending his final years in the Pacific Coast League, including a brief stint with the old Seattle Rainiers.</em>
   </p>
 
   <p>

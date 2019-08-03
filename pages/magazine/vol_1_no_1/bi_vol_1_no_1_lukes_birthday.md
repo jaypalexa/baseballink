@@ -46,7 +46,7 @@ title: Vol. 1, No. 1 - June 2000 - Luke's Birthday
   </p>
 
   <p>
-    "Chris," I stated, "I doubt that I will ever have a kid, and besides, if Luke hadn't asked me where the baseball cards that I collected when I was his age were, I would have never known." I continued, "Remember that baseball game went to see when we played hooky from school?" Chris replied, "You've got to be kidding.  This is from that game?"  I told him to look closely at the card.  Chris began to tell of that day from 31 years ago when we and several of our old friends skipped school, took the bus, and went to the businessman's baseball game -- which is another story completely.
+    "Chris," I stated, "I doubt that I will ever have a kid, and besides, if Luke hadn't asked me where the baseball cards that I collected when I was his age were, I would have never known." I continued, "Remember that baseball game went to see when we played hooky from school?" Chris replied, "You've got to be kidding.  This is from that game?"  I told him to look closely at the card.  Chris began to tell of that day from 31 years ago when we and several of our old friends skipped school, took the bus, and went to the businessman's baseball game &mdash; which is another story completely.
   </p>
 
   <p>

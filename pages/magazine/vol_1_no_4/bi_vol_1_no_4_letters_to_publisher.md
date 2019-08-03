@@ -21,7 +21,7 @@ title: Vol. 1, No. 4 - March 2001 - Letters To The Publisher
 	<hr />
 	
 	<p>
-		I agree that there must be a ban on steroid usage in baseball. If this problem continues to be swept under the carpet, the very foundations of The Game will begin to crumble. How can we fully appreciate the beauty of a home run (or a home run race) when it seems likely that a player has bulked-up with steroids? How can we find any meaning in comparing our present day sluggers with the heroes of the past? Sure, there are a multitude of 'hidden' factors which determine the final outcome of a game or a season such as the size, shape, or elevation of a ballpark -- not to mention the genetic makeup of the player. But steroids have no place among these factors. Using steroids is cheating and cheaters have no integrity. No one said it would be easy to initiate a steroid-testing program, but we can pay now or pay very dearly later. Do we want baseball to end up a joke like the Olympics?
+		I agree that there must be a ban on steroid usage in baseball. If this problem continues to be swept under the carpet, the very foundations of The Game will begin to crumble. How can we fully appreciate the beauty of a home run (or a home run race) when it seems likely that a player has bulked-up with steroids? How can we find any meaning in comparing our present day sluggers with the heroes of the past? Sure, there are a multitude of 'hidden' factors which determine the final outcome of a game or a season such as the size, shape, or elevation of a ballpark &mdash; not to mention the genetic makeup of the player. But steroids have no place among these factors. Using steroids is cheating and cheaters have no integrity. No one said it would be easy to initiate a steroid-testing program, but we can pay now or pay very dearly later. Do we want baseball to end up a joke like the Olympics?
 	</p>
 
 	<p>
@@ -128,8 +128,8 @@ title: Vol. 1, No. 4 - March 2001 - Letters To The Publisher
 	<table>
 	<tr>
 	<td>AVG</td><td>G</td><td>AB</td><td>R</td><td>H</td><td>2B</td><td>3B</td><td>HR</td><td>RBI</td><td>BB</td><td>K</td><td>OBP</td><td>SLG</td>
-	<tr>
 	</tr>
+	<tr>
 	<td>.269</td><td>12</td><td>26</td><td>6</td><td>7</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>3</td><td>.345</td><td>.423</td>
 	</tr>
 	</table>
@@ -144,7 +144,7 @@ title: Vol. 1, No. 4 - March 2001 - Letters To The Publisher
 	</p>
 
 	<p>
-		<em>"When Neil Armstrong first set foot on the moon, he and all the space scientists were puzzled by an unidentifiable white object. I knew immediately what it was. That was a home run ball hit off me in 1937 by Jimmie Foxx." -- Hall of Fame pitcher Lefty Gomez</em>
+		<em>"When Neil Armstrong first set foot on the moon, he and all the space scientists were puzzled by an unidentifiable white object. I knew immediately what it was. That was a home run ball hit off me in 1937 by Jimmie Foxx." &mdash; Hall of Fame pitcher Lefty Gomez</em>
 	</p>
 
 	<p>
