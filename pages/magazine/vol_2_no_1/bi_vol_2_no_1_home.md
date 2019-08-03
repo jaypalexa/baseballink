@@ -15,8 +15,8 @@ title: Vol. 2, No. 1 - June 2001 - Table of Contents
 
   <ul>
     <li><a href="bi_vol_2_no_1_cover.html"><strong>The Cover</strong></a></li>
-    <li><a href="bi_vol_2_no_1_all_alabama_team.html"><strong>All-Star State Teams:  Alabama</strong></a>, by Steve A. Maze</li>
     <li><a href="bi_vol_2_no_1_letter_from_publisher.html"><strong>Letter from the Publisher</strong></a></li>
+    <li><a href="bi_vol_2_no_1_all_alabama_team.html"><strong>All-Star State Teams:  Alabama</strong></a>, by Steve A. Maze</li>
     <li><a href="bi_vol_2_no_1_cow_pasture.html"><strong>Cow Pasture Baseball</strong></a>, by Bill Raven</li>
     <li><a href="bi_vol_2_no_1_kell.html"><strong>Catching Up With Kell</strong></a>, by Jim Sanders</li>
     <li><a href="bi_vol_2_no_1_diamond_madness.html"><strong>Diamond Madness #4</strong></a> - a baseball crossword puzzle</li>

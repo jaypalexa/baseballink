@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vol. 1, No. 3 - December 2000 - Table of Contents
+title: Vol. 1, No. 3 - December 2000 - Cover
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
@@ -13,5 +13,5 @@ title: Vol. 1, No. 3 - December 2000 - Table of Contents
 
 <section class="storycontent">
   <h1>Cover</h1>
-  <img src="images/bi_vol_1_no_3_cover.jpg">
+  <img src="images/bi_vol_1_no_3_cover.jpg" alt="Vol. 1, No. 4 - Cover">
 </section>
