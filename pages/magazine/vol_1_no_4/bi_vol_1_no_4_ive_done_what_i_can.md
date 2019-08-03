@@ -12,7 +12,7 @@ title: Vol. 1, No. 4 - March 2001 - I've Done What I Can
 </nav>
 
 <section class="storycontent">
-  <h1>I've Done What I Can</H2>
+  <h1>I've Done What I Can</h1>
   <p><em>by Rick Lopez</em></p>
 
   <p>
@@ -88,7 +88,7 @@ title: Vol. 1, No. 4 - March 2001 - I've Done What I Can
   <hr />
 
   <p>
-    <em>After a 20-year sabbatical from the world of baseball, Rick Lopez has returned.  Follow his chronicled journey in "Baseball and the 10,000 Things" as part of "The Whole Shebang" at:  </em><a href="http://www.velocity.net/~bb10k">http://www.velocity.net/~bb10k<A>
+    <em>After a 20-year sabbatical from the world of baseball, Rick Lopez has returned.  Follow his chronicled journey in "Baseball and the 10,000 Things" as part of "The Whole Shebang" at: </em><a href="http://www.bb10k.com/BB10k/BB10khome.html">http://www.bb10k.com/BB10k/BB10khome.html<a>
   </p>
 
 </section>
