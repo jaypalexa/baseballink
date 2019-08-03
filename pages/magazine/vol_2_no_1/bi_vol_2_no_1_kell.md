@@ -62,11 +62,11 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   </p>
 
   <p>
-  What could I say?  "Mr. Evans, we had a deal.  If they are paying him $45,000, then that is fine with me."
+    What could I say?  "Mr. Evans, we had a deal.  If they are paying him $45,000, then that is fine with me."
   </p>
 
   <p>
-  The next time I saw Phil, I asked, "I thought you told me you were making $50,000?"
+    The next time I saw Phil, I asked, "I thought you told me you were making $50,000?"
   </p>
 
   <p>
@@ -77,7 +77,7 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
     I sure made him know he made me look like a BOZO!  But that is what you had to do in those days to get a pay increase...and in didn't hurt to have the numbers!
   </p>
 
-<h2>On All-Star games...</h2>
+  <h2>On All-Star games...</h2>
 
   <p>
     The year of that negotiation, Mr. Evans told me, "You better go out and have a good year, you know, to earn the money were paying you!" I hit .340, drove in 100 runs, had 56 doubles &mdash; more doubles than anyone (since then) until this past year, more doubles than anyone since 1937 &mdash; and I led all the voting for the All-Star game, in either league.  The headlines read "KELL LEADS ALL MAJORS IN VOTING, JACKIE ROBINSON IS 2ND."  The way it is in the All-Star balloting, I got like a million and half votes, and the next closest third baseman got like 300,000.  But when you've hit .300 for several years, the fans don't forget and it just a given!  They voted by name.  I deserved to be in the All-Star game in '46, but I hadn't hit .300 in the Majors yet.  Then I made the All-Star game my last two years and didn't deserve it.  There were third basemen that were coming up that deserved it more than I.
@@ -86,21 +86,21 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   <h2>More on salaries...</h2>
 
   <p>
-  1950 was a good year for me (.340, 101 RBI, 56 doubles, All-Star) ...and they wanted to cut my salary because I had not led the league.  Go figure!
+    1950 was a good year for me (.340, 101 RBI, 56 doubles, All-Star) ...and they wanted to cut my salary because I had not led the league.  Go figure!
   </p>
 
   <h2>Vital statistics</h2>
 
   <p>
-    <strong>Name:</strong>  George Clyde Kell<br />
-    <strong>Born:</strong>  August 23, 1922, Swifton, Arkansas<br />
-    <strong>Height:</strong>  5' 9"<br />
-    <strong>Weight:</strong>  175 lbs<br />
-    <strong>Position:</strong>  Third base<br />
-    <strong>Bats:</strong>  Right<br />
-    <strong>Throws:</strong>  Right<br />
-    <strong>Major League debut:</strong>  September 28, 1943<br />
-    <strong>Teams:</strong>  PHI-A 43-46; DET 46-52; BOS-A 52-54; CHI-A 54-56; BAL 56-57<br />
+    <em>Name:</em>  George Clyde Kell<br />
+    <em>Born:</em>  August 23, 1922, Swifton, Arkansas<br />
+    <em>Height:</em>  5' 9"<br />
+    <em>Weight:</em>  175 lbs<br />
+    <em>Position:</em>  Third base<br />
+    <em>Bats:</em>  Right<br />
+    <em>Throws:</em>  Right<br />
+    <em>Major League debut:</em>  September 28, 1943<br />
+    <em>Teams:</em>  PHI-A 43-46; DET 46-52; BOS-A 52-54; CHI-A 54-56; BAL 56-57<br />
   </p>
 
   <h2>Career statistics</h2>
@@ -127,7 +127,7 @@ AVG    G      AB      R      H       2B     3B    HR   RBI   FA
   <hr />
 
   <p>
-    For further reading, try the book <em>Hello Everybody, I'm George Kell<em> (Sports Publishing, Champaign, IL, 1998)</em>
+    For further reading, try the book <em>Hello Everybody, I'm George Kell (Sports Publishing, Champaign, IL, 1998)</em>
   </p>
 
 </section>
