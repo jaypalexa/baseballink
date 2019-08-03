@@ -17,7 +17,7 @@ title: Vol. 1, No. 4 - March 2001 - Missing October
   <p><em>by Jess Zielinski</em></p>
 
   <p>
-    <strong><em>OCTOBER IS THE CRUELEST MONTH.</strong></em> It brings both the apogee and the end of baseball, ushering in winter's shrinking days, closed-in spaces, puffy coats with collars you can barely see over and the realization that you will get snow stuck in that space between your wrist and your gloves.
+    <strong><em>OCTOBER IS THE CRUELEST MONTH.</em></strong> It brings both the apogee and the end of baseball, ushering in winter's shrinking days, closed-in spaces, puffy coats with collars you can barely see over and the realization that you will get snow stuck in that space between your wrist and your gloves.
   </p>
 
   <p>
