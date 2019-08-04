@@ -17,7 +17,7 @@ title: Promotion/Relegation Tables
   </p>
   
   <p>
-    The top eight BPL teams would have a playoff consisting of three rounds of seven-game series. Seedings would be based on overall record (using run differential as a tie-breaker, if needed). 1 vs 8, 2 vs 7, etc., — higher seed hosting — culminating in a World Series. This would be the same number of rounds in the current MLB playoffs.
+    The top eight BPL teams would have a playoff consisting of three rounds of seven-game series. Seedings would be based on overall record (using run differential as a tie-breaker, if needed). 1 vs 8, 2 vs 7, etc.,&mdash;higher seed hosting&mdash;culminating in a World Series. This would be the same number of rounds in the current MLB playoffs.
   </p>
 
   <p>

@@ -134,7 +134,7 @@ title: Average WAR Explained
     </form>
     <div class="storycontent">
       <p>
-        The result is <strong>Average WAR (avgWAR)</strong> — the average number of wins above replacement that a player produces for his team over the course of a single season.
+        The result is <strong>Average WAR (avgWAR)</strong>&mdash;the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>
       <div style="margin-left: 12px;">
         <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
