@@ -1,7 +1,7 @@
-&mdash;-
+---
 layout: default
 title: Vol. 2, No. 2 - September 2001 - Baseball Time
-&mdash;-
+---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>

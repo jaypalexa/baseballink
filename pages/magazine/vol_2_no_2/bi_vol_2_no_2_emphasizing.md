@@ -13,7 +13,7 @@ title: Vol. 2, No. 2 - September 2001 - Emphasizing Division Records
 
 <section class="storycontent">
   <h1>Emphasizing Division Records</h1>
-  <p><em>by Dave Quinn</em><p>
+  <p><em>by Dave Quinn</em></p>
 
   <p>
     Earl Weaver used to say that to win you have to split with your own division and clean up on the other division. While this worked for Earl for many years, something seems wrong about this approach. The division winner should be the team that played the best against its division foes. The division record should decide the division winner, with the overall record acting as the tiebreaker.
@@ -31,14 +31,14 @@ title: Vol. 2, No. 2 - September 2001 - Emphasizing Division Records
     If division records were used the last ten years to decide division winners and wildcard teams, there would have been some major changes in the playoffs. The two tables below show the years that division records would have made a difference in determining division winners and wildcard teams. Table 1 shows years 1995-2000, and Table 2 shows 1990-93. 1994 was not used since there were no playoffs that year.
   </p>
 
+  <h2>Table 1: Seasons 1995-2000</h2>
   <p>
-    <strong>Table 1: Seasons 1995-2000</strong>
-    <img src="images/table1.gif" width="503" height="308" alt="Table 1: Seasons 1995-2000">
+    <img src="images/table1.gif" width="503" height="308" alt="Table 1: Seasons 1995-2000" />
   </p>
 
+  <h2>Table 2: 1990-1993</h2>
   <p>
-    <strong>Table 2: 1990-1993</strong>
-    <img src="images/table2.gif" width="388" height="172" alt="Table 2: 1990-1993">
+    <img src="images/table2.gif" width="388" height="172" alt="Table 2: 1990-1993" />
   </p>
 
   <p>
@@ -46,7 +46,7 @@ title: Vol. 2, No. 2 - September 2001 - Emphasizing Division Records
   </p>
 
   <p>
-    The impact of this system would have gone beyond who made the playoffs and who didn't. The Twins would have missed out on their &quot;worst to first&quot; season in 1991 because they would not have made the playoffs. There would not have been a &quot;Subway Series&quot; in 2000 because neither the Yankees nor the Mets would have seen the postseason. The Reds would not have been the 1990 World Champs. The baseball world would have been all a buzz about the 1997 Marlins finishing third in the NL East but getting the wildcard position for having the best overall record.
+    The impact of this system would have gone beyond who made the playoffs and who didn't. The Twins would have missed out on their "worst to first" season in 1991 because they would not have made the playoffs. There would not have been a "Subway Series" in 2000 because neither the Yankees nor the Mets would have seen the postseason. The Reds would not have been the 1990 World Champs. The baseball world would have been all a buzz about the 1997 Marlins finishing third in the NL East but getting the wildcard position for having the best overall record.
   </p>
 
   <p>

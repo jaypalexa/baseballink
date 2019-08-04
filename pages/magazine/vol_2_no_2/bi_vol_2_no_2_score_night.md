@@ -56,7 +56,7 @@ title: Vol. 2, No. 2 - September 2001 - Score Night
   </p>
 
   <p>
-    End of the eighth, and down in the bullpen Brian Rose had finished his warm-up tosses. Bare arms showing below shirtsleeves the poker-faced reliever grabbed his jacket and strode to the dugout. Fellow pitcher Tim Davidson yelled out encouragement. "Go get 'em Rosie! Sleeveless and all. Sleeveless in Santa Rosa!".
+    End of the eighth, and down in the bullpen Brian Rose had finished his warm-up tosses. Bare arms showing below shirtsleeves the poker-faced reliever grabbed his jacket and strode to the dugout. Fellow pitcher Tim Davidson yelled out encouragement. "Go get 'em Rosie! Sleeveless and all. Sleeveless in Santa Rosa!"
   </p>
 
   <p>
