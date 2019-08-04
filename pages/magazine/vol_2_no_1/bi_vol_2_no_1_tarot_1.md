@@ -17,12 +17,6 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   <p><em>by Kerri S. McIntire</em></p>
 
   <p>
-    <figure class="float-left">
-      <img src="images/seven_of_caps.jpg" alt="Seven of Caps">
-      <figcaption class="has-text-centered">
-        Seven of Caps
-      </figcaption>
-    </figure>
     Using the Internet as my research tool, I discovered no less than three Tarot card decks inspired by the Great American Pastime. These are the <strong>Tarot of Baseball </strong>(U. S. Games Inc.) by Beverly Ransom and Robert Kasher, the <strong>Baseball Tarot</strong> (Workman Publishing) by Laura Philips and Mark Lerner, and the <strong>Tarot de Cooperstown</strong> by Jim Markowich and Paul Kuhrman.
   </p>
 
@@ -82,6 +76,13 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   <p>
     For <strong>Swords</strong>, the suit of mental experiences, the decks disagree. <strong>Balls </strong>do seem better than <strong>Bases</strong> for representing the element of <em>air</em>, and a lot strategy lies in how the ball is pitched, hit or fielded. But this suit is about maneuvering for an advantage. Runners try to win the bases, and fielders try to defend them. This is baseball's true match of wits and agility.
   </p>
+
+  <figure class="float-right">
+    <img src="images/seven_of_caps.jpg" alt="Seven of Caps">
+    <figcaption class="has-text-centered">
+      Seven of Caps
+    </figcaption>
+  </figure>
 
   <p>
     The decks also disagree on <strong>Disks</strong>. This is the suit of <em>earth</em> experiences, and so <strong>Bases</strong> are the natural symbol. <strong>Balls</strong> work well visually, as they are disk-shaped in two-dimensional drawings. But the most interesting icon to me is <strong>Caps</strong>. Baseball caps sport the team logo and franchise name--those things that give a ball player worldly sustenance and identity.
