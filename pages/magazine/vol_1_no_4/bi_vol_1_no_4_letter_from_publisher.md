@@ -37,7 +37,7 @@ title: Vol. 1, No. 4 - March 2001 - Letter From The Publisher
 
   <p>
     J. P. Alexander<br />
-    Publisher, Baseball Ink
+    Publisher, <em>Baseball Ink</em>
   </p>
 
 </section>

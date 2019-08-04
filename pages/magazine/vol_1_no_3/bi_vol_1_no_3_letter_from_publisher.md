@@ -103,7 +103,7 @@ title: Vol. 1, No. 3 - December 2000 - Letter From The Publisher
 
   <p>
     J. P. Alexander<br />
-    Publisher, Baseball Ink
+    Publisher, <em>Baseball Ink</em>
   </p>
 
 </section>

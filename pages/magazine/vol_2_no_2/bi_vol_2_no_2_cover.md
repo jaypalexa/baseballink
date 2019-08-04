@@ -1,0 +1,17 @@
+---
+layout: default
+title: Vol. 2, No. 2 - September 2001 - Cover
+---
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="../magazine-home.html">Magazine</a></li>
+    <li><a href="bi_vol_2_no_2_home.html">Vol. 2, No. 2 - September 2001</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Cover</a></li>
+  </ul>
+</nav>
+
+<section class="storycontent">
+  <h1>Cover</h1>
+  <img src="images/bi_vol_2_no_2_cover.jpg" alt="Vol 2., No. 2 - Cover">
+</section>
