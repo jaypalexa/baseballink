@@ -17,7 +17,7 @@ title: Average WAR for 2015 Hall of Fame Candidates
   
   <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg"><img title="Eddie Guardado" alt="Eddie Guardado" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a></p>
   <p><a href="http://www.baseball-reference.com/players/m/martipe02.shtml">Pedro Martinez</a> leads the pack of first-year candidates.</p>
-  <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
+  <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
   <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
