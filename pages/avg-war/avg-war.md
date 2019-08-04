@@ -18,7 +18,7 @@ title: Average WAR Explained
     <p>
       <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:
     </p>
-    <p>
+    <div>
       <ul>
         <li>8+ MVP Quality</li>
         <li>5+ All-Star Quality</li>
@@ -26,7 +26,7 @@ title: Average WAR Explained
         <li>0-2 Reserve</li>
         <li>&lt;0 Replacement Level</li>
       </ul>
-    </p>
+    </div>
     <form name="calculator">
       <p>
         For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
@@ -54,13 +54,13 @@ title: Average WAR Explained
                     <td class="calcDark"></td>
                   </tr>
                   <tr>
-                    <td class="calcLight"><input type="text" name="battingOWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="battingOWarValue" size="3" /></td>
                     <td class="calcLight">+</td>
-                    <td class="calcLight"><input type="text" name="battingDWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="battingDWarValue" size="3" /></td>
                     <td class="calcLight">=</td>
-                    <td class="calcLight"><input type="text" name="battingCareerWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="battingCareerWarValue" size="3" /></td>
                     <td class="calcDark"> / (</td>
-                    <td class="calcDark"><input type="text" name="battingCareerGValue" /></td>
+                    <td class="calcDark"><input type="text" name="battingCareerGValue" size="3" /></td>
                     <td class="calcDark"> / 162 ) =</td>
                     <td class="has-text-weight-extra-bold has-background-black has-text-warning has-text-centered is-size-6">
                       <span id="battingAvgWarValue">0.0</span>
@@ -81,14 +81,14 @@ title: Average WAR Explained
         For <a href="http://www.baseball-reference.com/about/pitch_glossary.shtml#162_avg">pitchers</a>, we use:
       </p>
       <pre><strong>avgWAR = (careerWAR / ((pitchingCareerG + pitchingCareerGS) / 68))</strong></pre>
-      <table id="pitchingMain" width="100%">
+      <table id="pitchingMain">
         <tbody>
           <tr>
             <td class="calcDark is-size-6">Pitching</td>
           </tr>
           <tr>
             <td class="calcDark">
-              <table id="pitchingWAR" width="100%">
+              <table id="pitchingWAR">
                 <tbody>
                   <tr>
                     <td class="calcLight">WAR</td>
@@ -108,17 +108,17 @@ title: Average WAR Explained
                     <td class="calcDark"></td>
                   </tr>
                   <tr>
-                    <td class="calcLight"><input type="text" name="pitchingWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingWarValue" size="3" /></td>
                     <td class="calcLight">+</td>
-                    <td class="calcLight"><input type="text" name="pitchingOWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingOWarValue" size="3" /></td>
                     <td class="calcLight">+</td>
-                    <td class="calcLight"><input type="text" name="pitchingDWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingDWarValue" size="3" /></td>
                     <td class="calcLight">=</td>
-                    <td class="calcLight"><input type="text" name="pitchingCareerWarValue" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingCareerWarValue" size="3" /></td>
                     <td class="calcDark"> / ( (</td>
-                    <td class="calcDark"><input type="text" name="pitchingCareerGValue" /></td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGValue" size="3" /></td>
                     <td class="calcDark"> +</td>
-                    <td class="calcDark"><input type="text" name="pitchingCareerGsValue" /></td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
                     <td class="calcDark"> )  /  68 ) =</td>
                     <td class="has-text-weight-extra-bold has-background-black has-text-warning has-text-centered is-size-6"> 
                       <span id="pitchingAvgWarValue">0.0</span>
@@ -20829,7 +20829,7 @@ title: Average WAR Explained
     <p>Stats from <a href="http://seanlahman.com/baseball-archive/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/about/war_explained.shtml">Baseball-Reference.com</a>.</p>
   </div>
 </section>
-<script type="text/javascript" language="javascript">
+<script>
   function calculateBattingCareerWar()
   {
     if (isNaN(parseFloat(document.calculator.battingOWarValue.value)))
