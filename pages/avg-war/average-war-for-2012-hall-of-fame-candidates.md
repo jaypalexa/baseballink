@@ -17,7 +17,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <p><a title="Jeff Bagwell" href="http://commons.wikimedia.org/wiki/File:The_Killer_Bs.jpg"><img style="margin: 0px 0px 10px 10px; display: inline; border-width: 0px;" title="Jeff Bagwell" src="{{ site.url }}{{ site.baseurl }}/assets/images/jeff_bagwell.jpg" alt="Jeff Bagwell" width="129" height="157" class="float-right" /></a> <a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> tops the list again for Baseball Hall of Fame candidates.  None of the first-year 2012 candidates makes the cut.</p>
   <p><a href="http://www.baseball-reference.com/players/j/jordabr01.shtml">Brian Jordan</a> leads the pack of non-worthy rookies, largely due to an impressive defensive WAR.</p>
   <p><a href="http://www.baseball-reference.com/players/w/womacto01.shtml">Tony Womack</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year&rsquo;s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -25,7 +25,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
-  <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+  <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
   <tr class="avg-war-players-header">
@@ -142,6 +142,6 @@ title: Average WAR for 2012 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
-  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
+  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
 
 </section>

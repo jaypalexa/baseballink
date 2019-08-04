@@ -17,13 +17,13 @@ title: Baseball Limericks
     Show batters your pinpoint control<br />
     Finesse them beaucoup<br />
     But whatever you do<br />
-    Don’t hang a curveball near Albert Pujols
+    Don't hang a curveball near Albert Pujols
   </p>
   <h3>Bill Veeck</h3>
   <p><em>by BennettO</em><br />
     Leave it to Bill Veeck to finally fidget<br />
     To get attendance to reach double digits<br />
-    Fireworks, "Ladies’ Day"<br />
+    Fireworks, "Ladies' Day"<br />
     An organist and half-price pay<br />
     And to bat he would send up a midget
   </p>
@@ -38,8 +38,8 @@ title: Baseball Limericks
   <h3>Philly Fans</h3>
   <p><em>by BennettO</em><br />
     In Philly their fans would boo Jesus<br />
-    Asking "What’s he done lately to please us?"<br />
-    "We’ve heard all the loud raves<br />
+    Asking "What's he done lately to please us?"<br />
+    "We've heard all the loud raves<br />
     Of how Jesus saves<br />
     So did he blow that late lead to appease us?"
   </p>
@@ -47,9 +47,9 @@ title: Baseball Limericks
   <p><em>by BennettO</em><br />
     When you ask Mr. Cub Ernie Banks<br />
     "How could you play with inferior ranks?"<br />
-    What with two MVP’s<br />
+    What with two MVP's<br />
     Five hundred homers to please?<br />
-    He just said "Let’s play two" and gave thanks
+    He just said "Let's play two" and gave thanks
   </p>
   <h3>Roger Craig</h3>
   <p><em>by BennettO</em><br />
@@ -69,11 +69,11 @@ title: Baseball Limericks
   </p>
   <h3>Barry Bonds</h3>
   <p><em>by TheUmpire</em><br />
-    There’s a slugger in baseball named Barry<br />
-    Who hits homers so often it’s scary<br />
+    There's a slugger in baseball named Barry<br />
+    Who hits homers so often it's scary<br />
     But he gets annoyed<br />
-    When you ask him ’bout ’roids<br />
-    If you’re around him you’d better be wary
+    When you ask him 'bout 'roids<br />
+    If you're around him you'd better be wary
   </p>
   <h3>Curt Schilling</h3>
   <p><em>by TheUmpire</em><br />
@@ -94,8 +94,8 @@ title: Baseball Limericks
   <h3>Bud Selig</h3>
   <p><em>by SamM</em><br />
     There once was a man named Selig<br />
-    Who vied to be baseball’s bigwig<br />
-    He couldn’t rely on class<br />
+    Who vied to be baseball's bigwig<br />
+    He couldn't rely on class<br />
     To be among the top brass<br />
     So he slimed his way into the gig
   </p>
@@ -119,7 +119,7 @@ title: Baseball Limericks
   <p><em>by SamM</em><br />
     There once was pitcher named Perry<br />
     Of whom many an umpire was wary<br />
-    If he didn’t throw a spitter<br />
+    If he didn't throw a spitter<br />
     To each and every hitter<br />
     Then there must also be a Tooth Fairy
   </p>
@@ -147,12 +147,12 @@ title: Baseball Limericks
     He found English impossible!<br />
     But it was baseball or acting Kabuki
   </p>
-  <h3>An A’s Fan</h3>
+  <h3>An A's Fan</h3>
   <p><em>by StaunchSombrero</em><br />
-    In the eighties I followed the A’s<br />
+    In the eighties I followed the A's<br />
     Bleacher seats and a beer-induced haze<br />
     Canseco, LaRussa<br />
-    Now it’s hard to get used ta<br />
+    Now it's hard to get used ta<br />
     How badly they are nowadays
   </p>
   <h3>Bert Blyleven</h3>
@@ -174,7 +174,7 @@ title: Baseball Limericks
   <h3>Number 45</h3>
   <p><em>by TommyT</em><br />
     The pitcher – nickname of Gibby<br />
-    Intimidator? That’s not a fibby<br />
+    Intimidator? That's not a fibby<br />
     Glaring from the mound<br />
     Fastball speed of sound<br />
     Gonna put one right in your ribby
@@ -206,7 +206,7 @@ title: Baseball Limericks
   <h3>Kent Tekulve</h3>
   <p><em>by SamM</em><br />
     There once was a reliever named Tekulve<br />
-    You young fellas might ask, who’s he?<br />
+    You young fellas might ask, who's he?<br />
     Bespectacled and thin as a rail<br />
     His sidearm seemed to hail<br />
     All the way from Tallahassee
@@ -245,26 +245,26 @@ title: Baseball Limericks
   </p>
   <h3>Danny Ainge</h3>
   <p><em>by SamM</em><br />
-    I don’t want to be here, said Ainge<br />
-    Methinks it’s time for a change<br />
+    I don't want to be here, said Ainge<br />
+    Methinks it's time for a change<br />
     Rather than make double plays<br />
     For the lowly Blue Jays<br />
-    I’ll be shooting from three-point range
+    I'll be shooting from three-point range
   </p>
   <h3>2012 MLB Salaries</h3>
   <p><em>by TheUmpire</em><br />
     Salaries up four percent<br />
     Whilst the rest of us struggle for rent<br />
-    The min’s half a mil<br />
+    The min's half a mil<br />
     Yet we go see them still<br />
     Attendance continues ascent
   </p>
-  <h3>Rakuten’s Most Golden Eagle?</h3>
+  <h3>Rakuten's Most Golden Eagle?</h3>
   <p><em>by TheUmpire</em><br />
     Andruw Jones signed a deal in Japan<br />
     To perk up his career if he can<br />
     His last five seasons were bad<br />
-    So I’m sure he’ll be glad<br />
+    So I'm sure he'll be glad<br />
     If he can once again be "the man"
   </p>
   <h3>Ozzie Smith</h3>
@@ -272,16 +272,16 @@ title: Baseball Limericks
     Up the middle the Oz was a wiz<br />
     Backflips and DPs were his biz<br />
     Other shortstops shed tears<br />
-    ’Cuz for 13 straight years<br />
+    'Cuz for 13 straight years<br />
     Every Gold Glove awarded was his
   </p>
   <h3>Carlton Fisk Burglarized</h3>
   <p><em>by TheUmpire</em><br />
-    The police didn’t see whilst patrollin’<br />
-    Pudge’s collectible coins being stolen<br />
+    The police didn't see whilst patrollin'<br />
+    Pudge's collectible coins being stolen<br />
     Always a risk<br />
     Trying to steal off Fisk<br />
-    Many baserunners still need consolin’
+    Many baserunners still need consolin'
   </p>
   <h3>A-Rod Linked</h3>
   <p><em>by TheUmpire</em><br />
@@ -301,11 +301,11 @@ title: Baseball Limericks
   </p>
   <h3>Josh Booty Redux</h3>
   <p><em>by TheUmpire</em><br />
-    MLB’s "The Next Knuckler" show<br />
+    MLB's "The Next Knuckler" show<br />
     Revealed who had the best throw<br />
     Former first-rounder Josh Booty<br />
     Beat out Doug Flutie<br />
-    So to D-Backs spring training he’ll go
+    So to D-Backs spring training he'll go
   </p>
   <h3>Skydiving Brian Cashman</h3>
   <p><em>by TheUmpire</em><br />
@@ -317,10 +317,10 @@ title: Baseball Limericks
   </p>
   <h3>Tim McCarver Retires</h3>
   <p><em>by TheUmpire</em><br />
-    McCarver says he’s gonna quit<br />
+    McCarver says he's gonna quit<br />
     Not an unwelcome obit<br />
     For the last 18 years<br />
-    He’s been noise in my ears<br />
+    He's been noise in my ears<br />
     His announcing gives me a fit
   </p>
   <h3>Five WP in One Inning</h3>
@@ -342,9 +342,9 @@ title: Baseball Limericks
   <h3>MLB 2014 Opening Series</h3>
   <p><em>by TheUmpire</em><br />
     Sydney will be the scene<br />
-    For the first time it’s ever been<br />
+    For the first time it's ever been<br />
     Aussies will wonder<br />
-    What’s happening Down Under<br />
+    What's happening Down Under<br />
     When MLB opens in 2014
   </p>
   <h3>Homer Bailey</h3>
@@ -360,7 +360,7 @@ title: Baseball Limericks
     A routine play so often rehearsed<br />
     Tim Hudson went to go cover first<br />
     Eric Young was called out<br />
-    But Hudson’s future’s in doubt<br />
+    But Hudson's future's in doubt<br />
     Broken ankle now needs to be nursed
   </p>
   <h3>4000 and Counting</h3>

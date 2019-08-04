@@ -13,7 +13,7 @@ title: Average WAR Explained
 <section class="storycontent avg-war">
   <h1>Average WAR Explained</h1>
     <p>
-      <a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player’s average WAR per season.
+      <a href="http://www.beyondtheboxscore.com/2011/2/28/2019517/using-trammell-and-reuschel-to-explain-war">Wins Above Replacement</a> (WAR) is a cumulative statistic (like H, HR, W, etc.), so the longer a player is active, the higher (or lower) his WAR. Here we attempt to translate WAR into a rate statistic (like AVG, ERA, etc.) to show a player's average WAR per season.
     </p>
     <p>
       <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:
@@ -20827,7 +20827,7 @@ title: Average WAR Explained
       </tbody>
     </table>
     <br />
-    <p>Stats from <a href="http://seanlahman.com/baseball-archive/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/about/war_explained.shtml">Baseball-Reference.com</a>.</p>
+    <p>Stats from <a href="http://seanlahman.com/baseball-archive/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/about/war_explained.shtml">Baseball-Reference.com</a>.</p>
   </div>
 </section>
 <script>

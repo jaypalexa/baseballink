@@ -15,7 +15,7 @@ title: Average WAR for 2018 Hall of Fame Candidates
   <p><em>November 18, 2018 by TheUmpire</em></p>
   <br />
 
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -23,7 +23,7 @@ title: Average WAR for 2018 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
-  <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+  <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
   <tr class="avg-war-players-header">

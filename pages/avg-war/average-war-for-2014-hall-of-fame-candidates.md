@@ -17,8 +17,8 @@ title: Average WAR for 2014 Hall of Fame Candidates
 
   <p><a title="Todd Jones" href="http://en.wikipedia.org/wiki/File:ToddJones.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="Todd Jones" alt="Todd Jones" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/todd_jones.jpg" width="183" height="260" /></a></p>
   <p><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml">Mike Mussina</a> leads the pack of first-year candidates.</p>
-  <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -26,7 +26,7 @@ title: Average WAR for 2014 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
-  <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+  <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
   <tr class="avg-war-players-header">
@@ -179,6 +179,6 @@ title: Average WAR for 2014 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
-  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
+  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
  
 </section>

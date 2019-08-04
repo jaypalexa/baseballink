@@ -17,8 +17,8 @@ title: Average WAR for 2016 Hall of Fame Candidates
   
   <p><a title="Brad Ausmus" href="https://en.wikipedia.org/wiki/Brad_Ausmus#/media/File:Brad_Ausmus_on_August_1,_2015.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="brad_ausmus" alt="brad_ausmus" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/brad_ausmus.jpg" width="146" height="217" /></a></p>
   <p><a href="http://www.baseball-reference.com/players/g/griffke02.shtml">Ken Griffey</a> leads the pack of first-year candidates.</p>
-  <p><a href="http://www.baseball-reference.com/players/a/ausmubr01.shtml">Brad Ausmus</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p><a href="http://www.baseball-reference.com/players/a/ausmubr01.shtml">Brad Ausmus</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -26,7 +26,7 @@ title: Average WAR for 2016 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
-  <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+  <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
   <tr class="avg-war-players-header">
@@ -163,6 +163,6 @@ title: Average WAR for 2016 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
-  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
+  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
  
 </section>

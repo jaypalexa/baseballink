@@ -15,10 +15,10 @@ title: Average WAR for 2015 Hall of Fame Candidates
   <p><em>December 31, 2014 by TheUmpire</em></p>
   <br />
   
-  <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg"><img style="border-right-width: 0px; margin: 0px 0px 10px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Eddie Guardado" alt="Eddie Guardado" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a></p>
+  <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg"><img title="Eddie Guardado" alt="Eddie Guardado" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a></p>
   <p><a href="http://www.baseball-reference.com/players/m/martipe02.shtml">Pedro Martinez</a> leads the pack of first-year candidates.</p>
-  <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -26,7 +26,7 @@ title: Average WAR for 2015 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
-  <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
+  <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
   <tr class="avg-war-players-header">
@@ -171,6 +171,6 @@ title: Average WAR for 2015 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
-  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
+  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
  
 </section>

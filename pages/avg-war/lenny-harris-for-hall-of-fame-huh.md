@@ -22,7 +22,7 @@ title: Lenny Harris for Hall of Fame...huh?
   <p>The <a href="http://bbwaa.com/">Baseball Writers&rsquo; Association of America</a> (BBWAA) is responsible for electing inductees to the National Baseball Hall of Fame in Cooperstown, NY.  With some Steroid Era players now up for consideration, the BBWAA finds itself in the midst of one of baseball&rsquo;s most contentious debates.  One overly-dramatic and illogical writer even suggests that voting for a PED user is analogous to <a href="http://www.pressdemocrat.com/article/20101220/NEWS/101229944?p=all&amp;tc=pgall&amp;tc=ar">releasing a convicted murderer</a>.</p>
   <p>Granted, the <a href="http://bbwaa.com/hof-elec-req/">guidelines</a> are vague&#8230;</p>
   <blockquote>
-    <p>&#8220;Voting shall be based upon the player’s record, playing ability, integrity, sportsmanship, character, and contributions to the team(s) on which the player played&#8221;</p>
+    <p>&#8220;Voting shall be based upon the player's record, playing ability, integrity, sportsmanship, character, and contributions to the team(s) on which the player played&#8221;</p>
   </blockquote>
   <p>&#8230;but when you also have writers <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100105&content_id=7878286&vkey=news_mlb&fext=.jsp&c_id=mlb">deliberately excluding first-ballot-worthy players</a> &#8212; or <a href="http://espnradio.espn.go.com/espnradio/podcast/index">not voting at all</a> &#8212; then your organization has a problem.<br />
     <br />
