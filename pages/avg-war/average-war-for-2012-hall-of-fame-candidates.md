@@ -25,6 +25,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
+  <br />
   <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
@@ -48,8 +49,8 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
   <td>5.30</td>
   </tr>
-  <tr>
-  <td class="avg-war-hof"><a href="http://www.baseball-reference.com/players/l/larkiba01.shtml">Barry Larkin</a></td>
+  <tr class="avg-war-hof">
+  <td><a href="http://www.baseball-reference.com/players/l/larkiba01.shtml">Barry Larkin</a></td>
   <td>5.12</td>
   </tr>
   <tr>
@@ -142,6 +143,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
+  <br />
   <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
 
 </section>

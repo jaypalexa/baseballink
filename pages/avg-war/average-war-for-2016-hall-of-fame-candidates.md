@@ -24,6 +24,7 @@ title: Average WAR for 2016 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
+  <br />
   <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
@@ -161,6 +162,7 @@ title: Average WAR for 2016 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
+  <br />
   <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
  
 </section>

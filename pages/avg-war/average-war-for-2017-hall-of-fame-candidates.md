@@ -22,6 +22,7 @@ title: Average WAR for 2017 Hall of Fame Candidates
   <li>0-2 Reserve </li>
   <li>&lt;0 Replacement Level </li>
   </ul>
+  <br />
   <p>It is our proposal that players having an <a href="avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
   <table class="avg-war-players">
   <tbody>
@@ -65,6 +66,7 @@ title: Average WAR for 2017 Hall of Fame Candidates
   <tr><td>Arthur Rhodes</td><td>1.09</td></tr>
   </tbody>
   </table>
+  <br />
   <p>Stats from <a href="https://www.baseball-reference.com/awards/hof_2017.shtml">Baseball-Reference.com</a>.</p>
   
 </section>
