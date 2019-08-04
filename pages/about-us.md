@@ -4,7 +4,7 @@ title: About Baseball Ink
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li class="is-active"><a href="#" aria-current="page">About Baseball Ink</a></li>
   </ul>
 </nav>

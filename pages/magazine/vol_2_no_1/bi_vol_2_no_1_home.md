@@ -4,7 +4,7 @@ title: Vol. 2, No. 1 - June 2001 - Table of Contents
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li><a href="../magazine-home.html">Magazine</a></li>
     <li class="is-active"><a href="#" aria-current="page">Vol. 2, No. 1 - June 2001</a></li>
   </ul>

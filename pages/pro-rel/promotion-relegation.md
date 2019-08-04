@@ -4,7 +4,7 @@ title: Promotion/Relegation Tables
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li><a href="pro-rel-home.html">Promotion/Relegation</a></li>
     <li class="is-active"><a href="#" aria-current="page">Promotion/Relegation Tables</a></li>
   </ul>

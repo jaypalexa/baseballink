@@ -4,7 +4,7 @@ title: Vol. 1, No. 4 - March 2001 - Table of Contents
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li><a href="../magazine-home.html">Magazine</a></li>
     <li class="is-active"><a href="#" aria-current="page">Vol. 1, No. 4 - March 2001</a></li>
   </ul>

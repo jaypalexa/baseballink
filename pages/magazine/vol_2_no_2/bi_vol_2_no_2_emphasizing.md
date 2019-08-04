@@ -4,7 +4,7 @@ title: Vol. 2, No. 2 - September 2001 - Emphasizing Division Records
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li><a href="../magazine-home.html">Magazine</a></li>
     <li><a href="bi_vol_2_no_2_home.html">Vol. 2, No. 2 - September 2001</a></li>
     <li class="is-active"><a href="#" aria-current="page">Emphasizing Division Records</a></li>

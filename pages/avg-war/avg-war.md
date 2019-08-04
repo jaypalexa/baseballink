@@ -4,7 +4,7 @@ title: Average WAR Explained
 ---
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
     <li><a href="avg-war-home.html">Average WAR</a></li>
     <li class="is-active"><a href="#" aria-current="page">Average WAR Explained</a></li>
   </ul>
