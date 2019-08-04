@@ -149,15 +149,46 @@ ul {
   margin-left: 1rem;
 }
 
+.pro-rel-status-playoff {
+  background-color: yellow;
+}
+
+.pro-rel-status-promoted {
+  background-color: lightgreen;
+}
+
+.pro-rel-status-relegated {
+  background-color: lightpink;
+}
+
 .pro-rel-table-header {
   border: none;
   font-family: Arial;
   font-size: 8pt;
-  padding: 2px;
+}
+
+.pro-rel-table-header tr {
+  background-color: black;
+  color: white;
+  font-weight: bold;
 }
 
 .pro-rel-table-header td {
   padding: 2px;
+}
+
+.pro-rel-table-content {
+  border: solid 1px;
+  border-spacing: 2px;
+}
+
+.pro-rel-table-content td {
+  padding: 2px;
+}
+
+.pro-rel-table-content-header tr {
+  background-color: lightgray;
+  font-weight: bold;
 }
 
 .storycontent p {

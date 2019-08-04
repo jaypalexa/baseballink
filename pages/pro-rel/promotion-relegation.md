@@ -58,152 +58,142 @@ title: Promotion/Relegation Tables
 
   <div class="container">
     <div class="columns is-centered">
-      <div class="column">
+      <div class="column is-half">
         <table class="pro-rel-table-header">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" class="has-text-centered">2017 Baseball Standings</td>
+        <tr>
+          <td colspan="3" class="has-text-centered">2017 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
-        <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
-        <td>BPL</td>
-        <td>Team</td>
-        <td>W</td>
-        <td>L</td>
-        <td>RD</td>
-        </tr>
-        <tr style="background-color: lightgreen;"><td>NL-W</td><td>**Los Angeles</td><td>104</td><td>58</td><td>190</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-C</td><td>*Cleveland</td><td>102</td><td>60</td><td>254</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-W</td><td>***Houston</td><td>101</td><td>61</td><td>196</td></tr>
-        <tr style="background-color: lightgreen;"><td>NL-E</td><td>*Washington</td><td>97</td><td>65</td><td>147</td></tr>
-        <tr style="background-color: lightgreen;"><td>NL-W</td><td>*Arizona</td><td>93</td><td>69</td><td>153</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-E</td><td>*Boston</td><td>93</td><td>69</td><td>117</td></tr>
-        <tr style="background-color: lightgreen;"><td>NL-C</td><td>*Chicago</td><td>92</td><td>70</td><td>127</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-E</td><td>*New York</td><td>91</td><td>71</td><td>198</td></tr>
-        <tr><td>NL-W</td><td>*Colorado</td><td>87</td><td>75</td><td>67</td></tr>
-        <tr><td>NL-C</td><td>Milwaukee</td><td>86</td><td>76</td><td>35</td></tr>
-        <tr><td>AL-C</td><td>*Minnesota</td><td>85</td><td>77</td><td>27</td></tr>
-        <tr><td>NL-C</td><td>St Louis</td><td>83</td><td>79</td><td>56</td></tr>
-        <tr><td>AL-W</td><td>Los Angeles</td><td>80</td><td>82</td><td>1</td></tr>
-        <tr><td>AL-E</td><td>Tampa Bay</td><td>80</td><td>82</td><td>-10</td></tr>
-        <tr><td>AL-C</td><td>Kansas City</td><td>80</td><td>82</td><td>-89</td></tr>
-        <tr><td>AL-W</td><td>Texas</td><td>78</td><td>84</td><td>-17</td></tr>
-        <tr><td>AL-W</td><td>Seattle</td><td>78</td><td>84</td><td>-22</td></tr>
-        <tr><td>NL-E</td><td>Miami</td><td>77</td><td>85</td><td>-44</td></tr>
-        <tr><td>AL-E</td><td>Toronto</td><td>76</td><td>86</td><td>-91</td></tr>
-        <tr><td>NL-C</td><td>Pittsburgh</td><td>75</td><td>87</td><td>-63</td></tr>
-        <tr><td>AL-W</td><td>Oakland</td><td>75</td><td>87</td><td>-87</td></tr>
-        <tr><td>AL-E</td><td>Baltimore</td><td>75</td><td>87</td><td>-98</td></tr>
-        <tr><td>NL-E</td><td>Atlanta</td><td>72</td><td>90</td><td>-89</td></tr>
-        <tr><td>NL-W</td><td>San Diego</td><td>71</td><td>91</td><td>-212</td></tr>
-        <tr><td>NL-E</td><td>New York</td><td>70</td><td>92</td><td>-128</td></tr>
-        <tr><td>NL-C</td><td>Cincinnati</td><td>68</td><td>94</td><td>-116</td></tr>
-        <tr><td>AL-C</td><td>Chicago</td><td>67</td><td>95</td><td>-114</td></tr>
-        <tr style="background-color: lightpink;"><td>NL-E</td><td>Philadelphia</td><td>66</td><td>96</td><td>-92</td></tr>
-        <tr style="background-color: lightpink;"><td>NL-W</td><td>San Francisco</td><td>64</td><td>98</td><td>-137</td></tr>
-        <tr style="background-color: lightpink;"><td>AL-C</td><td>Detroit</td><td>64</td><td>98</td><td>-159</td></tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2017 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2017 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2017 MLB playoffs</td>
-        </tr>
-        </tbody>
-        </table>
+          <table class="pro-rel-table-content">
+          <tbody>
+          <tr class="pro-rel-table-content-header">
+            <td>BPL</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+          <tr class="pro-rel-status-promoted"><td>NL-W</td><td>**Los Angeles</td><td>104</td><td>58</td><td>190</td></tr>
+          <tr class="pro-rel-status-promoted"><td>AL-C</td><td>*Cleveland</td><td>102</td><td>60</td><td>254</td></tr>
+          <tr class="pro-rel-status-promoted"><td>AL-W</td><td>***Houston</td><td>101</td><td>61</td><td>196</td></tr>
+          <tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Washington</td><td>97</td><td>65</td><td>147</td></tr>
+          <tr class="pro-rel-status-promoted"><td>NL-W</td><td>*Arizona</td><td>93</td><td>69</td><td>153</td></tr>
+          <tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Boston</td><td>93</td><td>69</td><td>117</td></tr>
+          <tr class="pro-rel-status-promoted"><td>NL-C</td><td>*Chicago</td><td>92</td><td>70</td><td>127</td></tr>
+          <tr class="pro-rel-status-promoted"><td>AL-E</td><td>*New York</td><td>91</td><td>71</td><td>198</td></tr>
+          <tr><td>NL-W</td><td>*Colorado</td><td>87</td><td>75</td><td>67</td></tr>
+          <tr><td>NL-C</td><td>Milwaukee</td><td>86</td><td>76</td><td>35</td></tr>
+          <tr><td>AL-C</td><td>*Minnesota</td><td>85</td><td>77</td><td>27</td></tr>
+          <tr><td>NL-C</td><td>St Louis</td><td>83</td><td>79</td><td>56</td></tr>
+          <tr><td>AL-W</td><td>Los Angeles</td><td>80</td><td>82</td><td>1</td></tr>
+          <tr><td>AL-E</td><td>Tampa Bay</td><td>80</td><td>82</td><td>-10</td></tr>
+          <tr><td>AL-C</td><td>Kansas City</td><td>80</td><td>82</td><td>-89</td></tr>
+          <tr><td>AL-W</td><td>Texas</td><td>78</td><td>84</td><td>-17</td></tr>
+          <tr><td>AL-W</td><td>Seattle</td><td>78</td><td>84</td><td>-22</td></tr>
+          <tr><td>NL-E</td><td>Miami</td><td>77</td><td>85</td><td>-44</td></tr>
+          <tr><td>AL-E</td><td>Toronto</td><td>76</td><td>86</td><td>-91</td></tr>
+          <tr><td>NL-C</td><td>Pittsburgh</td><td>75</td><td>87</td><td>-63</td></tr>
+          <tr><td>AL-W</td><td>Oakland</td><td>75</td><td>87</td><td>-87</td></tr>
+          <tr><td>AL-E</td><td>Baltimore</td><td>75</td><td>87</td><td>-98</td></tr>
+          <tr><td>NL-E</td><td>Atlanta</td><td>72</td><td>90</td><td>-89</td></tr>
+          <tr><td>NL-W</td><td>San Diego</td><td>71</td><td>91</td><td>-212</td></tr>
+          <tr><td>NL-E</td><td>New York</td><td>70</td><td>92</td><td>-128</td></tr>
+          <tr><td>NL-C</td><td>Cincinnati</td><td>68</td><td>94</td><td>-116</td></tr>
+          <tr><td>AL-C</td><td>Chicago</td><td>67</td><td>95</td><td>-114</td></tr>
+          <tr class="pro-rel-status-relegated"><td>NL-E</td><td>Philadelphia</td><td>66</td><td>96</td><td>-92</td></tr>
+          <tr class="pro-rel-status-relegated"><td>NL-W</td><td>San Francisco</td><td>64</td><td>98</td><td>-137</td></tr>
+          <tr class="pro-rel-status-relegated"><td>AL-C</td><td>Detroit</td><td>64</td><td>98</td><td>-159</td></tr>
+          <tr><td colspan="5">*** = 2017 World Series winner</td></tr>
+          <tr><td colspan="5">** = 2017 World Series loser</td></tr>
+          <tr><td colspan="5">* = in 2017 MLB playoffs</td></tr>
+          </tbody>
+          </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
-        <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
-        <td>BL2</td>
-        <td>Team</td>
-        <td>W</td>
-        <td>L</td>
-        </tr>
-        <tr style="background-color: lightgreen;"><td>PCL</td><td>Memphis</td><td>91</td><td>50</td></tr>
-        <tr style="background-color: lightgreen;"><td>INTL</td><td>Scranton/Wilkes-Barre</td><td>86</td><td>55</td></tr>
-        <tr style="background-color: yellow;"><td>INTL</td><td>Durham</td><td>86</td><td>56</td></tr>
-        <tr style="background-color: yellow;"><td>PCL</td><td>Colorado Springs</td><td>80</td><td>57</td></tr>
-        <tr style="background-color: yellow;"><td>INTL</td><td>Lehigh Valley</td><td>80</td><td>62</td></tr>
-        <tr style="background-color: yellow;"><td>PCL</td><td>Reno</td><td>80</td><td>62</td></tr>
-        <tr><td>INTL</td><td>Rochester</td><td>80</td><td>62</td></tr>
-        <tr><td>INTL</td><td>Indianapolis</td><td>79</td><td>63</td></tr>
-        <tr><td>PCL</td><td>Fresno</td><td>77</td><td>65</td></tr>
-        <tr><td>PCL</td><td>El Paso</td><td>73</td><td>69</td></tr>
-        <tr><td>PCL</td><td>Oklahoma City</td><td>72</td><td>69</td></tr>
-        <tr><td>PCL</td><td>Salt Lake</td><td>72</td><td>70</td></tr>
-        <tr><td>INTL</td><td>Columbus</td><td>71</td><td>71</td></tr>
-        <tr><td>INTL</td><td>Gwinnett</td><td>71</td><td>71</td></tr>
-        <tr><td>INTL</td><td>Toledo</td><td>70</td><td>71</td></tr>
-        <tr><td>PCL</td><td>Omaha</td><td>69</td><td>72</td></tr>
-        <tr><td>PCL</td><td>Nashville</td><td>68</td><td>71</td></tr>
-        <tr><td>PCL</td><td>Albuquerque</td><td>68</td><td>73</td></tr>
-        <tr><td>PCL</td><td>Iowa</td><td>67</td><td>72</td></tr>
-        <tr><td>INTL</td><td>Pawtucket</td><td>67</td><td>75</td></tr>
-        <tr><td>PCL</td><td>Round Rock</td><td>66</td><td>72</td></tr>
-        <tr><td>INTL</td><td>Norfolk</td><td>66</td><td>76</td></tr>
-        <tr><td>PCL</td><td>Tacoma</td><td>66</td><td>76</td></tr>
-        <tr><td>INTL</td><td>Buffalo</td><td>65</td><td>76</td></tr>
-        <tr><td>PCL</td><td>Sacramento</td><td>64</td><td>77</td></tr>
-        <tr><td>INTL</td><td>Charlotte</td><td>61</td><td>81</td></tr>
-        <tr><td>PCL</td><td>Las Vegas</td><td>56</td><td>86</td></tr>
-        <tr style="background-color: lightpink;"><td>INTL</td><td>Louisville</td><td>56</td><td>86</td></tr>
-        <tr style="background-color: lightpink;"><td>PCL</td><td>New Orleans</td><td>55</td><td>83</td></tr>
-        <tr style="background-color: lightpink;"><td>INTL</td><td>Syracuse</td><td>54</td><td>87</td></tr>
-        </tbody>
-        </table>
+          <table class="pro-rel-table-content">
+          <tbody>
+          <tr class="pro-rel-table-content-header">
+            <td>BL2</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+          </tr>
+          <tr class="pro-rel-status-promoted"><td>PCL</td><td>Memphis</td><td>91</td><td>50</td></tr>
+          <tr class="pro-rel-status-promoted"><td>INTL</td><td>Scranton/Wilkes-Barre</td><td>86</td><td>55</td></tr>
+          <tr class="pro-rel-status-playoff"><td>INTL</td><td>Durham</td><td>86</td><td>56</td></tr>
+          <tr class="pro-rel-status-playoff"><td>PCL</td><td>Colorado Springs</td><td>80</td><td>57</td></tr>
+          <tr class="pro-rel-status-playoff"><td>INTL</td><td>Lehigh Valley</td><td>80</td><td>62</td></tr>
+          <tr class="pro-rel-status-playoff"><td>PCL</td><td>Reno</td><td>80</td><td>62</td></tr>
+          <tr><td>INTL</td><td>Rochester</td><td>80</td><td>62</td></tr>
+          <tr><td>INTL</td><td>Indianapolis</td><td>79</td><td>63</td></tr>
+          <tr><td>PCL</td><td>Fresno</td><td>77</td><td>65</td></tr>
+          <tr><td>PCL</td><td>El Paso</td><td>73</td><td>69</td></tr>
+          <tr><td>PCL</td><td>Oklahoma City</td><td>72</td><td>69</td></tr>
+          <tr><td>PCL</td><td>Salt Lake</td><td>72</td><td>70</td></tr>
+          <tr><td>INTL</td><td>Columbus</td><td>71</td><td>71</td></tr>
+          <tr><td>INTL</td><td>Gwinnett</td><td>71</td><td>71</td></tr>
+          <tr><td>INTL</td><td>Toledo</td><td>70</td><td>71</td></tr>
+          <tr><td>PCL</td><td>Omaha</td><td>69</td><td>72</td></tr>
+          <tr><td>PCL</td><td>Nashville</td><td>68</td><td>71</td></tr>
+          <tr><td>PCL</td><td>Albuquerque</td><td>68</td><td>73</td></tr>
+          <tr><td>PCL</td><td>Iowa</td><td>67</td><td>72</td></tr>
+          <tr><td>INTL</td><td>Pawtucket</td><td>67</td><td>75</td></tr>
+          <tr><td>PCL</td><td>Round Rock</td><td>66</td><td>72</td></tr>
+          <tr><td>INTL</td><td>Norfolk</td><td>66</td><td>76</td></tr>
+          <tr><td>PCL</td><td>Tacoma</td><td>66</td><td>76</td></tr>
+          <tr><td>INTL</td><td>Buffalo</td><td>65</td><td>76</td></tr>
+          <tr><td>PCL</td><td>Sacramento</td><td>64</td><td>77</td></tr>
+          <tr><td>INTL</td><td>Charlotte</td><td>61</td><td>81</td></tr>
+          <tr><td>PCL</td><td>Las Vegas</td><td>56</td><td>86</td></tr>
+          <tr class="pro-rel-status-relegated"><td>INTL</td><td>Louisville</td><td>56</td><td>86</td></tr>
+          <tr class="pro-rel-status-relegated"><td>PCL</td><td>New Orleans</td><td>55</td><td>83</td></tr>
+          <tr class="pro-rel-status-relegated"><td>INTL</td><td>Syracuse</td><td>54</td><td>87</td></tr>
+          </tbody>
+          </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
-        <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
-        <td>BL3</td>
-        <td>Team</td>
-        <td>W</td>
-        <td>L</td>
-        </tr>
-        <tr style="background-color: lightgreen;"><td>EAST</td><td>Trenton</td><td>92</td><td>48</td></tr>
-        <tr style="background-color: lightgreen;"><td>SOU</td><td>Chattanooga</td><td>91</td><td>49</td></tr>
-        <tr style="background-color: yellow;"><td>EAST</td><td>Binghamton</td><td>85</td><td>54</td></tr>
-        <tr style="background-color: yellow;"><td>TEX</td><td>San Antonio</td><td>78</td><td>62</td></tr>
-        <tr style="background-color: yellow;"><td>TEX</td><td>Springfield</td><td>77</td><td>63</td></tr>
-        <tr style="background-color: yellow;"><td>TEX</td><td>Tulsa</td><td>77</td><td>63</td></tr>
-        <tr><td>SOU</td><td>Montgomery</td><td>76</td><td>64</td></tr>
-        <tr><td>EAST</td><td>Altoona</td><td>74</td><td>66</td></tr>
-        <tr><td>SOU</td><td>Pensacola</td><td>74</td><td>66</td></tr>
-        <tr><td>EAST</td><td>Bowie</td><td>72</td><td>68</td></tr>
-        <tr><td>EAST</td><td>Reading</td><td>72</td><td>68</td></tr>
-        <tr><td>SOU</td><td>Biloxi</td><td>71</td><td>66</td></tr>
-        <tr><td>SOU</td><td>Jackson</td><td>71</td><td>69</td></tr>
-        <tr><td>EAST</td><td>Akron</td><td>69</td><td>71</td></tr>
-        <tr><td>SOU</td><td>Jacksonville</td><td>69</td><td>71</td></tr>
-        <tr><td>SOU</td><td>Tennessee</td><td>68</td><td>70</td></tr>
-        <tr><td>TEX</td><td>Corpus Christi</td><td>67</td><td>71</td></tr>
-        <tr><td>TEX</td><td>Midland</td><td>67</td><td>71</td></tr>
-        <tr><td>TEX</td><td>Northwest Arkansas</td><td>67</td><td>73</td></tr>
-        <tr><td>TEX</td><td>Arkansas</td><td>65</td><td>75</td></tr>
-        <tr><td>EAST</td><td>Erie</td><td>65</td><td>75</td></tr>
-        <tr><td>EAST</td><td>Portland</td><td>64</td><td>74</td></tr>
-        <tr><td>SOU</td><td>Mobile</td><td>64</td><td>75</td></tr>
-        <tr><td>EAST</td><td>Richmond</td><td>63</td><td>77</td></tr>
-        <tr><td>EAST</td><td>Hartford</td><td>62</td><td>77</td></tr>
-        <tr><td>TEX</td><td>Frisco</td><td>60</td><td>80</td></tr>
-        <tr><td>EAST</td><td>Harrisburg</td><td>60</td><td>80</td></tr>
-        <tr><td>EAST</td><td>New Hampshire</td><td>59</td><td>80</td></tr>
-        <tr><td>SOU</td><td>Mississippi</td><td>58</td><td>80</td></tr>
-        <tr><td>SOU</td><td>Birmingham</td><td>53</td><td>85</td></tr>
-        </tbody>
-        </table>
+          <table class="pro-rel-table-content">
+          <tbody>
+          <tr class="pro-rel-table-content-header">
+            <td>BL3</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+          </tr>
+          <tr class="pro-rel-status-promoted"><td>EAST</td><td>Trenton</td><td>92</td><td>48</td></tr>
+          <tr class="pro-rel-status-promoted"><td>SOU</td><td>Chattanooga</td><td>91</td><td>49</td></tr>
+          <tr class="pro-rel-status-playoff"><td>EAST</td><td>Binghamton</td><td>85</td><td>54</td></tr>
+          <tr class="pro-rel-status-playoff"><td>TEX</td><td>San Antonio</td><td>78</td><td>62</td></tr>
+          <tr class="pro-rel-status-playoff"><td>TEX</td><td>Springfield</td><td>77</td><td>63</td></tr>
+          <tr class="pro-rel-status-playoff"><td>TEX</td><td>Tulsa</td><td>77</td><td>63</td></tr>
+          <tr><td>SOU</td><td>Montgomery</td><td>76</td><td>64</td></tr>
+          <tr><td>EAST</td><td>Altoona</td><td>74</td><td>66</td></tr>
+          <tr><td>SOU</td><td>Pensacola</td><td>74</td><td>66</td></tr>
+          <tr><td>EAST</td><td>Bowie</td><td>72</td><td>68</td></tr>
+          <tr><td>EAST</td><td>Reading</td><td>72</td><td>68</td></tr>
+          <tr><td>SOU</td><td>Biloxi</td><td>71</td><td>66</td></tr>
+          <tr><td>SOU</td><td>Jackson</td><td>71</td><td>69</td></tr>
+          <tr><td>EAST</td><td>Akron</td><td>69</td><td>71</td></tr>
+          <tr><td>SOU</td><td>Jacksonville</td><td>69</td><td>71</td></tr>
+          <tr><td>SOU</td><td>Tennessee</td><td>68</td><td>70</td></tr>
+          <tr><td>TEX</td><td>Corpus Christi</td><td>67</td><td>71</td></tr>
+          <tr><td>TEX</td><td>Midland</td><td>67</td><td>71</td></tr>
+          <tr><td>TEX</td><td>Northwest Arkansas</td><td>67</td><td>73</td></tr>
+          <tr><td>TEX</td><td>Arkansas</td><td>65</td><td>75</td></tr>
+          <tr><td>EAST</td><td>Erie</td><td>65</td><td>75</td></tr>
+          <tr><td>EAST</td><td>Portland</td><td>64</td><td>74</td></tr>
+          <tr><td>SOU</td><td>Mobile</td><td>64</td><td>75</td></tr>
+          <tr><td>EAST</td><td>Richmond</td><td>63</td><td>77</td></tr>
+          <tr><td>EAST</td><td>Hartford</td><td>62</td><td>77</td></tr>
+          <tr><td>TEX</td><td>Frisco</td><td>60</td><td>80</td></tr>
+          <tr><td>EAST</td><td>Harrisburg</td><td>60</td><td>80</td></tr>
+          <tr><td>EAST</td><td>New Hampshire</td><td>59</td><td>80</td></tr>
+          <tr><td>SOU</td><td>Mississippi</td><td>58</td><td>80</td></tr>
+          <tr><td>SOU</td><td>Birmingham</td><td>53</td><td>85</td></tr>
+          </tbody>
+          </table>
         </td>
         </tr>
         </tbody>
@@ -223,23 +213,23 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;"><td>NL-C</td><td>***Chicago</td><td>103</td><td>58</td><td>252</td></tr>
-        <tr style="background-color: lightgreen;"><td>NL-E</td><td>*Washington</td><td>95</td><td>67</td><td>151</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-W</td><td>*Texas</td><td>95</td><td>67</td><td>8</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-C</td><td>**Cleveland</td><td>94</td><td>67</td><td>101</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-E</td><td>*Boston</td><td>93</td><td>69</td><td>184</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-W</td><td>*Los Angeles</td><td>91</td><td>71</td><td>87</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-E</td><td>*Toronto</td><td>89</td><td>73</td><td>93</td></tr>
-        <tr style="background-color: lightgreen;"><td>AL-E</td><td>*Baltimore</td><td>89</td><td>73</td><td>29</td></tr>
+        <tr class="pro-rel-status-promoted"><td>NL-C</td><td>***Chicago</td><td>103</td><td>58</td><td>252</td></tr>
+        <tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Washington</td><td>95</td><td>67</td><td>151</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-W</td><td>*Texas</td><td>95</td><td>67</td><td>8</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-C</td><td>**Cleveland</td><td>94</td><td>67</td><td>101</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Boston</td><td>93</td><td>69</td><td>184</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-W</td><td>*Los Angeles</td><td>91</td><td>71</td><td>87</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Toronto</td><td>89</td><td>73</td><td>93</td></tr>
+        <tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Baltimore</td><td>89</td><td>73</td><td>29</td></tr>
         <tr><td>NL-W</td><td>*San Francisco</td><td>87</td><td>75</td><td>84</td></tr>
         <tr><td>NL-E</td><td>*New York</td><td>87</td><td>75</td><td>54</td></tr>
         <tr><td>AL-C</td><td>Detroit</td><td>86</td><td>75</td><td>29</td></tr>
@@ -259,9 +249,9 @@ title: Promotion/Relegation Tables
         <tr><td>NL-W</td><td>Arizona</td><td>69</td><td>93</td><td>-138</td></tr>
         <tr><td>NL-E</td><td>Atlanta</td><td>68</td><td>93</td><td>-130</td></tr>
         <tr><td>AL-E</td><td>Tampa Bay</td><td>68</td><td>94</td><td>-41</td></tr>
-        <tr style="background-color: lightpink;"><td>NL-W</td><td>San Diego</td><td>68</td><td>94</td><td>-84</td></tr>
-        <tr style="background-color: lightpink;"><td>NL-C</td><td>Cincinnati</td><td>68</td><td>94</td><td>-138</td></tr>
-        <tr style="background-color: lightpink;"><td>AL-C</td><td>Minnesota</td><td>59</td><td>103</td><td>-167</td></tr>
+        <tr class="pro-rel-status-relegated"><td>NL-W</td><td>San Diego</td><td>68</td><td>94</td><td>-84</td></tr>
+        <tr class="pro-rel-status-relegated"><td>NL-C</td><td>Cincinnati</td><td>68</td><td>94</td><td>-138</td></tr>
+        <tr class="pro-rel-status-relegated"><td>AL-C</td><td>Minnesota</td><td>59</td><td>103</td><td>-167</td></tr>
         </tbody>
         </table>
         <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
@@ -279,20 +269,20 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;"><td>INTL</td><td>Scranton/Wilkes-Barre</td><td>91</td><td>52</td></tr>
-        <tr style="background-color: lightgreen;"><td>INTL</td><td>Lehigh Valley</td><td>85</td><td>58</td></tr>
-        <tr style="background-color: yellow;"><td>PCL</td><td>Nashville</td><td>83</td><td>59</td></tr>
-        <tr style="background-color: yellow;"><td>INTL</td><td>Columbus</td><td>82</td><td>62</td></tr>
-        <tr style="background-color: yellow;"><td>PCL</td><td>Oklahoma City</td><td>81</td><td>60</td></tr>
-        <tr style="background-color: yellow;"><td>PCL</td><td>Tacoma</td><td>81</td><td>62</td></tr>
+        <tr class="pro-rel-status-promoted"><td>INTL</td><td>Scranton/Wilkes-Barre</td><td>91</td><td>52</td></tr>
+        <tr class="pro-rel-status-promoted"><td>INTL</td><td>Lehigh Valley</td><td>85</td><td>58</td></tr>
+        <tr class="pro-rel-status-playoff"><td>PCL</td><td>Nashville</td><td>83</td><td>59</td></tr>
+        <tr class="pro-rel-status-playoff"><td>INTL</td><td>Columbus</td><td>82</td><td>62</td></tr>
+        <tr class="pro-rel-status-playoff"><td>PCL</td><td>Oklahoma City</td><td>81</td><td>60</td></tr>
+        <tr class="pro-rel-status-playoff"><td>PCL</td><td>Tacoma</td><td>81</td><td>62</td></tr>
         <tr><td>INTL</td><td>Rochester</td><td>81</td><td>63</td></tr>
         <tr><td>PCL</td><td>Reno</td><td>76</td><td>68</td></tr>
         <tr><td>INTL</td><td>Pawtucket</td><td>74</td><td>68</td></tr>
@@ -314,27 +304,27 @@ title: Promotion/Relegation Tables
         <tr><td>INTL</td><td>Charlotte</td><td>65</td><td>79</td></tr>
         <tr><td>INTL</td><td>Durham</td><td>64</td><td>80</td></tr>
         <tr><td>PCL</td><td>Salt Lake</td><td>63</td><td>79</td></tr>
-        <tr style="background-color: lightpink;"><td>INTL</td><td>Norfolk</td><td>62</td><td>82</td></tr>
-        <tr style="background-color: lightpink;"><td>INTL</td><td>Syracuse</td><td>61</td><td>82</td></tr>
-        <tr style="background-color: lightpink;"><td>PCL</td><td>Omaha</td><td>58</td><td>82</td></tr>
+        <tr class="pro-rel-status-relegated"><td>INTL</td><td>Norfolk</td><td>62</td><td>82</td></tr>
+        <tr class="pro-rel-status-relegated"><td>INTL</td><td>Syracuse</td><td>61</td><td>82</td></tr>
+        <tr class="pro-rel-status-relegated"><td>PCL</td><td>Omaha</td><td>58</td><td>82</td></tr>
         </tbody>
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;"><td>EAST</td><td>Reading</td><td>89</td><td>52</td></tr>
-        <tr style="background-color: lightgreen;"><td>EAST</td><td>Trenton</td><td>87</td><td>55</td></tr>
-        <tr style="background-color: yellow;"><td>TEX</td><td>Corpus Christi</td><td>85</td><td>55</td></tr>
-        <tr style="background-color: yellow;"><td>SOU</td><td>Jackson</td><td>84</td><td>55</td></tr>
-        <tr style="background-color: yellow;"><td>SOU</td><td>Pensacola</td><td>81</td><td>59</td></tr>
-        <tr style="background-color: yellow;"><td>TEX</td><td>Midland</td><td>78</td><td>62</td></tr>
+        <tr class="pro-rel-status-promoted"><td>EAST</td><td>Reading</td><td>89</td><td>52</td></tr>
+        <tr class="pro-rel-status-promoted"><td>EAST</td><td>Trenton</td><td>87</td><td>55</td></tr>
+        <tr class="pro-rel-status-playoff"><td>TEX</td><td>Corpus Christi</td><td>85</td><td>55</td></tr>
+        <tr class="pro-rel-status-playoff"><td>SOU</td><td>Jackson</td><td>84</td><td>55</td></tr>
+        <tr class="pro-rel-status-playoff"><td>SOU</td><td>Pensacola</td><td>81</td><td>59</td></tr>
+        <tr class="pro-rel-status-playoff"><td>TEX</td><td>Midland</td><td>78</td><td>62</td></tr>
         <tr><td>EAST</td><td>Akron</td><td>77</td><td>64</td></tr>
         <tr><td>EAST</td><td>Altoona</td><td>76</td><td>64</td></tr>
         <tr><td>SOU</td><td>Montgomery</td><td>76</td><td>64</td></tr>
@@ -380,65 +370,65 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*St Louis</td>
         <td>100</td>
         <td>62</td>
         <td>122</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Pittsburgh</td>
         <td>98</td>
         <td>64</td>
         <td>101</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Chicago</td>
         <td>97</td>
         <td>65</td>
         <td>81</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>***Kansas City</td>
         <td>95</td>
         <td>67</td>
         <td>83</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*Toronto</td>
         <td>93</td>
         <td>69</td>
         <td>221</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>*Los Angeles</td>
         <td>92</td>
         <td>70</td>
         <td>72</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>**New York</td>
         <td>90</td>
         <td>72</td>
         <td>70</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Texas</td>
         <td>88</td>
@@ -578,21 +568,21 @@ title: Promotion/Relegation Tables
         <td>94</td>
         <td>-35</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-E</td>
         <td>Atlanta</td>
         <td>67</td>
         <td>95</td>
         <td>-187</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Cincinnati</td>
         <td>64</td>
         <td>98</td>
         <td>-114</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-E</td>
         <td>Philadelphia</td>
         <td>63</td>
@@ -616,51 +606,51 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Oklahoma City</td>
         <td>86</td>
         <td>58</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Fresno</td>
         <td>84</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Columbus</td>
         <td>83</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Indianapolis</td>
         <td>83</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Scranton/Wilkes-Barre</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Iowa</td>
         <td>80</td>
         <td>64</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Omaha</td>
         <td>80</td>
@@ -786,19 +776,19 @@ title: Promotion/Relegation Tables
         <td>61</td>
         <td>83</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Pawtucket</td>
         <td>59</td>
         <td>85</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>New Orleans</td>
         <td>58</td>
         <td>86</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Salt Lake</td>
         <td>58</td>
@@ -808,45 +798,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>Corpus Christi</td>
         <td>89</td>
         <td>51</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>Midland</td>
         <td>83</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Reading</td>
         <td>80</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Bowie</td>
         <td>79</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Biloxi</td>
         <td>78</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Montgomery</td>
         <td>77</td>
@@ -1017,65 +1007,65 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Los Angeles</td>
         <td>98</td>
         <td>64</td>
         <td>143</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Washington</td>
         <td>96</td>
         <td>66</td>
         <td>131</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*Baltimore</td>
         <td>96</td>
         <td>66</td>
         <td>112</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>*Los Angeles</td>
         <td>94</td>
         <td>68</td>
         <td>101</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>*Detroit</td>
         <td>90</td>
         <td>72</td>
         <td>52</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*St. Louis</td>
         <td>90</td>
         <td>72</td>
         <td>16</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>**Kansas City</td>
         <td>89</td>
         <td>73</td>
         <td>27</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Oakland</td>
         <td>88</td>
@@ -1215,21 +1205,21 @@ title: Promotion/Relegation Tables
         <td>92</td>
         <td>-94</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-W</td>
         <td>Texas</td>
         <td>67</td>
         <td>95</td>
         <td>-136</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-W</td>
         <td>Colorado</td>
         <td>66</td>
         <td>96</td>
         <td>-63</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-W</td>
         <td>Arizona</td>
         <td>64</td>
@@ -1253,45 +1243,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Reno</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Las Vegas</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Syracuse</td>
         <td>81</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Pawtucket</td>
         <td>79</td>
         <td>65</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Columbus</td>
         <td>79</td>
         <td>65</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Sacramento</td>
         <td>79</td>
@@ -1423,19 +1413,19 @@ title: Promotion/Relegation Tables
         <td>63</td>
         <td>81</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Albuquerque</td>
         <td>62</td>
         <td>80</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Salt Lake</td>
         <td>60</td>
         <td>84</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Colorado Springs</td>
         <td>53</td>
@@ -1445,45 +1435,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>EAST</td>
         <td>Portland</td>
         <td>88</td>
         <td>54</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>SOU</td>
         <td>Mississippi</td>
         <td>83</td>
         <td>56</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Binghamton</td>
         <td>83</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Jacksonville</td>
         <td>81</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>TEX</td>
         <td>Frisco</td>
         <td>80</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Mobile</td>
         <td>79</td>
@@ -1654,65 +1644,65 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>***Boston</td>
         <td>97</td>
         <td>65</td>
         <td>197</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>**St. Louis</td>
         <td>97</td>
         <td>65</td>
         <td>187</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Oakland</td>
         <td>96</td>
         <td>66</td>
         <td>142</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Atlanta</td>
         <td>96</td>
         <td>66</td>
         <td>140</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Pittsburgh</td>
         <td>94</td>
         <td>68</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>*Detroit</td>
         <td>93</td>
         <td>69</td>
         <td>172</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>*Cleveland</td>
         <td>92</td>
         <td>70</td>
         <td>83</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>*Los Angeles</td>
         <td>92</td>
@@ -1852,21 +1842,21 @@ title: Promotion/Relegation Tables
         <td>96</td>
         <td>-174</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-C</td>
         <td>Chicago</td>
         <td>63</td>
         <td>99</td>
         <td>-125</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-E</td>
         <td>Miami</td>
         <td>62</td>
         <td>100</td>
         <td>-133</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-W</td>
         <td>Houston</td>
         <td>51</td>
@@ -1890,45 +1880,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Durham</td>
         <td>87</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Oklahoma City</td>
         <td>82</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Las Vegas</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Pawtucket</td>
         <td>80</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Indianapolis</td>
         <td>80</td>
         <td>64</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Sacramento</td>
         <td>79</td>
@@ -2060,19 +2050,19 @@ title: Promotion/Relegation Tables
         <td>61</td>
         <td>83</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Gwinnett</td>
         <td>60</td>
         <td>84</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Reno</td>
         <td>60</td>
         <td>84</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Nashville</td>
         <td>57</td>
@@ -2082,45 +2072,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>EAST</td>
         <td>Binghamton</td>
         <td>86</td>
         <td>55</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>Corpus Christi</td>
         <td>83</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Mobile</td>
         <td>79</td>
         <td>60</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>TEX</td>
         <td>San Antonio</td>
         <td>78</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Birmingham</td>
         <td>77</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Harrisburg</td>
         <td>77</td>
@@ -2291,65 +2281,65 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Washington</td>
         <td>98</td>
         <td>64</td>
         <td>137</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Cincinnati</td>
         <td>97</td>
         <td>65</td>
         <td>81</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*New York</td>
         <td>95</td>
         <td>67</td>
         <td>136</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Atlanta</td>
         <td>94</td>
         <td>68</td>
         <td>100</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Oakland</td>
         <td>94</td>
         <td>68</td>
         <td>99</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>***San Francisco</td>
         <td>94</td>
         <td>68</td>
         <td>69</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Texas</td>
         <td>93</td>
         <td>69</td>
         <td>101</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*Baltimore</td>
         <td>93</td>
@@ -2489,21 +2479,21 @@ title: Promotion/Relegation Tables
         <td>96</td>
         <td>-131</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-W</td>
         <td>Colorado</td>
         <td>64</td>
         <td>98</td>
         <td>-132</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Chicago</td>
         <td>61</td>
         <td>101</td>
         <td>-146</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Houston</td>
         <td>55</td>
@@ -2527,45 +2517,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Indianapolis</td>
         <td>89</td>
         <td>55</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Sacramento</td>
         <td>86</td>
         <td>58</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Scranton/WB</td>
         <td>84</td>
         <td>60</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Charlotte</td>
         <td>83</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Omaha</td>
         <td>83</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Reno</td>
         <td>81</td>
@@ -2697,19 +2687,19 @@ title: Promotion/Relegation Tables
         <td>57</td>
         <td>87</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Tucson</td>
         <td>56</td>
         <td>88</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Iowa</td>
         <td>53</td>
         <td>87</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Louisville</td>
         <td>51</td>
@@ -2719,45 +2709,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>EAST</td>
         <td>Akron</td>
         <td>82</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>Corpus Christi</td>
         <td>81</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>TEX</td>
         <td>Frisco</td>
         <td>80</td>
         <td>60</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Jackson</td>
         <td>79</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Trenton</td>
         <td>79</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Bowie</td>
         <td>78</td>
@@ -2928,65 +2918,65 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         <td>RD</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Philadelphia</td>
         <td>102</td>
         <td>60</td>
         <td>184</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*New York</td>
         <td>97</td>
         <td>65</td>
         <td>210</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Milwaukee</td>
         <td>96</td>
         <td>66</td>
         <td>83</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>**Texas</td>
         <td>96</td>
         <td>66</td>
         <td>178</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>*Detroit</td>
         <td>95</td>
         <td>67</td>
         <td>76</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>*Arizona</td>
         <td>94</td>
         <td>68</td>
         <td>69</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*Tampa Bay</td>
         <td>91</td>
         <td>71</td>
         <td>93</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>Boston</td>
         <td>90</td>
@@ -3126,21 +3116,21 @@ title: Promotion/Relegation Tables
         <td>93</td>
         <td>-152</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-W</td>
         <td>Seattle</td>
         <td>67</td>
         <td>95</td>
         <td>-119</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-C</td>
         <td>Minnesota</td>
         <td>63</td>
         <td>99</td>
         <td>-185</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Houston</td>
         <td>56</td>
@@ -3164,45 +3154,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Columbus</td>
         <td>88</td>
         <td>56</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Sacramento</td>
         <td>88</td>
         <td>56</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Round Rock</td>
         <td>87</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Pawtucket</td>
         <td>81</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Durham</td>
         <td>80</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Lehigh Valley</td>
         <td>80</td>
@@ -3334,19 +3324,19 @@ title: Promotion/Relegation Tables
         <td>62</td>
         <td>82</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Buffalo</td>
         <td>61</td>
         <td>82</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Norfolk</td>
         <td>56</td>
         <td>87</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Rochester</td>
         <td>53</td>
@@ -3356,45 +3346,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>San Antonio</td>
         <td>94</td>
         <td>46</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>SOU</td>
         <td>Mobile</td>
         <td>84</td>
         <td>54</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Tennessee</td>
         <td>83</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Harrisburg</td>
         <td>80</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>TEX</td>
         <td>Frisco</td>
         <td>79</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Chattanooga</td>
         <td>77</td>
@@ -3565,57 +3555,57 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Philadelphia</td>
         <td>97</td>
         <td>65</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*Tampa Bay</td>
         <td>96</td>
         <td>66</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>*New York</td>
         <td>95</td>
         <td>67</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-C</td>
         <td>*Minnesota</td>
         <td>94</td>
         <td>68</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>***San Francisco</td>
         <td>92</td>
         <td>70</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>*Atlanta</td>
         <td>91</td>
         <td>71</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*Cincinnati</td>
         <td>91</td>
         <td>71</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>**Texas</td>
         <td>90</td>
@@ -3735,19 +3725,19 @@ title: Promotion/Relegation Tables
         <td>66</td>
         <td>96</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-W</td>
         <td>Arizona</td>
         <td>65</td>
         <td>97</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-W</td>
         <td>Seattle</td>
         <td>61</td>
         <td>101</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Pittsburgh</td>
         <td>57</td>
@@ -3770,45 +3760,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Durham</td>
         <td>88</td>
         <td>55</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Scranton/WB</td>
         <td>87</td>
         <td>56</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Iowa</td>
         <td>82</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Memphis</td>
         <td>82</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Omaha</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Louisville</td>
         <td>79</td>
@@ -3940,19 +3930,19 @@ title: Promotion/Relegation Tables
         <td>59</td>
         <td>85</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Lehigh Valley</td>
         <td>58</td>
         <td>86</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Round Rock</td>
         <td>57</td>
         <td>87</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Rochester</td>
         <td>49</td>
@@ -3962,45 +3952,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>SOU</td>
         <td>Tennessee</td>
         <td>86</td>
         <td>53</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>TEX</td>
         <td>NW Arkansas</td>
         <td>86</td>
         <td>54</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Trenton</td>
         <td>83</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Altoona</td>
         <td>82</td>
         <td>60</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Jacksonville</td>
         <td>81</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>New Hampshire</td>
         <td>79</td>
@@ -4171,57 +4161,57 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>***New York</td>
         <td>103</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-W</td>
         <td>*Los Angeles</td>
         <td>97</td>
         <td>65</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>*Los Angeles</td>
         <td>95</td>
         <td>67</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>AL-E</td>
         <td>Boston</td>
         <td>95</td>
         <td>67</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-E</td>
         <td>**Philadelphia</td>
         <td>93</td>
         <td>69</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>Colorado</td>
         <td>92</td>
         <td>70</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-C</td>
         <td>*St. Louis</td>
         <td>91</td>
         <td>71</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>NL-W</td>
         <td>San Francisco</td>
         <td>88</td>
@@ -4341,19 +4331,19 @@ title: Promotion/Relegation Tables
         <td>65</td>
         <td>97</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>AL-E</td>
         <td>Baltimore</td>
         <td>64</td>
         <td>98</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-C</td>
         <td>Pittsburgh</td>
         <td>62</td>
         <td>99</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>NL-E</td>
         <td>Washington</td>
         <td>59</td>
@@ -4376,45 +4366,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>PCL</td>
         <td>Sacramento</td>
         <td>86</td>
         <td>57</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>INTL</td>
         <td>Louisville</td>
         <td>84</td>
         <td>58</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Durham</td>
         <td>83</td>
         <td>61</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Scranton/WB</td>
         <td>81</td>
         <td>60</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>INTL</td>
         <td>Gwinnett</td>
         <td>81</td>
         <td>63</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>PCL</td>
         <td>Albuquerque</td>
         <td>80</td>
@@ -4546,19 +4536,19 @@ title: Promotion/Relegation Tables
         <td>61</td>
         <td>82</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>PCL</td>
         <td>Portland</td>
         <td>60</td>
         <td>84</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Columbus</td>
         <td>57</td>
         <td>85</td>
         </tr>
-        <tr style="background-color: lightpink;">
+        <tr class="pro-rel-status-relegated">
         <td>INTL</td>
         <td>Buffalo</td>
         <td>56</td>
@@ -4568,45 +4558,45 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="1" cellspacing="2" cellpadding="2">
+        <table class="pro-rel-table-content">
         <tbody>
-        <tr style="background-color: lightgray; font-weight: bold;">
+        <tr class="pro-rel-table-content-header">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
         <td>L</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>SOU</td>
         <td>Birmingham</td>
         <td>92</td>
         <td>47</td>
         </tr>
-        <tr style="background-color: lightgreen;">
+        <tr class="pro-rel-status-promoted">
         <td>EAST</td>
         <td>Akron</td>
         <td>89</td>
         <td>53</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Connecticut</td>
         <td>83</td>
         <td>59</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>SOU</td>
         <td>Jacksonville</td>
         <td>82</td>
         <td>58</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>TEX</td>
         <td>Midland</td>
         <td>78</td>
         <td>62</td>
         </tr>
-        <tr style="background-color: yellow;">
+        <tr class="pro-rel-status-playoff">
         <td>EAST</td>
         <td>Reading</td>
         <td>75</td>
