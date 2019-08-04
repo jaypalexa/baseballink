@@ -19,11 +19,11 @@ title: Vol. 1, No. 2 - September 2000 - Letter From The Publisher
 </p>
 
 <p>
-  A bit melodramatic, perhaps, but given the current state of the game &mdash; at both the major league and minor league levels &mdash; it is a question I find myself asking.
+  A bit melodramatic, perhaps, but given the current state of the game&mdash;at both the major league and minor league levels&mdash;it is a question I find myself asking.
 </p>
 
 <p>
-  A number of observations disturb me.  I witnessed a brawl on the field at a minor league park which was completely uncalled for and entirely out of control.  I heard fans cheering for the brawl itself &mdash; much the same mentality (or idiocy) possessed by fans who go to the race track to see a wreck or to a hockey game to see a fight.  I paid over $6.00 for a beer at a major league game and as much as $3.75 for a beer at a short-season Class A game.  (I won't even go into ticket prices.)  I sat in ballparks named after corporations.  I hear rumblings of another major league strike or lockout, and I sympathize with neither camp of millionaires.
+  A number of observations disturb me.  I witnessed a brawl on the field at a minor league park which was completely uncalled for and entirely out of control.  I heard fans cheering for the brawl itself&mdash;much the same mentality (or idiocy) possessed by fans who go to the race track to see a wreck or to a hockey game to see a fight.  I paid over $6.00 for a beer at a major league game and as much as $3.75 for a beer at a short-season Class A game.  (I won't even go into ticket prices.)  I sat in ballparks named after corporations.  I hear rumblings of another major league strike or lockout, and I sympathize with neither camp of millionaires.
 </p>
 
 <p>

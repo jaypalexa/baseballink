@@ -24,7 +24,7 @@ title: Vol. 1, No. 2 - September 2000 - Decline Of The Minor Leagues
   </p>
 
   <p>
-    After riding a long wave of popularity, the minor leagues &mdash; once known as "true baseball" &mdash; appear to be losing their appeal...and their fans.  Not so long ago, people came in droves to the old ballpark &mdash; whether to witness the quirky promotion or to cheer loudly and proudly for the home team &mdash; and most parks were at or near capacity on a nightly basis.  Now the inviting atmosphere that once defined and separated minor league baseball has been replaced by half-empty stadiums with teams struggling to stay in business &mdash; a sad microcosm of professional sports (more business than sport, unfortunately) in America today. 
+    After riding a long wave of popularity, the minor leagues&mdash;once known as "true baseball"&mdash;appear to be losing their appeal...and their fans.  Not so long ago, people came in droves to the old ballpark&mdash;whether to witness the quirky promotion or to cheer loudly and proudly for the home team&mdash;and most parks were at or near capacity on a nightly basis.  Now the inviting atmosphere that once defined and separated minor league baseball has been replaced by half-empty stadiums with teams struggling to stay in business&mdash;a sad microcosm of professional sports (more business than sport, unfortunately) in America today. 
   </p>
 
   <p>
@@ -32,7 +32,7 @@ title: Vol. 1, No. 2 - September 2000 - Decline Of The Minor Leagues
   </p>
 
   <p>
-    The trend of some major league ball clubs practically holding their cities at gunpoint for new venues has worked its way down to the minor league system. New ballparks mean that money must be raised, and with most minor league teams being located in smaller towns, locals are often opposed to tax initiatives.  To compensate, the clubs have raised prices on tickets and concessions.  Gone is the former minor league mantra of "affordability" &mdash; a night out that once cost a family of four about $30 now approaches $70 after tickets, parking, and refreshments.
+    The trend of some major league ball clubs practically holding their cities at gunpoint for new venues has worked its way down to the minor league system. New ballparks mean that money must be raised, and with most minor league teams being located in smaller towns, locals are often opposed to tax initiatives.  To compensate, the clubs have raised prices on tickets and concessions.  Gone is the former minor league mantra of "affordability"&mdash;a night out that once cost a family of four about $30 now approaches $70 after tickets, parking, and refreshments.
   </p>
 
   <p>
@@ -40,7 +40,7 @@ title: Vol. 1, No. 2 - September 2000 - Decline Of The Minor Leagues
   </p>
 
   <p>
-    Another culprit is major league expansion. Expansion has placed some major league teams virtually in the same market as some minor league teams. This makes it less desirable for some fans to go to a game featuring lesser quality of players (another byproduct of expansion &mdash; more players are required to fill the major league ranks, thus necessitating the need for early player call ups) when they could attend a more star-studded event nearby for maybe only twenty or so dollars more.
+    Another culprit is major league expansion. Expansion has placed some major league teams virtually in the same market as some minor league teams. This makes it less desirable for some fans to go to a game featuring lesser quality of players (another byproduct of expansion&mdash;more players are required to fill the major league ranks, thus necessitating the need for early player call ups) when they could attend a more star-studded event nearby for maybe only twenty or so dollars more.
   </p>
 
   <p>
@@ -52,7 +52,7 @@ title: Vol. 1, No. 2 - September 2000 - Decline Of The Minor Leagues
   </p>
 
   <p>
-    The traditions that helped make minor league baseball a success seem to be long gone.  Greed is tearing the heart out of the game and driving fans away from the pure form of baseball.  One has to wonder what can be done to remedy the situation and restore baseball to its former glory &mdash; those summer "days of old" spent in enchanting ballparks filled with families and fans rooting on the hometown boys with a passion for a game that so desperately needs it.
+    The traditions that helped make minor league baseball a success seem to be long gone.  Greed is tearing the heart out of the game and driving fans away from the pure form of baseball.  One has to wonder what can be done to remedy the situation and restore baseball to its former glory&mdash;those summer "days of old" spent in enchanting ballparks filled with families and fans rooting on the hometown boys with a passion for a game that so desperately needs it.
   </p>
 
   <p>

@@ -20,7 +20,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-      Someone on or around the ball club would use that line almost every day. It fit Dervil because he was a knuckleball pitcher &mdash; an increasingly luckless knuckleballer facing the unspeakable dejection of losing his place on a big league roster.
+      Someone on or around the ball club would use that line almost every day. It fit Dervil because he was a knuckleball pitcher&mdash;an increasingly luckless knuckleballer facing the unspeakable dejection of losing his place on a big league roster.
   </p>
 
   <p>
@@ -28,7 +28,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    He didn't have arm trouble or any real physical problem, save the aches and pains that go with a 50-year-old man's attempt to play a game organized for much younger men. He was suffering something closer akin to golf yips, a fraying of nerves or perhaps diminishing powers of concentration &mdash; both key ingredients of the knuckleball concoction.
+    He didn't have arm trouble or any real physical problem, save the aches and pains that go with a 50-year-old man's attempt to play a game organized for much younger men. He was suffering something closer akin to golf yips, a fraying of nerves or perhaps diminishing powers of concentration&mdash;both key ingredients of the knuckleball concoction.
   </p>
 
   <p>
@@ -52,7 +52,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    Dervil Burlow had become baseball's oldest cliche &mdash; the fading veteran. It was all slipping away without his being able to control it &mdash; like the shock sensation of backward movement when the car sitting next to yours edges forward while yours stands still.
+    Dervil Burlow had become baseball's oldest cliche&mdash;the fading veteran. It was all slipping away without his being able to control it&mdash;like the shock sensation of backward movement when the car sitting next to yours edges forward while yours stands still.
   </p>
 
   <p>
@@ -68,11 +68,11 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    By all rights, Dervil should never have played professional baseball at all. Except that he was sensible enough early enough to realize that he wasn't going to achieve his boyhood dream on anything that had come to him naturally. So he focused intently on Hoyt Wilhelm and Phil Niekro and Wilbur Wood and all those other pitchers who couldn't throw hard, yet had mastered a single trick pitch &mdash; the knuckleball.  It seemed so simple and so perfect.
+    By all rights, Dervil should never have played professional baseball at all. Except that he was sensible enough early enough to realize that he wasn't going to achieve his boyhood dream on anything that had come to him naturally. So he focused intently on Hoyt Wilhelm and Phil Niekro and Wilbur Wood and all those other pitchers who couldn't throw hard, yet had mastered a single trick pitch&mdash;the knuckleball.  It seemed so simple and so perfect.
   </p>
 
   <p>
-    He had sent off letters to every living knuckleball pitcher &mdash; every professional he knew of with a knuckler in his repertoire. Some responded &mdash; Wilhelm's letter being especially encouraging.  Meanwhile, Dervil had accumulated a veritable knuckleball museum of clippings; stray references to old-time practitioners of the pitch found in baseball memoirs; tips, anecdotes, hundreds of old news photographs, and occasionally baseball card with pictures of knuckleball pitchers demonstrating their grips; two fingers, three fingers, even Jim Bouton's odd four-finger technique &mdash; across, over and off the seams. He lived the pitch and eventually, after commanding himself to throw 10,000 knuckleballs into a net set up in his backyard he possessed a little gem of a rotation-less pitch, something that would dance preposterously on the way to the plate.
+    He had sent off letters to every living knuckleball pitcher&mdash;every professional he knew of with a knuckler in his repertoire. Some responded&mdash;Wilhelm's letter being especially encouraging.  Meanwhile, Dervil had accumulated a veritable knuckleball museum of clippings; stray references to old-time practitioners of the pitch found in baseball memoirs; tips, anecdotes, hundreds of old news photographs, and occasionally baseball card with pictures of knuckleball pitchers demonstrating their grips; two fingers, three fingers, even Jim Bouton's odd four-finger technique&mdash;across, over and off the seams. He lived the pitch and eventually, after commanding himself to throw 10,000 knuckleballs into a net set up in his backyard he possessed a little gem of a rotation-less pitch, something that would dance preposterously on the way to the plate.
   </p>
 
   <p>
@@ -88,7 +88,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    The call came down from manager Filch Meyers &mdash; Dervil would start the sixth. And the feeling inside became stronger.  He was standing on the bullpen mound waiting for the BigStixx side to be done in the top of the inning. He surveyed the crowd, guessing that about 25,000 paying customers were on hand to witness his final professional appearance.
+    The call came down from manager Filch Meyers&mdash;Dervil would start the sixth. And the feeling inside became stronger.  He was standing on the bullpen mound waiting for the BigStixx side to be done in the top of the inning. He surveyed the crowd, guessing that about 25,000 paying customers were on hand to witness his final professional appearance.
   </p>
 
   <p>
@@ -104,11 +104,11 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-  He pounded his glove as he walked and even tried to introduce a slight swagger as he approached the hill. Then Dervil climbed the mound as though it were Mt. Olympus, did everything but plant a flag at the summit. He puffed up two or three times, reached down for the rosin bag in a great swoop, then bounced it in his palm seven times &mdash; after the seventh he abruptly pulled his hand away and allowed the bag to drop gracefully onto the sacred soil of the mound.
+  He pounded his glove as he walked and even tried to introduce a slight swagger as he approached the hill. Then Dervil climbed the mound as though it were Mt. Olympus, did everything but plant a flag at the summit. He puffed up two or three times, reached down for the rosin bag in a great swoop, then bounced it in his palm seven times&mdash;after the seventh he abruptly pulled his hand away and allowed the bag to drop gracefully onto the sacred soil of the mound.
   </p>
 
   <p>
-    After a bit more ritual &mdash; some purposeful digging with his right foot, banging the ball into his glove several times while facing centerfield, scrunching up his face, then drawing his lips tightly together once or twice like Steve Carlton &mdash; he came to be aware that he was overdoing it. His catcher, Mike Hoeft, was standing upright behind the plate staring at him.
+    After a bit more ritual&mdash;some purposeful digging with his right foot, banging the ball into his glove several times while facing centerfield, scrunching up his face, then drawing his lips tightly together once or twice like Steve Carlton&mdash;he came to be aware that he was overdoing it. His catcher, Mike Hoeft, was standing upright behind the plate staring at him.
   </p>
 
   <p>
@@ -124,7 +124,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    No matter to Dervil, who was going to enjoy his Last Outing. He was going to take the memory of facing "Thrill Kill" Threlkeld to the hereafter. In fact, as he went into his windup, Dervil anticipated one of those classic self-effacing baseball reminiscences &mdash; a tale of the 450-foot Threlkeld home run that sent him to the showers once and for all. He could put a funny Joe Garagiola spin on it and regale the boys of winter someday. There is no shame in telling such a story on yourself. It says that you were once part of the great fraternity of baseball.
+    No matter to Dervil, who was going to enjoy his Last Outing. He was going to take the memory of facing "Thrill Kill" Threlkeld to the hereafter. In fact, as he went into his windup, Dervil anticipated one of those classic self-effacing baseball reminiscences&mdash;a tale of the 450-foot Threlkeld home run that sent him to the showers once and for all. He could put a funny Joe Garagiola spin on it and regale the boys of winter someday. There is no shame in telling such a story on yourself. It says that you were once part of the great fraternity of baseball.
   </p>
 
   <p>
@@ -188,7 +188,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    Dervil stood on the mound and challenged him to do it.  He stood there waiting to see if Babe Ruth &mdash; two strikes against him &mdash; would have the NERVE to foretell a home run for himself and show Dervil up in front of this big World Series crowd in Chicago. If he does, like some say he did, Dervil would cram a little history down his throat. He won't be party to another man's legend. Instead, Dervil would put Ruth on the seat of his pants.
+    Dervil stood on the mound and challenged him to do it.  He stood there waiting to see if Babe Ruth&mdash;two strikes against him&mdash;would have the NERVE to foretell a home run for himself and show Dervil up in front of this big World Series crowd in Chicago. If he does, like some say he did, Dervil would cram a little history down his throat. He won't be party to another man's legend. Instead, Dervil would put Ruth on the seat of his pants.
   </p>
 
   <p>
@@ -248,7 +248,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    He finally he got it out &mdash; "Watch out!" he called to Ray Chapman. And instinctively the Cleveland Indian at the plate collapsed his body, pulled in his head and Dervil's submarine fastball caught the bill of Chapman's hat and sent it spinning.
+    He finally he got it out&mdash;"Watch out!" he called to Ray Chapman. And instinctively the Cleveland Indian at the plate collapsed his body, pulled in his head and Dervil's submarine fastball caught the bill of Chapman's hat and sent it spinning.
   </p>
 
   <p>
@@ -300,7 +300,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
   </p>
 
   <p>
-    Then he read recaps of his career that sounded like obituaries. They were filled with tributes that Dervil supposed were meant as eulogies &mdash; how when his knuckleball was really dancing he was untouchable. Dervil read on about himself and his place, only moderately remarkable though it was, in baseball history.
+    Then he read recaps of his career that sounded like obituaries. They were filled with tributes that Dervil supposed were meant as eulogies&mdash;how when his knuckleball was really dancing he was untouchable. Dervil read on about himself and his place, only moderately remarkable though it was, in baseball history.
   </p>
 
   <p>

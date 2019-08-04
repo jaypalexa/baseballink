@@ -44,11 +44,11 @@ title: Vol. 1, No. 2 - September 2000 - Bunko's Quest
   </p>
 
   <p>
-    In the bottom of the first, Binghamton scores three runs.  Norwich counters with seven runs in the next frame.  Binghamton comes back with six more in the bottom of the second.  The score is 9-7 after two innings &mdash; I am thinking that we are definitely in for a long game.  However, the game settles down a bit from there and ends with a final score of Binghamton 10, Norwich 7.  Overall, a really good game to watch.  More errors than I like to see, but I will let that slide this time.  One of the standout moments of the game was when a foul ball shot into screen in front of us.  I couldn't help but flinch &mdash; definitely a reminder of where we were sitting.
+    In the bottom of the first, Binghamton scores three runs.  Norwich counters with seven runs in the next frame.  Binghamton comes back with six more in the bottom of the second.  The score is 9-7 after two innings&mdash;I am thinking that we are definitely in for a long game.  However, the game settles down a bit from there and ends with a final score of Binghamton 10, Norwich 7.  Overall, a really good game to watch.  More errors than I like to see, but I will let that slide this time.  One of the standout moments of the game was when a foul ball shot into screen in front of us.  I couldn't help but flinch&mdash;definitely a reminder of where we were sitting.
   </p>
 
   <p>
-    We stop for dinner on the way back and get home around 8:30.  Definitely a great day in my mind &mdash; a beautiful day for a drive and a baseball game.  I didn't need to plan much in advance, either, though I always call to confirm ticket availability and game time.  Depending on where you are, you won't need to drive quite as far.  I consider myself lucky to live in an area where there are so many teams within a close proximity.  I have been able to visit many of them, but there are still a few that I need to cross off my list.  I'll do my best to keep you informed of my travels.
+    We stop for dinner on the way back and get home around 8:30.  Definitely a great day in my mind&mdash;a beautiful day for a drive and a baseball game.  I didn't need to plan much in advance, either, though I always call to confirm ticket availability and game time.  Depending on where you are, you won't need to drive quite as far.  I consider myself lucky to live in an area where there are so many teams within a close proximity.  I have been able to visit many of them, but there are still a few that I need to cross off my list.  I'll do my best to keep you informed of my travels.
   </p>
 
   <p>

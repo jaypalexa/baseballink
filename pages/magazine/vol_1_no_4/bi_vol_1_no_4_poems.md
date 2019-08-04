@@ -15,7 +15,7 @@ title: Vol. 1, No. 4 - March 2001 - Baseball Poems
   <h1>Baseball Poems</h1>
   <p><em>by Dan Zamudio</em></p>
 
-  <h2>Shiloh Park &mdash; Zion, Illinois</h2>
+  <h2>Shiloh Park&mdash;Zion, Illinois</h2>
 
   <p>
     Old library,<br />

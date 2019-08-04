@@ -16,7 +16,7 @@ title: Vol. 1, No. 3 - December 2000 - Chasing The International Baseball Dream
   <p><em>by Olga Zavolovich</em></p>
 
   <p>
-    McGwire, Sosa, Krassner and Gilmore &mdash; home run hitters extraordinaire!  McGwire topped Maris and ended 1998 at 70.  Sosa was right behind him with 66.  But neither has equaled the feats of Jerry Krassner and John Gilmore who, as members of the Foreign Devils over-30 baseball team, have homered in Denmark, Ukraine, and China.
+    McGwire, Sosa, Krassner and Gilmore&mdash;home run hitters extraordinaire!  McGwire topped Maris and ended 1998 at 70.  Sosa was right behind him with 66.  But neither has equaled the feats of Jerry Krassner and John Gilmore who, as members of the Foreign Devils over-30 baseball team, have homered in Denmark, Ukraine, and China.
   </p>
 
   <p>

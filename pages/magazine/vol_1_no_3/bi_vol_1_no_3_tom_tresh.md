@@ -142,7 +142,7 @@ title: Vol. 1, No. 3 - December 2000 - Former Yankee Tom Tresh Recalls Stellar R
 	<hr />
 	
   <p>
-		<em>Todd Newville lives in Oklahoma City and has a wife named Melissa. A journalism graduate from the University of Oklahoma in 1992, he has written about all sports ranging from basketball to bowling. He currently is editor for a publication called Pro Rodeo World &mdash; but baseball is truly his passion.</em>
+		<em>Todd Newville lives in Oklahoma City and has a wife named Melissa. A journalism graduate from the University of Oklahoma in 1992, he has written about all sports ranging from basketball to bowling. He currently is editor for a publication called Pro Rodeo World&mdash;but baseball is truly his passion.</em>
   </p>
 
 </section>

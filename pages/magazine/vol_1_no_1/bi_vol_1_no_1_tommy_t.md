@@ -24,19 +24,19 @@ title: Vol. 1, No. 1 - June 2000 - Tommy T's Baseball Flix Pix - Fear Strikes Ou
   </p>
 
   <p>
-    I saw it recently on American Movie Classics, and it is really dated. Not because the movie is in black and white &mdash; rather the main problem is that if it were made today, no good casting director would have given the role to Tony Perkins. He can't throw, can't hit, can't field. He's too old. In other words, he's a horrible prospect. His casting as a baseball player makes the movie unbelievable, which dates the movie.
+    I saw it recently on American Movie Classics, and it is really dated. Not because the movie is in black and white&mdash;rather the main problem is that if it were made today, no good casting director would have given the role to Tony Perkins. He can't throw, can't hit, can't field. He's too old. In other words, he's a horrible prospect. His casting as a baseball player makes the movie unbelievable, which dates the movie.
   </p>
 
   <p>
-    On the other hand, Karl Malden is outstanding as his Dad. He is conniving and very pushy, thrusting his personal dream of playing for the Bosox onto his son. He's probably still pissed Boston traded the Babe to the Yanks. Today, he'd hate the Rocket and Mo Vaughn for deserting his team. Norma Moore, who plays Mrs. Jimmy, is absolutely horrible - too much nagging and hand-wringing &mdash; like a whiny June Cleaver. Yikes....
+    On the other hand, Karl Malden is outstanding as his Dad. He is conniving and very pushy, thrusting his personal dream of playing for the Bosox onto his son. He's probably still pissed Boston traded the Babe to the Yanks. Today, he'd hate the Rocket and Mo Vaughn for deserting his team. Norma Moore, who plays Mrs. Jimmy, is absolutely horrible - too much nagging and hand-wringing&mdash;like a whiny June Cleaver. Yikes....
   </p>
 
   <p>
-    Perhaps in 1957, this was a good movie. There are some compelling scenes &mdash; mostly the non-baseball ones between Father and Son Piersall. But, Edd &quot;Cookie&quot; Byrnes is in it for cryin' out loud, and it's painful to watch Tony Perkins play baseball. In Y2K, I just can't recommend it.
+    Perhaps in 1957, this was a good movie. There are some compelling scenes&mdash;mostly the non-baseball ones between Father and Son Piersall. But, Edd &quot;Cookie&quot; Byrnes is in it for cryin' out loud, and it's painful to watch Tony Perkins play baseball. In Y2K, I just can't recommend it.
   </p>
 
   <p>
-  My rating: A screaming liner that's caught &mdash; promising, but it just didn't fall in for the one-bagger.
+  My rating: A screaming liner that's caught&mdash;promising, but it just didn't fall in for the one-bagger.
   </p>
 
   <p>

@@ -16,7 +16,7 @@ title: Vol. 1, No. 3 - December 2000 - McGwire 17 HR Behind Mantle
   <p><em>by Raymond Mileur</em></p>
 
   <p>
-    St. Louis &mdash; I sat behind home plate that Sunday and watched Mark McGwire hit a monster bash well into the left-field upper deck.  This was Big Mac's second home run of the day &mdash; the 536<sup>th</sup> of his career &mdash; and it tied him with Mickey Mantle for the eighth spot on the all-time home run list. I didn't realize it until I got home after the game.
+    St. Louis&mdash;I sat behind home plate that Sunday and watched Mark McGwire hit a monster bash well into the left-field upper deck.  This was Big Mac's second home run of the day&mdash;the 536<sup>th</sup> of his career&mdash;and it tied him with Mickey Mantle for the eighth spot on the all-time home run list. I didn't realize it until I got home after the game.
   </p>
 
   <p>
@@ -44,7 +44,7 @@ title: Vol. 1, No. 3 - December 2000 - McGwire 17 HR Behind Mantle
   </p>
 
   <p>
-    So I missed the story that day &mdash; for at least for awhile. Or perhaps everyone else missed it.
+    So I missed the story that day&mdash;for at least for awhile. Or perhaps everyone else missed it.
   </p>
 
   <p>
@@ -68,11 +68,11 @@ title: Vol. 1, No. 3 - December 2000 - McGwire 17 HR Behind Mantle
   </p>
 
   <p>
-    We are witnessing history as we watch this great slugger &mdash; he is the best there is and perhaps ever was &mdash; but a few more trips to the post-season would close out a Hall of Fame career in style.
+    We are witnessing history as we watch this great slugger&mdash;he is the best there is and perhaps ever was&mdash;but a few more trips to the post-season would close out a Hall of Fame career in style.
   </p>
 
   <p>
-    A World Championship, not another home run record &mdash; that's the story.
+    A World Championship, not another home run record&mdash;that's the story.
   </p>
 
   <p>

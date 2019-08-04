@@ -26,7 +26,7 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   <h2>On hitting...</h2>
 
   <p>
-    I feel like I always knew how to hit...I didn't always have the confidence.  When I arrived in the Majors &mdash; that's pretty scary &mdash; but Mr. Mack told me early on that I would hit and just stay with it.  When I moved up to the plate, I was thinking  ZONE &mdash; standing on top of the plate, imagine a box, and decide that you will not swing outside that box &mdash; that's your zone!  Now, if they hit the outside corner three times, then you're whipped...but you stay in that zone!  A pitcher is gonna make a mistake, and that's when you better jump all over it!
+    I feel like I always knew how to hit...I didn't always have the confidence.  When I arrived in the Majors&mdash;that's pretty scary&mdash;but Mr. Mack told me early on that I would hit and just stay with it.  When I moved up to the plate, I was thinking  ZONE&mdash;standing on top of the plate, imagine a box, and decide that you will not swing outside that box&mdash;that's your zone!  Now, if they hit the outside corner three times, then you're whipped...but you stay in that zone!  A pitcher is gonna make a mistake, and that's when you better jump all over it!
   </p>
 
   <h2>On Ted Williams...</h2>
@@ -38,7 +38,7 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   <h2>On salaries...</h2>
 
   <p>
-    In '48 I was making $35,000.  I led the league in hitting in '49, and I got a raise to $45,000.  The very next year I did not lead the league, and they wanted to cut my salary to $40,000.  I argued.  I don't know why I did &mdash; I was afraid to argue &mdash; back in those days you didn't do things such as that!  Mr. Bill Evans was the general manager of the Tigers then.
+    In '48 I was making $35,000.  I led the league in hitting in '49, and I got a raise to $45,000.  The very next year I did not lead the league, and they wanted to cut my salary to $40,000.  I argued.  I don't know why I did&mdash;I was afraid to argue&mdash;back in those days you didn't do things such as that!  Mr. Bill Evans was the general manager of the Tigers then.
   </p>
 
   <p>
@@ -50,7 +50,7 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   </p>
 
   <p>
-    "Rizzuto.  He is making $50,000, and I think I should make more than him &mdash; he doesn't hit .300 every year."
+    "Rizzuto.  He is making $50,000, and I think I should make more than him&mdash;he doesn't hit .300 every year."
   </p>
 
   <p>
@@ -80,7 +80,7 @@ title: Vol. 2, No. 1 - June 2001 - Catching Up With Kell
   <h2>On All-Star games...</h2>
 
   <p>
-    The year of that negotiation, Mr. Evans told me, "You better go out and have a good year, you know, to earn the money were paying you!" I hit .340, drove in 100 runs, had 56 doubles &mdash; more doubles than anyone (since then) until this past year, more doubles than anyone since 1937 &mdash; and I led all the voting for the All-Star game, in either league.  The headlines read "KELL LEADS ALL MAJORS IN VOTING, JACKIE ROBINSON IS 2ND."  The way it is in the All-Star balloting, I got like a million and half votes, and the next closest third baseman got like 300,000.  But when you've hit .300 for several years, the fans don't forget and it just a given!  They voted by name.  I deserved to be in the All-Star game in '46, but I hadn't hit .300 in the Majors yet.  Then I made the All-Star game my last two years and didn't deserve it.  There were third basemen that were coming up that deserved it more than I.
+    The year of that negotiation, Mr. Evans told me, "You better go out and have a good year, you know, to earn the money were paying you!" I hit .340, drove in 100 runs, had 56 doubles&mdash;more doubles than anyone (since then) until this past year, more doubles than anyone since 1937&mdash;and I led all the voting for the All-Star game, in either league.  The headlines read "KELL LEADS ALL MAJORS IN VOTING, JACKIE ROBINSON IS 2ND."  The way it is in the All-Star balloting, I got like a million and half votes, and the next closest third baseman got like 300,000.  But when you've hit .300 for several years, the fans don't forget and it just a given!  They voted by name.  I deserved to be in the All-Star game in '46, but I hadn't hit .300 in the Majors yet.  Then I made the All-Star game my last two years and didn't deserve it.  There were third basemen that were coming up that deserved it more than I.
   </p>
 
   <h2>More on salaries...</h2>

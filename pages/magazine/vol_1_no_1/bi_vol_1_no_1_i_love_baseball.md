@@ -22,7 +22,7 @@ title: Vol. 1, No. 1 - June 2000 - I Love Baseball!
   </p>
 
   <p>
-    I managed to avoid contact with baseball for decades.  I got reintroduced to major league baseball by of way of doing a favor for my son who was stationed overseas in 1992 when the Atlanta Braves got hot and had made the playoffs.  He asked if I would mind video-taping the playoff games for him and sending him the tapes.  Neither Bob nor I was VCR-literate enough to do anything more than poke the tape in the machine and record, so we ended watching the games while taped.  We became hopelessly hooked &mdash; the Otis Nixon catch, the Francisco Cabrera hit, the Sid Bream slide over home plate to win and the Braves "pile-on" that followed!!!  Wow...that was it and has been ever since. 
+    I managed to avoid contact with baseball for decades.  I got reintroduced to major league baseball by of way of doing a favor for my son who was stationed overseas in 1992 when the Atlanta Braves got hot and had made the playoffs.  He asked if I would mind video-taping the playoff games for him and sending him the tapes.  Neither Bob nor I was VCR-literate enough to do anything more than poke the tape in the machine and record, so we ended watching the games while taped.  We became hopelessly hooked&mdash;the Otis Nixon catch, the Francisco Cabrera hit, the Sid Bream slide over home plate to win and the Braves "pile-on" that followed!!!  Wow...that was it and has been ever since. 
   </p>
 
   <p>

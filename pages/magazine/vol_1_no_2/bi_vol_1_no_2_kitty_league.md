@@ -52,7 +52,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <p>
-    In his rookie season, Hopkinsville hurler Victor "Deacon" Delmore &mdash; who later became a National League umpire &mdash; decided to go rabbit hunting from the mound. With a runner on second, he spotted a rabbit scampering across the outfield headed toward third and fired the ball at it. The target went unscathed and the runner rounded third and headed home. After discussing the situation, the home plate umpire ruled that the run didn't count and instructed the runner to return to second. The opposing manager was livid and asked how the arbiter came to such a conclusion. "Well, I don't find anything about it in the rule book," he replied. "But the Kitty League's a character, and I want it to stay this way."
+    In his rookie season, Hopkinsville hurler Victor "Deacon" Delmore&mdash;who later became a National League umpire&mdash;decided to go rabbit hunting from the mound. With a runner on second, he spotted a rabbit scampering across the outfield headed toward third and fired the ball at it. The target went unscathed and the runner rounded third and headed home. After discussing the situation, the home plate umpire ruled that the run didn't count and instructed the runner to return to second. The opposing manager was livid and asked how the arbiter came to such a conclusion. "Well, I don't find anything about it in the rule book," he replied. "But the Kitty League's a character, and I want it to stay this way."
   </p>
 
   <p>

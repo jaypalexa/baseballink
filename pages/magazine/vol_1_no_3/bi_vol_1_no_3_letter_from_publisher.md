@@ -33,11 +33,11 @@ title: Vol. 1, No. 3 - December 2000 - Letter From The Publisher
   </p>
 
   <p>
-    The Society of Six &mdash; with full owner and player backing &mdash; chips away at the magic and integrity of baseball.  Nickel and dime.  Not this time.
+    The Society of Six&mdash;with full owner and player backing&mdash;chips away at the magic and integrity of baseball.  Nickel and dime.  Not this time.
   </p>
 
   <p>
-    Because now it is about killing &mdash; steroid-style.
+    Because now it is about killing&mdash;steroid-style.
   </p>
 
   <p>

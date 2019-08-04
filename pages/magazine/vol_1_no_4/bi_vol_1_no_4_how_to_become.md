@@ -41,7 +41,7 @@ title: Vol. 1, No. 4 - March 2001 - How To Become A Baseball CEO
   </p>
 
   <p>
-    After the book was published, we began visiting minor league ballparks throughout the southeast. Today, I can safely say there isn't a minor league park south of the Mason-Dixon Line that we haven't visited. Minor league baseball gives you something that the majors abandoned long ago &mdash; affordable family entertainment, up close and personal.
+    After the book was published, we began visiting minor league ballparks throughout the southeast. Today, I can safely say there isn't a minor league park south of the Mason-Dixon Line that we haven't visited. Minor league baseball gives you something that the majors abandoned long ago&mdash;affordable family entertainment, up close and personal.
   </p>
 
   <p>
@@ -49,7 +49,7 @@ title: Vol. 1, No. 4 - March 2001 - How To Become A Baseball CEO
   </p>
 
   <p>
-    Of course, it wasn't as simple as that. First you put together a business plan that hopefully shows your potential investors that you're going to at least break even after your first season. The idea is to sell as much advertising &mdash; that is, outfield billboards, other signage through the ballpark (like through the breezeways), radio advertisements, yearbook ads, etc. &mdash; to see you through the entire season. That way, your season ticket sales and game day attendance is extra revenue. In Albany, we also created a lot of specialty sponsorships &mdash; like for our autograph booth, customer service area, and family section.
+    Of course, it wasn't as simple as that. First you put together a business plan that hopefully shows your potential investors that you're going to at least break even after your first season. The idea is to sell as much advertising&mdash;that is, outfield billboards, other signage through the ballpark (like through the breezeways), radio advertisements, yearbook ads, etc.&mdash;to see you through the entire season. That way, your season ticket sales and game day attendance is extra revenue. In Albany, we also created a lot of specialty sponsorships&mdash;like for our autograph booth, customer service area, and family section.
   </p>
 
   <p>
@@ -65,7 +65,7 @@ title: Vol. 1, No. 4 - March 2001 - How To Become A Baseball CEO
   </p>
 
   <p>
-    Sponsorships help...they're crucial, actually. We have uniform sponsors, mascot sponsors, ticket sponsors &mdash; you name it, we have a sponsor for it. Fortunately, Albany has several major manufacturers and businesses, so we have a deep well from which to draw.
+    Sponsorships help...they're crucial, actually. We have uniform sponsors, mascot sponsors, ticket sponsors&mdash;you name it, we have a sponsor for it. Fortunately, Albany has several major manufacturers and businesses, so we have a deep well from which to draw.
   </p>
 
   <p>
@@ -77,7 +77,7 @@ title: Vol. 1, No. 4 - March 2001 - How To Become A Baseball CEO
   </p>
 
   <p>
-    But one thing I will never abandon is my commitment to make the game affordable for the fans. There's a huge demographic out there who believes that baseball is old, slow, and boring. To that end, our marketing and ad slogan has been, "This Century, The Grand Old Game Gets A New Attitude." This is what our team, our league, and our ownership group are all about:  bringing a new, fresh, aggressive attitude to baseball and adhering to the belief that owners should first &mdash; and foremost &mdash; be fans of the game.
+    But one thing I will never abandon is my commitment to make the game affordable for the fans. There's a huge demographic out there who believes that baseball is old, slow, and boring. To that end, our marketing and ad slogan has been, "This Century, The Grand Old Game Gets A New Attitude." This is what our team, our league, and our ownership group are all about:  bringing a new, fresh, aggressive attitude to baseball and adhering to the belief that owners should first&mdash;and foremost&mdash;be fans of the game.
   </p>
 
   <hr />

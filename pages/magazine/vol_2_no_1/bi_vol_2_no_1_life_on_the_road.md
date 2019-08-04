@@ -16,7 +16,7 @@ title: Vol. 2, No. 1 - June 2001 - Life On The Road
   <p><em>by Frank Priegue</em></p>
 
   <p>
-    The ballplayers begin to arrive at around 6:15 AM, many of them rubbing the sleep out of their eyes as they pack their equipment on the bus.  The team bus pulls out of the Yale Field parking lot at 7:00 AM.  Any player who misses the bus has to find his own way from Connecticut to Maryland &mdash; he will also get fined and may get in trouble with the organization.
+    The ballplayers begin to arrive at around 6:15 AM, many of them rubbing the sleep out of their eyes as they pack their equipment on the bus.  The team bus pulls out of the Yale Field parking lot at 7:00 AM.  Any player who misses the bus has to find his own way from Connecticut to Maryland&mdash;he will also get fined and may get in trouble with the organization.
   </p>
 
   <p>
@@ -44,7 +44,7 @@ title: Vol. 2, No. 1 - June 2001 - Life On The Road
   </p>
 
   <p>
-    Some players find creative ways to eat properly; Reading Phillies catcher Bobby Estalella is an example of one of them.  When he began playing professional baseball, he was a prospect with tremendous potential, but was considered undisciplined.  To handle the physical demands of being a catcher Bobby discovered bodybuilding.  Maintaining the strict diet bodybuilders must follow is difficult &mdash; doing it on a limited budget is next to impossible.  To remedy this he bought a wok and used it to cook his meals.
+    Some players find creative ways to eat properly; Reading Phillies catcher Bobby Estalella is an example of one of them.  When he began playing professional baseball, he was a prospect with tremendous potential, but was considered undisciplined.  To handle the physical demands of being a catcher Bobby discovered bodybuilding.  Maintaining the strict diet bodybuilders must follow is difficult&mdash;doing it on a limited budget is next to impossible.  To remedy this he bought a wok and used it to cook his meals.
   </p>
 
   <p>
@@ -64,7 +64,7 @@ title: Vol. 2, No. 1 - June 2001 - Life On The Road
   </p>
 
   <p>
-    One of the ballplayers biggest challenges on road trips is dealing with the down time before games.  Mike Kusiewicz elaborates, "you try and get out of the hotel.  You don't want to get stuck there but you often do because you have no idea where to go or what to do &mdash; and you have no transportation.  There is not much to do during the day unless you want to go out and catch a movie.  The day is yours until the 4:45 stretch."
+    One of the ballplayers biggest challenges on road trips is dealing with the down time before games.  Mike Kusiewicz elaborates, "you try and get out of the hotel.  You don't want to get stuck there but you often do because you have no idea where to go or what to do&mdash;and you have no transportation.  There is not much to do during the day unless you want to go out and catch a movie.  The day is yours until the 4:45 stretch."
   </p>
 
   <p>

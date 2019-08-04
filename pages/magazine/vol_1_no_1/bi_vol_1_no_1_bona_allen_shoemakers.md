@@ -14,7 +14,7 @@ title: Vol. 1, No. 1 - June 2000 - Bona Allen Shoemakers
 <section class="storycontent">
   <h1>Bona Allen Shoemakers</h1>
   <p>
-    As the rest of the nation stumbled through the Depression era, a small fiefdom flourished in the Land of Dixie &mdash; not because of King Cotton, but because of leather shoes and baseball.
+    As the rest of the nation stumbled through the Depression era, a small fiefdom flourished in the Land of Dixie&mdash;not because of King Cotton, but because of leather shoes and baseball.
   </p>
 
   <h2>Building Big Baseball in Small Towns </h2>
@@ -36,11 +36,11 @@ title: Vol. 1, No. 1 - June 2000 - Bona Allen Shoemakers
 
   <h2>Gimmicks and Games</h2>
   <p>
-    John Q. Allen masterfully blended the marketing and baseball aspects of the company and the team into clever promotions revolving around shoes.  Mr. Allen ordered the construction of the &quot;World's Largest Shoe on Wheels,&quot; a huge replica of the company's best-selling shoe mounted the chassis of a Chevrolet.  A publicity man would drive the Shoe Car through the town, passing out leather key chains and announcing the arrival of the baseball team.<sup>[<a href="#footnote-5">5</a>]</sup>  Each time a Shoemaker hit a home run, that player would be rewarded with a coupon for a free pair of shoes.  Alternatively, two coupons could be cashed in for a pair of boots &mdash; a luxury in those lean years.  When the Shoemakers threw a shutout, the pitcher, catcher, and manager would each receive coupons.  The Bona Allen company increased the challenge and brought added attention to the games by loudly promising a free pair of their Victor-5's to each member of any team that could defeat his Shoemakers.<sup>[<a href="#footnote-6">6</a>]</sup>
+    John Q. Allen masterfully blended the marketing and baseball aspects of the company and the team into clever promotions revolving around shoes.  Mr. Allen ordered the construction of the &quot;World's Largest Shoe on Wheels,&quot; a huge replica of the company's best-selling shoe mounted the chassis of a Chevrolet.  A publicity man would drive the Shoe Car through the town, passing out leather key chains and announcing the arrival of the baseball team.<sup>[<a href="#footnote-5">5</a>]</sup>  Each time a Shoemaker hit a home run, that player would be rewarded with a coupon for a free pair of shoes.  Alternatively, two coupons could be cashed in for a pair of boots&mdash;a luxury in those lean years.  When the Shoemakers threw a shutout, the pitcher, catcher, and manager would each receive coupons.  The Bona Allen company increased the challenge and brought added attention to the games by loudly promising a free pair of their Victor-5's to each member of any team that could defeat his Shoemakers.<sup>[<a href="#footnote-6">6</a>]</sup>
   </p>
 
   <p>
-    Most opposing players shuffled home in their old shoes.  The Bona Allens maintained their first-year success, capping off the 1934 season by winning two of three ball games from the highly-regarded Atlanta Crackers of the Southern Association<sup>[<a href="#footnote-7">7</a>]</sup> &mdash; a Double A league (which was the highest minor league classification at the time).
+    Most opposing players shuffled home in their old shoes.  The Bona Allens maintained their first-year success, capping off the 1934 season by winning two of three ball games from the highly-regarded Atlanta Crackers of the Southern Association<sup>[<a href="#footnote-7">7</a>]</sup>&mdash;a Double A league (which was the highest minor league classification at the time).
   </p>
 
   <p>
@@ -52,7 +52,7 @@ title: Vol. 1, No. 1 - June 2000 - Bona Allen Shoemakers
   </p>
 
   <p>
-    The next summer found the Bona Allen team facing rival Enid, Oklahoma in a rematch of the previous year's National Baseball Congress World Series finals.  The two teams had met earlier in the year at the Denver Post invitational tournament finals &mdash; a battle which had been won by Enid.<sup>[<a href="#footnote-12">12</a>]</sup>  Undaunted, the boys from Buford prevailed in Wichita and were awarded $5,000 in prize money and the title of 1938 Semi-pro World Series Champions.
+    The next summer found the Bona Allen team facing rival Enid, Oklahoma in a rematch of the previous year's National Baseball Congress World Series finals.  The two teams had met earlier in the year at the Denver Post invitational tournament finals&mdash;a battle which had been won by Enid.<sup>[<a href="#footnote-12">12</a>]</sup>  Undaunted, the boys from Buford prevailed in Wichita and were awarded $5,000 in prize money and the title of 1938 Semi-pro World Series Champions.
   </p>
 
   <p>
@@ -60,7 +60,7 @@ title: Vol. 1, No. 1 - June 2000 - Bona Allen Shoemakers
   </p>
 
   <p>
-    John Q. Allen had an arrangement with his ball club regarding trophies and prize money:  Mr. Allen retained possession of each trophy, and the players kept all of the prize money to split among themselves<sup>[<a href="#footnote-14">14</a>]</sup> &mdash; an arrangement viewed as more-than-fair by the team!
+    John Q. Allen had an arrangement with his ball club regarding trophies and prize money:  Mr. Allen retained possession of each trophy, and the players kept all of the prize money to split among themselves<sup>[<a href="#footnote-14">14</a>]</sup>&mdash;an arrangement viewed as more-than-fair by the team!
   </p>
 
   <h2>Hometown Field, Hometown Fans</h2>
@@ -92,7 +92,7 @@ title: Vol. 1, No. 1 - June 2000 - Bona Allen Shoemakers
   </p>
 
   <p>
-    The former major leaguer proved instrumental in many of the Shoemakers' wins and made such an impact that the National Baseball Congress inducted Gerald McQuaig into its Hall of Fame in 1944.  However, McQuaig contributed more than his many home runs &mdash; he became one of Buford's leading citizens.  After his career with the Shoemakers, McQuaig coached baseball at Buford City High School and served as principal at nearby Sugar Hill Elementary School.<sup>[<a href="#footnote-19">19</a>]</sup>
+    The former major leaguer proved instrumental in many of the Shoemakers' wins and made such an impact that the National Baseball Congress inducted Gerald McQuaig into its Hall of Fame in 1944.  However, McQuaig contributed more than his many home runs&mdash;he became one of Buford's leading citizens.  After his career with the Shoemakers, McQuaig coached baseball at Buford City High School and served as principal at nearby Sugar Hill Elementary School.<sup>[<a href="#footnote-19">19</a>]</sup>
   </p>
 
   <p>

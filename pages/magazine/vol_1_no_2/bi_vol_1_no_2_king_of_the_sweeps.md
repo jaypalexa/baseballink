@@ -16,7 +16,7 @@ title: Vol. 1, No. 2 - September 2000 - King Of The Sweeps
   <p><em>by Steve Lombardi</em></p>
 
   <p>
-    A World Series sweep is an exceptional incident.  It also stirs either extreme jubilation or great sadness for hometown fans of the participants.  For the winning side, the source of utmost delight is obvious &mdash; your team excelled while never experiencing the finality of a loss.  For fans rooting for the eventual losing team, the pain is numbing &mdash; having the still somewhat fresh and resonating joy of the triumphant Pennant chase completely washed over by a tidal wave of their Series opponent's dominance, without striking even a single shot against their foe.
+    A World Series sweep is an exceptional incident.  It also stirs either extreme jubilation or great sadness for hometown fans of the participants.  For the winning side, the source of utmost delight is obvious&mdash;your team excelled while never experiencing the finality of a loss.  For fans rooting for the eventual losing team, the pain is numbing&mdash;having the still somewhat fresh and resonating joy of the triumphant Pennant chase completely washed over by a tidal wave of their Series opponent's dominance, without striking even a single shot against their foe.
   </p>
 
   <p>
@@ -28,7 +28,7 @@ title: Vol. 1, No. 2 - September 2000 - King Of The Sweeps
   </p>
 
   <p>
-    Two of these Series were not "pure" sweeps (1907 and 1922) as there were ties in each.  (Game One of the 1907 Series was called after 12 innings with the score 3-3, and Game Two of the 1922 Series was called after 10 innings with the score also 3-3 &mdash; both because of darkness.)  Still, for the purposes of this analysis, we'll consider 1907 and 1922 to be sweeps.
+    Two of these Series were not "pure" sweeps (1907 and 1922) as there were ties in each.  (Game One of the 1907 Series was called after 12 innings with the score 3-3, and Game Two of the 1922 Series was called after 10 innings with the score also 3-3&mdash;both because of darkness.)  Still, for the purposes of this analysis, we'll consider 1907 and 1922 to be sweeps.
   </p>
 
   <p>
@@ -40,11 +40,11 @@ title: Vol. 1, No. 2 - September 2000 - King Of The Sweeps
   </p>
 
   <p>
-    Of all those with "three," only Paul O'Neill has a chance to tie (or pass) the Iron Horse &mdash; since the others in this group are all long since retired.
+    Of all those with "three," only Paul O'Neill has a chance to tie (or pass) the Iron Horse&mdash;since the others in this group are all long since retired.
   </p>
 
   <p>
-    How about active players in the bigs with a shot?  It would most likely have to be someone from both the '98 and '99 Yankees World Championship squads &mdash; a player such as Derek Jeter, Bernie Williams, Jorge Posada, Mariano Rivera, Tino Martinez, Chuck Knoblauch, or Andy Pettitte would have a chance.  However, the odds are against them.
+    How about active players in the bigs with a shot?  It would most likely have to be someone from both the '98 and '99 Yankees World Championship squads&mdash;a player such as Derek Jeter, Bernie Williams, Jorge Posada, Mariano Rivera, Tino Martinez, Chuck Knoblauch, or Andy Pettitte would have a chance.  However, the odds are against them.
   </p>
 
   <p>
@@ -64,7 +64,7 @@ title: Vol. 1, No. 2 - September 2000 - King Of The Sweeps
   </p>
 
   <p>
-    A quick "honorable mention" note before closing:  Two other players failed to make the "Three Sweep" club on a technicality.  Wilcy Moore and Herb Pennock were both on the 1927 and 1932 Yankees Championship teams that swept and they both played in those two Series.  Moore and Pennock were both also members of the 1928 Yankees Championship teams that swept &mdash; however, they did not appear in any of the four games of the 1928 World Series.
+    A quick "honorable mention" note before closing:  Two other players failed to make the "Three Sweep" club on a technicality.  Wilcy Moore and Herb Pennock were both on the 1927 and 1932 Yankees Championship teams that swept and they both played in those two Series.  Moore and Pennock were both also members of the 1928 Yankees Championship teams that swept&mdash;however, they did not appear in any of the four games of the 1928 World Series.
   </p>
 
   <p>

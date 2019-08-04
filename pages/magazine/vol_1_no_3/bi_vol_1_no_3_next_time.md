@@ -40,11 +40,11 @@ title: Vol. 1, No. 3 - December 2000 - Next Time I'll Be Ready
   </p>
 
   <p>
-    Baseball &mdash; yeah, that's...that's...that's Cecil Fielder. The guy who went to Japan after five mediocre major league seasons to hone up on his baseball skills. The guy who returned to the States after a couple of years and signed with the only team that would have him &mdash; the Detroit Tigers. And then in his first season back became the first guy to hit 50 dingers in about 20 years. He led the league in taters and ribbies a time or two and became one of the most feared power hitters of the '90's.
+    Baseball&mdash;yeah, that's...that's...that's Cecil Fielder. The guy who went to Japan after five mediocre major league seasons to hone up on his baseball skills. The guy who returned to the States after a couple of years and signed with the only team that would have him&mdash;the Detroit Tigers. And then in his first season back became the first guy to hit 50 dingers in about 20 years. He led the league in taters and ribbies a time or two and became one of the most feared power hitters of the '90's.
   </p>
 
   <p>
-    So, now what do I do? Yeah, I am a sports fan and especially a fan of baseball. I am in the midst of greatness. I want to yell at him. I want to ask him for his autograph. I want to sit down and talk baseball with him. I know &mdash; I'll tell him I am a writer of some renown for quarterly magazine called "Baseball Ink." No, that would only turn him off. I want to ask him how many homers he'd be hitting now that the ball is juiced and everyone seems to be able to hit 50 (or 60 or 70). I want to ask him a bazillion questions....
+    So, now what do I do? Yeah, I am a sports fan and especially a fan of baseball. I am in the midst of greatness. I want to yell at him. I want to ask him for his autograph. I want to sit down and talk baseball with him. I know&mdash;I'll tell him I am a writer of some renown for quarterly magazine called "Baseball Ink." No, that would only turn him off. I want to ask him how many homers he'd be hitting now that the ball is juiced and everyone seems to be able to hit 50 (or 60 or 70). I want to ask him a bazillion questions....
   </p>
 
   <p>
@@ -56,7 +56,7 @@ title: Vol. 1, No. 3 - December 2000 - Next Time I'll Be Ready
   </p>
 
   <p>
-    No, I don't &mdash; I want to talk with someone who REALLY knows baseball. He's been a STAR in THE SHOW! The closest I got to greatness previously was when I saw Lou Brock outside the Homer-Dome in Minneapolis at the '87 World Series. All I could muster then was a "Hi, Lou."
+    No, I don't&mdash;I want to talk with someone who REALLY knows baseball. He's been a STAR in THE SHOW! The closest I got to greatness previously was when I saw Lou Brock outside the Homer-Dome in Minneapolis at the '87 World Series. All I could muster then was a "Hi, Lou."
   </p>
 
   <p>
@@ -68,7 +68,7 @@ title: Vol. 1, No. 3 - December 2000 - Next Time I'll Be Ready
   </p>
 
   <p>
-    I board the plane &mdash; me a coach-rider and weary business traveler. I know Cecil is in first-class &mdash; the way I know George Washington was the first president. As I walk through the first-class cabin I look for him, find him and hope he looks at me, so I can....
+    I board the plane&mdash;me a coach-rider and weary business traveler. I know Cecil is in first-class&mdash;the way I know George Washington was the first president. As I walk through the first-class cabin I look for him, find him and hope he looks at me, so I can....
   </p>
 
   <p>
@@ -80,7 +80,7 @@ title: Vol. 1, No. 3 - December 2000 - Next Time I'll Be Ready
   </p>
 
   <p>
-    I walk by &mdash; saying and doing nothing. I tell myself that I did the right thing by leaving him alone. I go to my seat and sit there. I don't pull out the six-month-old airline monthly. I don't read USA Today. I don't read the latest best-selling novel. I don't listen to my CDs. I don't even eat my peanuts.
+    I walk by&mdash;saying and doing nothing. I tell myself that I did the right thing by leaving him alone. I go to my seat and sit there. I don't pull out the six-month-old airline monthly. I don't read USA Today. I don't read the latest best-selling novel. I don't listen to my CDs. I don't even eat my peanuts.
   </p>
 
   <p>

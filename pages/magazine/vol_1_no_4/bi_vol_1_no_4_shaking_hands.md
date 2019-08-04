@@ -17,11 +17,11 @@ title: Vol. 1, No. 4 - March 2001 - Shaking Hands With The Babe
   <p><em>by Steve A. Maze</em></p>
 
   <p>
-    It is a once-in-a-lifetime opportunity for many people, and most will never get to experience it. If it does happen, you will definitely remember it the rest of your life. I am talking about meeting one's idol. What most of us wouldn't give to be able to talk to our idol &mdash; if only for a few seconds &mdash; or to shake their hand. Well, that's exactly what happened to one of my friends 66 years ago at Yankee Stadium.
+    It is a once-in-a-lifetime opportunity for many people, and most will never get to experience it. If it does happen, you will definitely remember it the rest of your life. I am talking about meeting one's idol. What most of us wouldn't give to be able to talk to our idol&mdash;if only for a few seconds&mdash;or to shake their hand. Well, that's exactly what happened to one of my friends 66 years ago at Yankee Stadium.
   </p>
 
   <p>
-    Tyrus Cobb "Tat" Bailey was born in 1913 and named after a popular baseball legend of that era &mdash; Ty Cobb. Bailey even has a baseball and baseball bat permanently mounted on the front door of his home to honor the Georgia Peach. But as a youngster growing up on an Alabama farm, Bailey's attention would be drawn to another baseball great &mdash; a player by the name of Babe Ruth.
+    Tyrus Cobb "Tat" Bailey was born in 1913 and named after a popular baseball legend of that era&mdash;Ty Cobb. Bailey even has a baseball and baseball bat permanently mounted on the front door of his home to honor the Georgia Peach. But as a youngster growing up on an Alabama farm, Bailey's attention would be drawn to another baseball great&mdash;a player by the name of Babe Ruth.
   </p>
 
   <p>
@@ -33,7 +33,7 @@ title: Vol. 1, No. 4 - March 2001 - Shaking Hands With The Babe
   </p>
 
   <p>
-    Bailey observed Ruth's every move once inside the ballpark. He watched as the Babe trotted to his right field position in the top of the first inning. After the opposing team was quickly retired, Bailey noticed the right fielder step on second base on his was back to the Yankee dugout &mdash; a habit (or superstition) that the Bambino repeated at the end of each inning. Bailey also got to witness Ruth's hitting prowess when the Yankees came to bat in the bottom of the first inning. The Sultan of Swat worked the count full on the pitcher before launching a towering home run over the right field fence.
+    Bailey observed Ruth's every move once inside the ballpark. He watched as the Babe trotted to his right field position in the top of the first inning. After the opposing team was quickly retired, Bailey noticed the right fielder step on second base on his was back to the Yankee dugout&mdash;a habit (or superstition) that the Bambino repeated at the end of each inning. Bailey also got to witness Ruth's hitting prowess when the Yankees came to bat in the bottom of the first inning. The Sultan of Swat worked the count full on the pitcher before launching a towering home run over the right field fence.
   </p>
 
   <p>
@@ -49,7 +49,7 @@ title: Vol. 1, No. 4 - March 2001 - Shaking Hands With The Babe
   </p>
 
   <p>
-    "Babe was really nice," Bailey says. "He noticed our Navy uniforms and that may have been the reason he went out of his way to pose for the picture, but he was very cordial to all of the fans. Babe was oversized &mdash; even chubby looking, but I was glad to finally get to meet him and shake his hand."
+    "Babe was really nice," Bailey says. "He noticed our Navy uniforms and that may have been the reason he went out of his way to pose for the picture, but he was very cordial to all of the fans. Babe was oversized&mdash;even chubby looking, but I was glad to finally get to meet him and shake his hand."
   </p>
 
   <p>

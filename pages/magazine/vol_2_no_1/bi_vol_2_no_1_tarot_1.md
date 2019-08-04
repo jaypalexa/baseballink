@@ -66,7 +66,7 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   <br />
 
   <p>
-    All three decks use <strong>Bats</strong> for <strong>Wands</strong> &mdash; the <em>fire</em> suit symbolizing creative experiences. The Wand is a lightning rod that absorbs power from without and uses it to spark power from within. The bat is the instrument by which a hitter can channel the energy of a pitched ball into an expression of his or her own inner individual force.
+    All three decks use <strong>Bats</strong> for <strong>Wands</strong>&mdash;the <em>fire</em> suit symbolizing creative experiences. The Wand is a lightning rod that absorbs power from without and uses it to spark power from within. The bat is the instrument by which a hitter can channel the energy of a pitched ball into an expression of his or her own inner individual force.
   </p>
 
   <p>

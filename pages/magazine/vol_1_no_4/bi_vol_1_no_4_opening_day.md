@@ -16,7 +16,7 @@ title: Vol. 1, No. 4 - March 2001 - Opening Day
   <p><em>by Karl Jacobsen</em></p>
 
   <p>
-    Opening Day!  Just saying those two words creates a glimmer of hope that one of my two teams will wind up playing in Yankee Stadium come October.  Why Yankee Stadium?  Because everyone who knows the current state of baseball realizes that the World Series is an annual New York event &mdash; or so it seems.  Am I upset about recent, and past, Yankee championships?  Not in the least.  Remember, New York fostered the beginnings of the game over a hundred and fifty years ago, and much of traditional baseball history has revolved around New York teams.  Don't get me wrong, if Hell had a baseball team, I'd root for Hell against the Yankees, but for an old traditionalist like me, there is something right about seeing the American League pennant waving over Yankee Stadium.
+    Opening Day!  Just saying those two words creates a glimmer of hope that one of my two teams will wind up playing in Yankee Stadium come October.  Why Yankee Stadium?  Because everyone who knows the current state of baseball realizes that the World Series is an annual New York event&mdash;or so it seems.  Am I upset about recent, and past, Yankee championships?  Not in the least.  Remember, New York fostered the beginnings of the game over a hundred and fifty years ago, and much of traditional baseball history has revolved around New York teams.  Don't get me wrong, if Hell had a baseball team, I'd root for Hell against the Yankees, but for an old traditionalist like me, there is something right about seeing the American League pennant waving over Yankee Stadium.
   </p>
 
   <p>
@@ -40,11 +40,11 @@ title: Vol. 1, No. 4 - March 2001 - Opening Day
   </p>
 
   <p>
-    The Braves moving to Atlanta was like your girlfriend dumping you.  Only worse.  My friends and I felt like we were betrayed.  We couldn't understand how they could just leave?  After all, they were <em>our</em> team.  Most of my friends shifted their allegiance to Chicago, but I couldn't stoop to listen to the Cubs games.  I had standards.  So, like an old boyfriend who just can't let go, I continued to follow Aaron, Mathews, and the rest of my team even after their hats were emblazoned with that infamous letter &mdash; reminiscent of the same letter that Hester Prynne was forced to wear on her clothing after a similar indiscretion.
+    The Braves moving to Atlanta was like your girlfriend dumping you.  Only worse.  My friends and I felt like we were betrayed.  We couldn't understand how they could just leave?  After all, they were <em>our</em> team.  Most of my friends shifted their allegiance to Chicago, but I couldn't stoop to listen to the Cubs games.  I had standards.  So, like an old boyfriend who just can't let go, I continued to follow Aaron, Mathews, and the rest of my team even after their hats were emblazoned with that infamous letter&mdash;reminiscent of the same letter that Hester Prynne was forced to wear on her clothing after a similar indiscretion.
   </p>
 
   <p>
-    The years passed, and in 1974 my company transferred me to Atlanta where I was once again able to follow my team on a daily basis.  Only this time the Braves were arguably one of the worst teams in the major leagues.  Like I did as a boy, I spent many nights in bed following Aaron and the guys on their frequent West Coast road trips.  This time, however, my wife was sleeping by my side &mdash; having been put to sleep by Ernie Johnson's voice.
+    The years passed, and in 1974 my company transferred me to Atlanta where I was once again able to follow my team on a daily basis.  Only this time the Braves were arguably one of the worst teams in the major leagues.  Like I did as a boy, I spent many nights in bed following Aaron and the guys on their frequent West Coast road trips.  This time, however, my wife was sleeping by my side&mdash;having been put to sleep by Ernie Johnson's voice.
   </p>
 
   <p>
@@ -76,7 +76,7 @@ title: Vol. 1, No. 4 - March 2001 - Opening Day
   </p>
 
   <p>
-    It's winter now, and as I look forward to spring training, I sit and daydream about what kind of miracle it would take for my Brewers to be playing in Yankee stadium this October.  Remember the musical "Damn Yankees?"  Does anyone know how to get in touch with Mr. Applegate?  Just remember, if the Brewers opening day lineup includes a great young prospect that goes by the name of Joe Hardy, you can bet that the Brewers will win the World Series.  And if Joe Hardy does indeed wind up with the Brewers, please do me a favor.  Send my wife some roses &mdash; she'll be lonely.
+    It's winter now, and as I look forward to spring training, I sit and daydream about what kind of miracle it would take for my Brewers to be playing in Yankee stadium this October.  Remember the musical "Damn Yankees?"  Does anyone know how to get in touch with Mr. Applegate?  Just remember, if the Brewers opening day lineup includes a great young prospect that goes by the name of Joe Hardy, you can bet that the Brewers will win the World Series.  And if Joe Hardy does indeed wind up with the Brewers, please do me a favor.  Send my wife some roses&mdash;she'll be lonely.
   </p>
 
   <hr />

@@ -18,7 +18,7 @@ title: Vol. 1, No. 1 - June 2000 - Letter From The Publisher
 </p>
 
 <p>
-  I would like very much for you to share your baseball stories here.  Memories, fact, fiction, prose, poetry, art &mdash; they are all welcome.  I'll throw in an occasional feature.  Let's ignore the Rockers and Strawberrys and let some of baseball's good news play for a bit, okay?  We could all use more of that.
+  I would like very much for you to share your baseball stories here.  Memories, fact, fiction, prose, poetry, art&mdash;they are all welcome.  I'll throw in an occasional feature.  Let's ignore the Rockers and Strawberrys and let some of baseball's good news play for a bit, okay?  We could all use more of that.
 </p>
 
 <p>

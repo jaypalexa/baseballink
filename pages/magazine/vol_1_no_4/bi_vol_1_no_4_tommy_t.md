@@ -28,7 +28,7 @@ title: Vol. 1, No. 4 - March 2001 - Tommy T's Baseball Flix Pix - Field of Dream
   </p>
 
   <p>
-    Oh, sure, there are baseball scenes in it, but the film uses baseball as a device; the primary theme is dreams &mdash; dreaming dreams, living dreams, having dreams shattered, picking up the pieces of your dreams, and getting a second chance at fulfilling lost dreams.  The secondary theme of the movie is relationships &mdash; between husbands and wives, fathers and daughters, between neighbors, but mostly between fathers and sons.
+    Oh, sure, there are baseball scenes in it, but the film uses baseball as a device; the primary theme is dreams&mdash;dreaming dreams, living dreams, having dreams shattered, picking up the pieces of your dreams, and getting a second chance at fulfilling lost dreams.  The secondary theme of the movie is relationships&mdash;between husbands and wives, fathers and daughters, between neighbors, but mostly between fathers and sons.
   </p>
 
   <p>
@@ -92,7 +92,7 @@ title: Vol. 1, No. 4 - March 2001 - Tommy T's Baseball Flix Pix - Field of Dream
   <h3>Ray's Father</h3>
 
   <p>
-    Ray:  "I'm scared to death I'm turning into my father.  The man never did one spontaneous thing in all the years I knew him.  I never forgave him for getting old &mdash; by the time he was as old as I am now, he was ancient.  He must have had dreams; he just never did anything about them."
+    Ray:  "I'm scared to death I'm turning into my father.  The man never did one spontaneous thing in all the years I knew him.  I never forgave him for getting old&mdash;by the time he was as old as I am now, he was ancient.  He must have had dreams; he just never did anything about them."
   </p>
 
   <p>
@@ -134,7 +134,7 @@ title: Vol. 1, No. 4 - March 2001 - Tommy T's Baseball Flix Pix - Field of Dream
   </p>
 
   <p>
-    In the end, the movie is really about forgiveness and redemption.  And it gives one pause &mdash; a pause to reflect on our own lives and our own perceived failed dreams.  To realize that time heals all wounds.  And most importantly, to appreciate our own Field of Dreams &mdash; wherever that may be.
+    In the end, the movie is really about forgiveness and redemption.  And it gives one pause&mdash;a pause to reflect on our own lives and our own perceived failed dreams.  To realize that time heals all wounds.  And most importantly, to appreciate our own Field of Dreams&mdash;wherever that may be.
   </p>
 
   <p>

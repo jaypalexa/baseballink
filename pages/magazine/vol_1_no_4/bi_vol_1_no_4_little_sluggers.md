@@ -24,7 +24,7 @@ title: Vol. 1, No. 4 - March 2001 - Little Sluggers
   <h2>They may not have a powerful swing, but every Saturday morning these little ones have a ball</h2>
 
   <p>
-    CAMP FOSTER, Okinawa, Japan &mdash; It's not often that you'll see a baseball player run with the bat after getting a hit, sit on a base and dig in the dirt during the middle of a game, or even try desperately to catch bugs while playing an outfield position &mdash; not unless you're watching the Camp Foster PeeWee League.
+    CAMP FOSTER, Okinawa, Japan&mdash;It's not often that you'll see a baseball player run with the bat after getting a hit, sit on a base and dig in the dirt during the middle of a game, or even try desperately to catch bugs while playing an outfield position&mdash;not unless you're watching the Camp Foster PeeWee League.
   </p>
 
   <p>
