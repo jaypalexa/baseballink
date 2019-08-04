@@ -198,6 +198,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2017 BPL first-round matchups:</p>
         <ul>
         <li>(1) Los Angeles Dodgers vs (8) New York Yankees</li>
@@ -345,6 +346,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2016 BPL first-round matchups:</p>
         <ul>
         <li>(1) Chicago Cubs vs (8) Balitmore Orioles</li>
@@ -972,6 +974,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2015 BPL first-round matchups:</p>
         <ul>
         <li>(1) St Louis Cardinals vs (8) Texas Rangers</li>
@@ -1599,6 +1602,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2014 BPL first-round matchups:</p>
         <ul>
         <li>(1) Los Angeles Angels vs (8) Oakland Athletics</li>
@@ -2226,6 +2230,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2013 BPL first-round matchups:</p>
         <ul>
         <li>(1) Boston Red Sox vs (8) Los Angeles Dodgers</li>
@@ -2853,6 +2858,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2012 BPL first-round matchups:</p>
         <ul>
         <li>(1) Washington Senators vs (8) Baltimore Orioles</li>
@@ -3480,6 +3486,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2011 BPL first-round matchups:</p>
         <ul>
         <li>(1) Philadelphia Phillies vs (8) Boston Red Sox</li>
@@ -4076,6 +4083,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2010 BPL first-round matchups:</p>
         <ul>
         <li>(1) Philadelphia Phillies vs (8) Texas Rangers</li>
@@ -4672,6 +4680,7 @@ title: Promotion/Relegation Tables
         </tr>
         </tbody>
         </table>
+        <br />
         <p>The 2009 BPL first-round matchups:</p>
         <ul>
         <li>(1) New York Yankees vs (8) San Francisco Giants</li>
