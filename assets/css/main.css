@@ -177,16 +177,16 @@ ul {
   padding: 2px;
 }
 
-.pro-rel-table-content {
+.pro-rel-table-standings {
   border: solid 1px;
   border-spacing: 2px;
 }
 
-.pro-rel-table-content td {
+.pro-rel-table-standings td {
   padding: 2px;
 }
 
-.pro-rel-table-content-header tr {
+.pro-rel-table-standings-heading {
   background-color: lightgray;
   font-weight: bold;
 }

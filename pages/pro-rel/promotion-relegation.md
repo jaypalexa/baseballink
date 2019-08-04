@@ -66,9 +66,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-          <table class="pro-rel-table-content">
+          <table class="pro-rel-table-standings">
           <tbody>
-          <tr class="pro-rel-table-content-header">
+          <tr class="pro-rel-table-standings-heading">
             <td>BPL</td>
             <td>Team</td>
             <td>W</td>
@@ -112,9 +112,9 @@ title: Promotion/Relegation Tables
           </table>
         </td>
         <td valign="top">
-          <table class="pro-rel-table-content">
+          <table class="pro-rel-table-standings">
           <tbody>
-          <tr class="pro-rel-table-content-header">
+          <tr class="pro-rel-table-standings-heading">
             <td>BL2</td>
             <td>Team</td>
             <td>W</td>
@@ -154,9 +154,9 @@ title: Promotion/Relegation Tables
           </table>
         </td>
         <td valign="top">
-          <table class="pro-rel-table-content">
+          <table class="pro-rel-table-standings">
           <tbody>
-          <tr class="pro-rel-table-content-header">
+          <tr class="pro-rel-table-standings-heading">
             <td>BL3</td>
             <td>Team</td>
             <td>W</td>
@@ -213,9 +213,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -269,9 +269,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -311,9 +311,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -370,9 +370,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -606,9 +606,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -798,9 +798,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -1007,9 +1007,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -1243,9 +1243,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -1435,9 +1435,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -1644,9 +1644,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -1880,9 +1880,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -2072,9 +2072,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -2281,9 +2281,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -2517,9 +2517,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -2709,9 +2709,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -2918,9 +2918,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -3154,9 +3154,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -3346,9 +3346,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -3555,9 +3555,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -3760,9 +3760,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -3952,9 +3952,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
@@ -4161,9 +4161,9 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BPL</td>
         <td>Team</td>
         <td>W</td>
@@ -4366,9 +4366,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL2</td>
         <td>Team</td>
         <td>W</td>
@@ -4558,9 +4558,9 @@ title: Promotion/Relegation Tables
         </table>
         </td>
         <td valign="top">
-        <table class="pro-rel-table-content">
+        <table class="pro-rel-table-standings">
         <tbody>
-        <tr class="pro-rel-table-content-header">
+        <tr class="pro-rel-table-standings-heading">
         <td>BL3</td>
         <td>Team</td>
         <td>W</td>
