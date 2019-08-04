@@ -161,20 +161,20 @@ ul {
   background-color: lightpink;
 }
 
-.pro-rel-table-header {
+.pro-rel-table {
   border: none;
   font-family: Arial;
   font-size: 8pt;
 }
 
-.pro-rel-table-header tr {
+.pro-rel-table td {
+  padding: 2px;
+}
+
+.pro-rel-table-header {
   background-color: black;
   color: white;
   font-weight: bold;
-}
-
-.pro-rel-table-header td {
-  padding: 2px;
 }
 
 .pro-rel-table-standings {
@@ -182,11 +182,7 @@ ul {
   border-spacing: 2px;
 }
 
-.pro-rel-table-standings td {
-  padding: 2px;
-}
-
-.pro-rel-table-standings-heading {
+.pro-rel-table-standings-header {
   background-color: lightgray;
   font-weight: bold;
 }
