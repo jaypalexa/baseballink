@@ -112,6 +112,12 @@ ul {
   padding-right: 1rem;
 }
 
+.image-left {
+  float: left;
+  margin-bottom: 6px;
+  margin-right: 6px;
+}
+
 .index-main {
   min-height: 100vh;
 }

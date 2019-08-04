@@ -24,7 +24,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <p>
-    Like the feline it was named after, the Kitty League had many lives. It started as the Kentucky-Illinois-Tennessee League in 1903, a Class D league with teams in Paducah, Hopkinsville, Henderson, and Owensboro, Kentucky; Cairo, Illinois; and Clarksville and Jackson, Tennessee. It didn't take long for sportswriters to shorten its name to the "Kitty" League and with a nickname like that, it was hard for fans not to expect quirky plays and equally quirky ballplayers and managers. One character produced in its inaugural season was Hopkinsville catcher Charles "Gabby" Street, who was later known as Walter Johnson's personal catcher with the Washington Senators and caught a ball dropped from the top of the Washington Monument.
+    <img src="images/kitty_league_baseball.jpg" class="image-left" alt="Kitty League Baseball">Like the feline it was named after, the Kitty League had many lives. It started as the Kentucky-Illinois-Tennessee League in 1903, a Class D league with teams in Paducah, Hopkinsville, Henderson, and Owensboro, Kentucky; Cairo, Illinois; and Clarksville and Jackson, Tennessee. It didn't take long for sportswriters to shorten its name to the "Kitty" League and with a nickname like that, it was hard for fans not to expect quirky plays and equally quirky ballplayers and managers. One character produced in its inaugural season was Hopkinsville catcher Charles "Gabby" Street, who was later known as Walter Johnson's personal catcher with the Washington Senators and caught a ball dropped from the top of the Washington Monument.
   </p>
 
   <p>
