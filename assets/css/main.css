@@ -149,6 +149,17 @@ ul {
   margin-left: 1rem;
 }
 
+.pro-rel-table-header {
+  border: none;
+  font-family: Arial;
+  font-size: 8pt;
+  padding: 2px;
+}
+
+.pro-rel-table-header td {
+  padding: 2px;
+}
+
 .storycontent p {
   margin-bottom: 1rem;
 }
