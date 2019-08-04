@@ -49,25 +49,7 @@ ul {
   border: none;
 }
 
-.avg-war .battingDark { 
-  background: #336600; 
-  color: white; 
-  font-family: Tahoma,Arial; 
-  font-size: small;
-  font-weight: 900;
-  text-align: center;  
-}
-
-.avg-war .battingLight { 
-  background: #339966; 
-  color: white; 
-  font-family: Tahoma, Arial; 
-  font-size: small;
-  font-weight: 900;
-  text-align: center;  
-}
-
-.avg-war .pitchingDark { 
+.avg-war .calcDark { 
   background: #336600; 
   color: white; 
   font-family: Tahoma, Arial; 
@@ -76,7 +58,7 @@ ul {
   text-align: center;  
 }
 
-.avg-war .pitchingLight { 
+.avg-war .calcLight { 
   background: #339966; 
   color: white; 
   font-family: Tahoma, Arial; 
@@ -88,7 +70,6 @@ ul {
 .avg-war-players table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  border-spacing: 1px;
   font-family: Arial;
   font-size: 8pt;
   padding: 2px;

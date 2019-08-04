@@ -35,34 +35,34 @@ title: Average WAR Explained
       <table id="battingMain">
         <tbody>
           <tr>
-            <td class="battingDark" class="has-text-weight-bold">Batting</td>
+            <td class="calcDark">Batting</td>
           </tr>
           <tr>
-            <td class="battingDark">
-              <table id="battingWAR" width="100%">
+            <td class="calcDark">
+              <table id="battingWAR">
                 <tbody>
                   <tr>
-                    <td class="battingLight">oWAR</td>
-                    <td class="battingLight"></td>
-                    <td class="battingLight">dWAR</td>
-                    <td class="battingLight"></td>
-                    <td class="battingLight">Career WAR</td>
-                    <td class="battingDark"></td>
-                    <td class="battingDark">Career G</td>
-                    <td class="battingDark"></td>
-                    <td class="battingDark" class="has-text-weight-bold">avgWAR</td>
-                    <td class="battingDark"></td>
+                    <td class="calcLight">oWAR</td>
+                    <td class="calcLight"></td>
+                    <td class="calcLight">dWAR</td>
+                    <td class="calcLight"></td>
+                    <td class="calcLight">Career WAR</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark">Career G</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark" class="has-text-weight-bold">avgWAR</td>
+                    <td class="calcDark"></td>
                   </tr>
                   <tr>
-                    <td class="battingLight"><input type="text" name="battingOWarValue" size="3" /></td>
-                    <td class="battingLight">+</td>
-                    <td class="battingLight"><input type="text" name="battingDWarValue" size="3" /></td>
-                    <td class="battingLight">=</td>
-                    <td class="battingLight"><input type="text" name="battingCareerWarValue" size="3" /></td>
-                    <td class="battingDark"> / (</td>
-                    <td class="battingDark"><input type="text" name="battingCareerGValue" size="3" /></td>
-                    <td class="battingDark"> / 162 ) =</td>
-                    <td class="battingDark" class="has-text-weight-bold has-background-black has-text-yellow">
+                    <td class="calcLight"><input type="text" name="battingOWarValue" /></td>
+                    <td class="calcLight">+</td>
+                    <td class="calcLight"><input type="text" name="battingDWarValue" /></td>
+                    <td class="calcLight">=</td>
+                    <td class="calcLight"><input type="text" name="battingCareerWarValue" /></td>
+                    <td class="calcDark"> / (</td>
+                    <td class="calcDark"><input type="text" name="battingCareerGValue" /></td>
+                    <td class="calcDark"> / 162 ) =</td>
+                    <td class="calcDark" class="has-text-weight-bold has-background-black has-text-warning has-text-centered">
                       <span id="battingAvgWarValue">0.0</span>
                     </td>
                     <td class="has-text-centered">
@@ -84,43 +84,43 @@ title: Average WAR Explained
       <table id="pitchingMain" width="100%" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td class="pitchingDark" style="font-size: medium; text-align: left;">Pitching</td>
+            <td class="calcDark" style="font-size: medium; text-align: left;">Pitching</td>
           </tr>
           <tr>
-            <td class="pitchingDark">
+            <td class="calcDark">
               <table id="pitchingWAR" width="100%" cellspacing="0" cellpadding="2">
                 <tbody>
                   <tr>
-                    <td class="pitchingLight">WAR</td>
-                    <td class="pitchingLight"></td>
-                    <td class="pitchingLight">oWAR</td>
-                    <td class="pitchingLight"></td>
-                    <td class="pitchingLight">dWAR</td>
-                    <td class="pitchingLight"></td>
-                    <td class="pitchingLight">Career WAR</td>
-                    <td class="pitchingDark"></td>
-                    <td class="pitchingDark">Career G</td>
-                    <td class="pitchingDark"></td>
-                    <td class="pitchingDark">Career GS</td>
-                    <td class="pitchingDark"></td>
-                    <td class="pitchingDark" style="font-size: medium; padding: 4px;">avgWAR</td>
-                    <td class="pitchingDark"></td>
-                    <td class="pitchingDark"></td>
+                    <td class="calcLight">WAR</td>
+                    <td class="calcLight"></td>
+                    <td class="calcLight">oWAR</td>
+                    <td class="calcLight"></td>
+                    <td class="calcLight">dWAR</td>
+                    <td class="calcLight"></td>
+                    <td class="calcLight">Career WAR</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark">Career G</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark">Career GS</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark" style="font-size: medium; padding: 4px;">avgWAR</td>
+                    <td class="calcDark"></td>
+                    <td class="calcDark"></td>
                   </tr>
                   <tr>
-                    <td class="pitchingLight"><input type="text" name="pitchingWarValue" size="3" /></td>
-                    <td class="pitchingLight">+</td>
-                    <td class="pitchingLight"><input type="text" name="pitchingOWarValue" size="3" /></td>
-                    <td class="pitchingLight">+</td>
-                    <td class="pitchingLight"><input type="text" name="pitchingDWarValue" size="3" /></td>
-                    <td class="pitchingLight">=</td>
-                    <td class="pitchingLight"><input type="text" name="pitchingCareerWarValue" size="3" /></td>
-                    <td class="pitchingDark"> / ( (</td>
-                    <td class="pitchingDark"><input type="text" name="pitchingCareerGValue" size="3" /></td>
-                    <td class="pitchingDark"> +</td>
-                    <td class="pitchingDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
-                    <td class="pitchingDark"> )  /  68 ) =</td>
-                    <td class="pitchingDark" style="background: black; padding: 4px;"> 
+                    <td class="calcLight"><input type="text" name="pitchingWarValue" size="3" /></td>
+                    <td class="calcLight">+</td>
+                    <td class="calcLight"><input type="text" name="pitchingOWarValue" size="3" /></td>
+                    <td class="calcLight">+</td>
+                    <td class="calcLight"><input type="text" name="pitchingDWarValue" size="3" /></td>
+                    <td class="calcLight">=</td>
+                    <td class="calcLight"><input type="text" name="pitchingCareerWarValue" size="3" /></td>
+                    <td class="calcDark"> / ( (</td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGValue" size="3" /></td>
+                    <td class="calcDark"> +</td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
+                    <td class="calcDark"> )  /  68 ) =</td>
+                    <td class="calcDark" style="background: black; padding: 4px;"> 
                       <span id="pitchingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span>
                     </td>
                     <td style="padding-left: 6px;">
