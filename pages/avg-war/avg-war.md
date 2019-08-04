@@ -137,14 +137,14 @@ title: Average WAR Explained
         The result is <strong>Average WAR (avgWAR)</strong>&mdash;the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>
       <div style="margin-left: 12px;">
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2015-hall-of-fame-candidates.html">AvgWAR for 2015 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
+        <li><a href="average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2015-hall-of-fame-candidates.html">AvgWAR for 2015 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2014-hall-of-fame-candidates.html">AvgWAR for 2014 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
+        <li><a href="average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
+        <li><a href="lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
       </div>
       <br />
     <table class="avg-war-players" width="550px" cellspacing="1" cellpadding="2">
