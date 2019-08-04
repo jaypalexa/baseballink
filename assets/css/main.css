@@ -107,15 +107,29 @@ ul {
   }
 }
 
+.center-element {
+  margin: auto;
+}
+
+.center-text {
+  text-align: center;
+}
+
 .column {
   padding-left: 2rem;
   padding-right: 1rem;
 }
 
-.image-left {
+.float-left {
   float: left;
   margin-bottom: 6px;
   margin-right: 6px;
+}
+
+.float-right {
+  float: right;
+  margin-bottom: 6px;
+  margin-left: 6px;
 }
 
 .index-main {
