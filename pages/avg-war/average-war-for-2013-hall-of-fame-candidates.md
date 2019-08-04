@@ -14,10 +14,10 @@ title: Average WAR for 2013 Hall of Fame Candidates
   <h1>Average WAR for 2013 Hall of Fame Candidates</h1>
   <p><em>December 6, 2012 by TheUmpire</em></p>
   <br />
-  <p><a href="http://commons.wikimedia.org/wiki/File:Barry_Bonds_2006-05-08.jpg"><img style="margin: 0px 0px 10px 10px; display: inline; border: 0px;" title="Barry Bonds" src="{{ site.url }}{{ site.baseurl }}/assets/images/barry_bonds2.jpg" alt="Barry Bonds" width="161" height="232" align="right" border="0" /></a> Led by <a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a>, this year’s ballot features five avgWAR 5+ players.  <a href="http://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a> ain’t one of ‘em, despite his 609 career home runs.</p>
+  <p><a href="http://commons.wikimedia.org/wiki/File:Barry_Bonds_2006-05-08.jpg"><img style="margin: 0px 0px 10px 10px; display: inline; border: 0px;" title="Barry Bonds" src="{{ site.url }}{{ site.baseurl }}/assets/images/barry_bonds2.jpg" alt="Barry Bonds" width="161" height="232" class="float-right" /></a> Led by <a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a>, this year's ballot features five avgWAR 5+ players.  <a href="http://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a> ain't one of 'em, despite his 609 career home runs.</p>
   <p><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> leads the pack of first-year candidates.</p>
-  <p><a href="http://www.baseball-reference.com/players/m/mesajo01.shtml">José Mesa</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p><a href="http://www.baseball-reference.com/players/m/mesajo01.shtml">José Mesa</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
+  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
@@ -26,41 +26,41 @@ title: Average WAR for 2013 Hall of Fame Candidates
   <li>&lt;0 Replacement Level </li>
   </ul>
   <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
-  <table style="font-family: arial; font-size: 8pt;" width="250" border="1" cellspacing="1" cellpadding="2">
+  <table class="avg-war-players">
   <tbody>
-  <tr style="background-color: #000000; color: #ffffff; font-weight: bold;">
+  <tr class="avg-war-players-header">
   <td>Player</td>
   <td>avgWAR</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td>
   <td>8.58</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td>
   <td>6.43</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
   <td>5.78</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
   <td>5.68</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td>
   <td>5.15</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
   <td>5.07</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
   <td>5.07</td>
   </tr>
-  <tr style="background-color: #ffd700;">
+  <tr style="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/l/loftoke01.shtml">Kenny Lofton</a></td>
   <td>5.00</td>
   </tr>
@@ -182,6 +182,6 @@ title: Average WAR for 2013 Hall of Fame Candidates
   </tr>
   </tbody>
   </table>
-  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
+  <p>Stats from <a href="http://baseball1.com/statistics/">Lahman's Baseball Database</a> and <a href="http://www.baseball-reference.com/">Baseball-Reference.com</a>.</p>
   
 </section>

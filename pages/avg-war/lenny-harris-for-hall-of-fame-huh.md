@@ -16,7 +16,7 @@ title: Lenny Harris for Hall of Fame...huh?
   <br />
 
   <p><a title="Lenny Harris" href="http://commons.wikimedia.org/wiki/File:Lenny_Harris.JPG">
-  <img style="margin: 0px 0px 10px 10px; display: inline; border: 0pt none;" title="Lenny Harris" src="{{ site.url }}{{ site.baseurl }}/assets/images/lenny_harris.jpg" border="0" alt="Lenny Harris" width="158" height="137" align="right" /></a> 
+  <img style="margin: 0px 0px 10px 10px; display: inline; border: 0pt none;" title="Lenny Harris" src="{{ site.url }}{{ site.baseurl }}/assets/images/lenny_harris.jpg" alt="Lenny Harris" width="158" height="137" class="float-right" /></a> 
   If you suffer from credibility issues, what do you do about it?  
   <a href="http://bbwaa.com/2010/11/2011-hof-ballot/">Nominate Lenny Harris for the Hall of Fame</a>, of course.</p>
   <p>The <a href="http://bbwaa.com/">Baseball Writers&rsquo; Association of America</a> (BBWAA) is responsible for electing inductees to the National Baseball Hall of Fame in Cooperstown, NY.  With some Steroid Era players now up for consideration, the BBWAA finds itself in the midst of one of baseball&rsquo;s most contentious debates.  One overly-dramatic and illogical writer even suggests that voting for a PED user is analogous to <a href="http://www.pressdemocrat.com/article/20101220/NEWS/101229944?p=all&amp;tc=pgall&amp;tc=ar">releasing a convicted murderer</a>.</p>

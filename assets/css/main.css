@@ -67,6 +67,10 @@ ul {
   text-align: center;  
 }
 
+.avg-war-hof {
+  background-color: #ffd700;
+}
+
 .avg-war-players table, th, td {
   border: 1px solid black;
   border-collapse: collapse;

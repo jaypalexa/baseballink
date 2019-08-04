@@ -15,7 +15,7 @@ title: Average WAR for 2014 Hall of Fame Candidates
   <p><em>January 1, 2014 by TheUmpire</em></p>
   <br />
 
-  <p><a title="Todd Jones" href="http://en.wikipedia.org/wiki/File:ToddJones.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="Todd Jones" border="0" alt="Todd Jones" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/todd_jones.jpg" width="183" height="260" /></a></p>
+  <p><a title="Todd Jones" href="http://en.wikipedia.org/wiki/File:ToddJones.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; display: inline; border-top: 0px; border-right: 0px" title="Todd Jones" alt="Todd Jones" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/todd_jones.jpg" width="183" height="260" /></a></p>
   <p><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml">Mike Mussina</a> leads the pack of first-year candidates.</p>
   <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
   <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
@@ -27,49 +27,49 @@ title: Average WAR for 2014 Hall of Fame Candidates
   <li>&lt;0 Replacement Level </li>
   </ul>
   <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
-  <table style="font-family: arial; font-size: 8pt" border="1" cellspacing="1" cellpadding="2" width="250">
+  <table class="avg-war-players">
   <tbody>
-  <tr style="background-color: #000000; color: #ffffff; font-weight: bold">
+  <tr class="avg-war-players-header">
   <td>Player</td>
   <td>avgWAR</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td>
   <td>8.82</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td>
   <td>6.74</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
   <td>5.99</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
   <td>5.92</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td>
   <td>5.41</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
   <td>5.38</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
   <td>5.36</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml">Mike Mussina</a></td>
   <td>5.26</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/t/thomafr04.shtml">Frank Thomas</a></td>
   <td>5.13</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/p/piazzmi01.shtml">Mike Piazza</a></td>
   <td>5.02</td>
   </tr>

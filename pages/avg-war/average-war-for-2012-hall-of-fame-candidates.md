@@ -14,7 +14,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <h1>Average WAR for 2012 Hall of Fame Candidates</h1>
   <p><em>December 18, 2011 by TheUmpire</em></p>
   <br />
-  <p><a title="Jeff Bagwell" href="http://commons.wikimedia.org/wiki/File:The_Killer_Bs.jpg"><img style="margin: 0px 0px 10px 10px; display: inline; border-width: 0px;" title="Jeff Bagwell" src="{{ site.url }}{{ site.baseurl }}/assets/images/jeff_bagwell.jpg" alt="Jeff Bagwell" width="129" height="157" align="right" border="0" /></a> <a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> tops the list again for Baseball Hall of Fame candidates.  None of the first-year 2012 candidates makes the cut.</p>
+  <p><a title="Jeff Bagwell" href="http://commons.wikimedia.org/wiki/File:The_Killer_Bs.jpg"><img style="margin: 0px 0px 10px 10px; display: inline; border-width: 0px;" title="Jeff Bagwell" src="{{ site.url }}{{ site.baseurl }}/assets/images/jeff_bagwell.jpg" alt="Jeff Bagwell" width="129" height="157" class="float-right" /></a> <a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> tops the list again for Baseball Hall of Fame candidates.  None of the first-year 2012 candidates makes the cut.</p>
   <p><a href="http://www.baseball-reference.com/players/j/jordabr01.shtml">Brian Jordan</a> leads the pack of non-worthy rookies, largely due to an impressive defensive WAR.</p>
   <p><a href="http://www.baseball-reference.com/players/w/womacto01.shtml">Tony Womack</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year&rsquo;s Lenny Harris</a>.</p>
   <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
@@ -26,31 +26,31 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <li>&lt;0 Replacement Level </li>
   </ul>
   <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
-  <table style="font-family: arial; font-size: 8pt;" border="1" cellspacing="1" cellpadding="3">
+  <table class="avg-war-players">
   <tbody>
-  <tr style="background-color: #000000; color: #ffffff; font-weight: bold;">
+  <tr class="avg-war-players-header">
   <td>Player</td>
   <td>Avg WAR</td>
   </tr>
-  <tr>
-  <td style="background-color: #d2b48c;"><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
-  <td style="background-color: #d2b48c;">6.02</td>
+  <tr class="avg-war-hof">
+  <td><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
+  <td>6.02</td>
+  </tr>
+  <tr class="avg-war-hof">
+  <td><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
+  <td>5.48</td>
+  </tr>
+  <tr class="avg-war-hof">
+  <td><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
+  <td>5.45</td>
+  </tr>
+  <tr class="avg-war-hof">
+  <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
+  <td>5.30</td>
   </tr>
   <tr>
-  <td style="background-color: #d2b48c;"><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
-  <td style="background-color: #d2b48c;">5.48</td>
-  </tr>
-  <tr>
-  <td style="background-color: #d2b48c;"><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
-  <td style="background-color: #d2b48c;">5.45</td>
-  </tr>
-  <tr>
-  <td style="background-color: #d2b48c;"><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
-  <td style="background-color: #d2b48c;">5.30</td>
-  </tr>
-  <tr>
-  <td style="background-color: #d2b48c;"><a href="http://www.baseball-reference.com/players/l/larkiba01.shtml">Barry Larkin</a></td>
-  <td style="background-color: #d2b48c;">5.12</td>
+  <td class="avg-war-hof"><a href="http://www.baseball-reference.com/players/l/larkiba01.shtml">Barry Larkin</a></td>
+  <td>5.12</td>
   </tr>
   <tr>
   <td><a href="http://www.baseball-reference.com/players/t/trammal01.shtml">Alan Trammell</a></td>

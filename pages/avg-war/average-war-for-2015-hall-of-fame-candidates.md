@@ -15,7 +15,7 @@ title: Average WAR for 2015 Hall of Fame Candidates
   <p><em>December 31, 2014 by TheUmpire</em></p>
   <br />
   
-  <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg"><img style="border-right-width: 0px; margin: 0px 0px 10px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Eddie Guardado" border="0" alt="Eddie Guardado" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a>
+  <p><a title="Eddie Guardado" href="http://commons.wikimedia.org/wiki/File%3AAAAA7749_Eddie_Guardado.jpg"><img style="border-right-width: 0px; margin: 0px 0px 10px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Eddie Guardado" alt="Eddie Guardado" class="float-right" src="{{ site.url }}{{ site.baseurl }}/assets/images/eddie_guardado.jpg" width="172" height="260" /></a>
   <p><a href="http://www.baseball-reference.com/players/m/martipe02.shtml">Pedro Martinez</a> leads the pack of first-year candidates.</p>
   <p><a href="http://www.baseball-reference.com/players/g/guarded01.shtml">Eddie Guardado</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/pages/lenny-harris-for-hall-of-fame-huh.html">this year’s Lenny Harris</a>.</p>
   <p>We have converted a baseball player’s career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
@@ -27,53 +27,53 @@ title: Average WAR for 2015 Hall of Fame Candidates
   <li>&lt;0 Replacement Level </li>
   </ul>
   <p>It is our proposal that players having an <a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war.html">avgWAR</a> of 5.0 or higher are worthy of induction into the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.</p>
-  <table style="font-family: arial; font-size: 8pt" border="1" cellspacing="1" cellpadding="2" width="250">
+  <table class="avg-war-players">
   <tbody>
-  <tr style="background-color: #000000; color: #ffffff; font-weight: bold">
+  <tr class="avg-war-players-header">
   <td>Player</td>
   <td>avgWAR</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td>
   <td>8.81</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td>
   <td>6.74</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/martipe02.shtml">Pedro Martinez</a></td>
   <td>6.45</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
   <td>6.00</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
   <td>5.92</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/j/johnsra05.shtml">Randy Johnson</a></td>
   <td>5.69</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td>
   <td>5.41</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
   <td>5.38</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
   <td>5.36</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml">Mike Mussina</a></td>
   <td>5.26</td>
   </tr>
-  <tr style="background-color: #ffd700">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/p/piazzmi01.shtml">Mike Piazza</a></td>
   <td>5.03</td>
   </tr>
