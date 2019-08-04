@@ -307,7 +307,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
     He was about to put down the last paper, the sports section of the Sunday <em>Chicago Tribune</em>, when his eye caught sight of a short item on page six, near the bottom on the right hand page in a column made up of several news briefs.
   </p>
 
-  <p>     
+  <div>     
     <pre>
     Ray Chapman, former big league  
     shortstop and later head baseball coach at the 
@@ -322,7 +322,7 @@ title: Vol. 2, No. 1 - June 2001 - Dervil Burlow
     injury during the 1926 season, finishing his
     career with a lifetime batting average of .267.
     </pre>
-  </p>
+  </div>
 
   <p>
     It was a long time before Dervil could set the newspaper aside. He was a man with a very bad headache, but he stood a good chance of once again being a knuckleball pitcher with all his faculties intact.
