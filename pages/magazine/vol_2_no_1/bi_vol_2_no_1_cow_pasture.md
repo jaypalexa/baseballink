@@ -16,7 +16,7 @@ title: Vol. 2, No. 1 - June 2001 - Cow Pasture Baseball
   <p><em>by Bill Raven</em></p>
 
   <p>
-    I was playing shortstop. The batter hit a sharp grounder to my right, I dug it out of the dirt infield, set myself, and threw it six feet over the out stretched glove of the first baseman, who happened to be my older brother.
+    <img src="images/cow_pasture_baseball.png" class="float-left" alt="Cow Pasture Baseball">I was playing shortstop. The batter hit a sharp grounder to my right, I dug it out of the dirt infield, set myself, and threw it six feet over the out stretched glove of the first baseman, who happened to be my older brother.
   </p>
 
   <p>
