@@ -105,9 +105,9 @@ title: Promotion/Relegation Tables
           <tr class="pro-rel-status-relegated"><td>NL-E</td><td>Philadelphia</td><td>66</td><td>96</td><td>-92</td></tr>
           <tr class="pro-rel-status-relegated"><td>NL-W</td><td>San Francisco</td><td>64</td><td>98</td><td>-137</td></tr>
           <tr class="pro-rel-status-relegated"><td>AL-C</td><td>Detroit</td><td>64</td><td>98</td><td>-159</td></tr>
-          <tr><td colspan="5">*** = 2017 World Series winner</td></tr>
-          <tr><td colspan="5">** = 2017 World Series loser</td></tr>
-          <tr><td colspan="5">* = in 2017 MLB playoffs</td></tr>
+          <tr><td colspan="5">*** = World Series winner</td></tr>
+          <tr><td colspan="5">** = World Series loser</td></tr>
+          <tr><td colspan="5">* = in MLB playoffs</td></tr>
           </tbody>
           </table>
         </td>
@@ -206,21 +206,21 @@ title: Promotion/Relegation Tables
         <li>(2) Cleveland Indians vs (7) Chicago Cubs</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2016 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2016 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
-        <td>BPL</td>
-        <td>Team</td>
-        <td>W</td>
-        <td>L</td>
-        <td>RD</td>
+          <td>BPL</td>
+          <td>Team</td>
+          <td>W</td>
+          <td>L</td>
+          <td>RD</td>
         </tr>
         <tr class="pro-rel-status-promoted"><td>NL-C</td><td>***Chicago</td><td>103</td><td>58</td><td>252</td></tr>
         <tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Washington</td><td>95</td><td>67</td><td>151</td></tr>
@@ -252,19 +252,9 @@ title: Promotion/Relegation Tables
         <tr class="pro-rel-status-relegated"><td>NL-W</td><td>San Diego</td><td>68</td><td>94</td><td>-84</td></tr>
         <tr class="pro-rel-status-relegated"><td>NL-C</td><td>Cincinnati</td><td>68</td><td>94</td><td>-138</td></tr>
         <tr class="pro-rel-status-relegated"><td>AL-C</td><td>Minnesota</td><td>59</td><td>103</td><td>-167</td></tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2016 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2016 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2016 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -363,10 +353,10 @@ title: Promotion/Relegation Tables
         <li>(2) Washington Nationals vs (7) Toronto Blue Jays</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2015 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2015 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -589,19 +579,9 @@ title: Promotion/Relegation Tables
         <td>99</td>
         <td>-183</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2015 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2015 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2015 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -1000,10 +980,10 @@ title: Promotion/Relegation Tables
         <li>(2) Pittsburgh Pirates vs (7) New York Mets</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2014 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2014 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -1226,19 +1206,9 @@ title: Promotion/Relegation Tables
         <td>98</td>
         <td>-127</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2014 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2014 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2014 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -1637,10 +1607,10 @@ title: Promotion/Relegation Tables
         <li>(2) Washington Senators vs (7) Kansas City Royals</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2013 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2013 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -1863,19 +1833,9 @@ title: Promotion/Relegation Tables
         <td>111</td>
         <td>-238</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2013 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2013 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2013 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -2274,10 +2234,10 @@ title: Promotion/Relegation Tables
         <li>(2) St. Louis Cardinals vs (7) Cleveland Indians</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2012 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2012 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -2500,19 +2460,9 @@ title: Promotion/Relegation Tables
         <td>107</td>
         <td>-211</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2012 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2012 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2012 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -2911,10 +2861,10 @@ title: Promotion/Relegation Tables
         <li>(2) Cincinnati Reds vs (7) Texas Rangers</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2011 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2011 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -3137,19 +3087,9 @@ title: Promotion/Relegation Tables
         <td>106</td>
         <td>-181</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2011 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2011 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2011 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -3548,10 +3488,10 @@ title: Promotion/Relegation Tables
         <li>(2) New York Yankees vs (7) Tampa Bay Rays</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2010 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2010 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -3743,19 +3683,9 @@ title: Promotion/Relegation Tables
         <td>57</td>
         <td>105</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2010 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2010 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2010 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -4154,10 +4084,10 @@ title: Promotion/Relegation Tables
         <li>(2) Tampa Bay Rays vs (7) Cincinnati Reds</li>
         </ul>
         <br />
-        <table style="font-family: arial; font-size: 8pt;" width="546" border="0" cellspacing="2" cellpadding="2" align="center">
+        <table class="pro-rel-table">
         <tbody>
-        <tr style="background-color: black; color: white; font-weight: bold;">
-        <td colspan="3" align="center">2009 Baseball Standings</td>
+        <tr class="pro-rel-table-header">
+        <td colspan="3" class="has-text-centered">2009 Baseball Standings</td>
         </tr>
         <tr>
         <td valign="top">
@@ -4349,19 +4279,9 @@ title: Promotion/Relegation Tables
         <td>59</td>
         <td>103</td>
         </tr>
-        </tbody>
-        </table>
-        <table style="font-family: arial; font-size: 8pt;" width="182" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <td>*** = 2009 World Series winner</td>
-        </tr>
-        <tr>
-        <td>** = 2009 World Series loser</td>
-        </tr>
-        <tr>
-        <td>* = in 2009 MLB playoffs</td>
-        </tr>
+        <tr><td colspan="5">*** = World Series winner</td></tr>
+        <tr><td colspan="5">** = World Series loser</td></tr>
+        <tr><td colspan="5">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
