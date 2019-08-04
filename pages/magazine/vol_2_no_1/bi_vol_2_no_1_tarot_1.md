@@ -202,7 +202,7 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   <hr />
 
   <p>
-  Kerri McIntire is a Tarot enthusiast who saw a future in working with the past. She and her better half Dave Buckhout run </em>InHeritage<em>, an Internet design company specializing in historical presentations. For more information, visit <a href="http://www.inheritage.org"></em>www.inheritage.org<em></a>.
+    <em>Kerri McIntire is a Tarot enthusiast who saw a future in working with the past. She and her better half Dave Buckhout run <strong>InHeritage</strong>, an Internet design company specializing in historical presentations. For more information, visit <a href="http://www.inheritage.org">www.inheritage.org</a>.</em>
   </p>
 
 </section>
