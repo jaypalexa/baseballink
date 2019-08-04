@@ -13,7 +13,6 @@ title: Average WAR for 2016 Hall of Fame Candidates
 <section class="storycontent">
   <h1>Average WAR for 2016 Hall of Fame Candidates</h1>
   <p><em>December 17, 2015 by TheUmpire</em></p>
-  <br />
   <p><a href="http://www.baseball-reference.com/players/g/griffke02.shtml">Ken Griffey</a> leads the pack of first-year candidates.</p>
   <p><a href="http://www.baseball-reference.com/players/a/ausmubr01.shtml">Brad Ausmus</a> looks to be <a href="lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
   <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
