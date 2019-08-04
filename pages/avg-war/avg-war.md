@@ -35,7 +35,7 @@ title: Average WAR Explained
       <table id="battingMain">
         <tbody>
           <tr>
-            <td class="calcDark">Batting</td>
+            <td class="calcDark is-size-6">Batting</td>
           </tr>
           <tr>
             <td class="calcDark">
@@ -50,7 +50,7 @@ title: Average WAR Explained
                     <td class="calcDark"></td>
                     <td class="calcDark">Career G</td>
                     <td class="calcDark"></td>
-                    <td class="calcDark" class="has-text-weight-bold">avgWAR</td>
+                    <td class="calcDark">avgWAR</td>
                     <td class="calcDark"></td>
                   </tr>
                   <tr>
@@ -62,7 +62,7 @@ title: Average WAR Explained
                     <td class="calcDark"> / (</td>
                     <td class="calcDark"><input type="text" name="battingCareerGValue" /></td>
                     <td class="calcDark"> / 162 ) =</td>
-                    <td class="calcDark" class="has-text-weight-bold has-background-black has-text-warning has-text-centered">
+                    <td class="has-text-weight-extra-bold has-background-black has-text-warning has-text-centered is-size-6">
                       <span id="battingAvgWarValue">0.0</span>
                     </td>
                     <td class="has-text-centered">
@@ -81,14 +81,14 @@ title: Average WAR Explained
         For <a href="http://www.baseball-reference.com/about/pitch_glossary.shtml#162_avg">pitchers</a>, we use:
       </p>
       <pre><strong>avgWAR = (careerWAR / ((pitchingCareerG + pitchingCareerGS) / 68))</strong></pre>
-      <table id="pitchingMain" width="100%" cellspacing="0" cellpadding="3">
+      <table id="pitchingMain" width="100%">
         <tbody>
           <tr>
-            <td class="calcDark" style="font-size: medium; text-align: left;">Pitching</td>
+            <td class="calcDark is-size-6">Pitching</td>
           </tr>
           <tr>
             <td class="calcDark">
-              <table id="pitchingWAR" width="100%" cellspacing="0" cellpadding="2">
+              <table id="pitchingWAR" width="100%">
                 <tbody>
                   <tr>
                     <td class="calcLight">WAR</td>
@@ -103,27 +103,27 @@ title: Average WAR Explained
                     <td class="calcDark"></td>
                     <td class="calcDark">Career GS</td>
                     <td class="calcDark"></td>
-                    <td class="calcDark" style="font-size: medium; padding: 4px;">avgWAR</td>
+                    <td class="calcDark">avgWAR</td>
                     <td class="calcDark"></td>
                     <td class="calcDark"></td>
                   </tr>
                   <tr>
-                    <td class="calcLight"><input type="text" name="pitchingWarValue" size="3" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingWarValue" /></td>
                     <td class="calcLight">+</td>
-                    <td class="calcLight"><input type="text" name="pitchingOWarValue" size="3" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingOWarValue" /></td>
                     <td class="calcLight">+</td>
-                    <td class="calcLight"><input type="text" name="pitchingDWarValue" size="3" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingDWarValue" /></td>
                     <td class="calcLight">=</td>
-                    <td class="calcLight"><input type="text" name="pitchingCareerWarValue" size="3" /></td>
+                    <td class="calcLight"><input type="text" name="pitchingCareerWarValue" /></td>
                     <td class="calcDark"> / ( (</td>
-                    <td class="calcDark"><input type="text" name="pitchingCareerGValue" size="3" /></td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGValue" /></td>
                     <td class="calcDark"> +</td>
-                    <td class="calcDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
+                    <td class="calcDark"><input type="text" name="pitchingCareerGsValue" /></td>
                     <td class="calcDark"> )  /  68 ) =</td>
-                    <td class="calcDark" style="background: black; padding: 4px;"> 
-                      <span id="pitchingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span>
+                    <td class="has-text-weight-extra-bold has-background-black has-text-warning has-text-centered is-size-6"> 
+                      <span id="pitchingAvgWarValue">0.0</span>
                     </td>
-                    <td style="padding-left: 6px;">
+                    <td class="has-text-centered">
                       <input onclick="javascript:calculatePitchingAvgWar();" type="button" value="Calculate" /><br />
                       <input onclick="javascript:clearPitchingAvgWar();" type="button" value="Clear" />
                     </td>
@@ -136,6 +136,7 @@ title: Average WAR Explained
       </table>
     </form>
     <div class="storycontent">
+      <br />
       <p>
         The result is <strong>Average WAR (avgWAR)</strong>&mdash;the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>

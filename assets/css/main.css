@@ -117,6 +117,10 @@ ul {
   margin-left: 6px;
 }
 
+.has-text-weight-extra-bold {
+  font-weight: 900 !important;
+}
+
 .index-main {
   min-height: 100vh;
 }
