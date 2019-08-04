@@ -20,7 +20,7 @@ title: Vol. 2, No. 2 - September 2001 - Letter From The Publisher
   </p>
 
   <p>
-    I don't have the expertise or the inclination to pursue the marketing/sales portion...simply, it is just not my gig.  I would be more than happy to consider partnering with someone who has the passion for baseball and the magazine and is willing to take on this "hobby" with me.  A large part of the problem is that I have no money to offer a marketing/sales person...that is why that person is going to have to get involved "for love of the game" at this po
+    I don't have the expertise or the inclination to pursue the marketing/sales portion...simply, it is just not my gig.  I would be more than happy to consider partnering with someone who has the passion for baseball and the magazine and is willing to take on this "hobby" with me.  A large part of the problem is that I have no money to offer a marketing/sales person...that is why that person is going to have to get involved "for love of the game" at this point.
   </p>
 
   <p>
