@@ -65,7 +65,7 @@ title: Promotion/Relegation Tables
           <td colspan="3" class="has-text-centered">2017 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
           <table class="pro-rel-table-standings">
           <tbody>
           <tr class="pro-rel-table-standings-header">
@@ -111,7 +111,7 @@ title: Promotion/Relegation Tables
           </tbody>
           </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
           <table class="pro-rel-table-standings">
           <tbody>
           <tr class="pro-rel-table-standings-header">
@@ -153,7 +153,7 @@ title: Promotion/Relegation Tables
           </tbody>
           </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
           <table class="pro-rel-table-standings">
           <tbody>
           <tr class="pro-rel-table-standings-header">
@@ -212,7 +212,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2016 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -258,7 +258,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -300,7 +300,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -359,7 +359,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2015 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -585,7 +585,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -777,7 +777,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -986,7 +986,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2014 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -1212,7 +1212,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -1404,7 +1404,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -1613,7 +1613,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2013 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -1839,7 +1839,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -2031,7 +2031,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -2240,7 +2240,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2012 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -2466,7 +2466,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -2658,7 +2658,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -2867,7 +2867,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2011 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -3093,7 +3093,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -3285,7 +3285,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -3494,7 +3494,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2010 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -3689,7 +3689,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -3881,7 +3881,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -4090,7 +4090,7 @@ title: Promotion/Relegation Tables
         <td colspan="3" class="has-text-centered">2009 Baseball Standings</td>
         </tr>
         <tr>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -4285,7 +4285,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
@@ -4477,7 +4477,7 @@ title: Promotion/Relegation Tables
         </tbody>
         </table>
         </td>
-        <td valign="top">
+        <td class="vertical-align-top">
         <table class="pro-rel-table-standings">
         <tbody>
         <tr class="pro-rel-table-standings-header">
