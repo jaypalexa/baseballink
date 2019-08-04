@@ -28,6 +28,7 @@ title: Average WAR Explained
       </ul>
     </div>
     <form name="calculator">
+      <br />
       <p>
         For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
       </p>
@@ -77,6 +78,7 @@ title: Average WAR Explained
           </tr>
         </tbody>
       </table>
+      <br />
       <p>
         For <a href="http://www.baseball-reference.com/about/pitch_glossary.shtml#162_avg">pitchers</a>, we use:
       </p>
@@ -104,7 +106,6 @@ title: Average WAR Explained
                     <td class="calcDark">Career GS</td>
                     <td class="calcDark"></td>
                     <td class="calcDark">avgWAR</td>
-                    <td class="calcDark"></td>
                     <td class="calcDark"></td>
                   </tr>
                   <tr>
