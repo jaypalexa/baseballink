@@ -36,31 +36,31 @@ title: Average WAR for 2013 Hall of Fame Candidates
   <td><a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td>
   <td>8.58</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td>
   <td>6.43</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a></td>
   <td>5.78</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/w/walkela01.shtml">Larry Walker</a></td>
   <td>5.68</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td>
   <td>5.15</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/martied01.shtml">Edgar Martinez</a></td>
   <td>5.07</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/m/mcgwima01.shtml">Mark McGwire</a></td>
   <td>5.07</td>
   </tr>
-  <tr style="avg-war-hof">
+  <tr class="avg-war-hof">
   <td><a href="http://www.baseball-reference.com/players/l/loftoke01.shtml">Kenny Lofton</a></td>
   <td>5.00</td>
   </tr>
