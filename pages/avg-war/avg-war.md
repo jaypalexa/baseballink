@@ -32,14 +32,14 @@ title: Average WAR Explained
         For <a href="http://www.baseball-reference.com/about/bat_glossary.shtml#162_avg">position players</a> (batters), we use:
       </p>
       <pre><strong>avgWAR = (careerWAR / (battingCareerG / 162))</strong></pre>
-      <table id="battingMain" width="100%" cellspacing="0" cellpadding="3">
+      <table id="battingMain">
         <tbody>
           <tr>
-            <td class="battingDark" style="font-size: medium; text-align: left;">Batting</td>
+            <td class="battingDark" class="has-text-weight-bold">Batting</td>
           </tr>
           <tr>
             <td class="battingDark">
-              <table id="battingWAR" width="100%" cellspacing="0" cellpadding="2">
+              <table id="battingWAR" width="100%">
                 <tbody>
                   <tr>
                     <td class="battingLight">oWAR</td>
@@ -50,8 +50,7 @@ title: Average WAR Explained
                     <td class="battingDark"></td>
                     <td class="battingDark">Career G</td>
                     <td class="battingDark"></td>
-                    <td class="battingDark" style="font-size: medium; padding: 4px;">avgWAR</td>
-                    <td class="battingDark"></td>
+                    <td class="battingDark" class="has-text-weight-bold">avgWAR</td>
                     <td class="battingDark"></td>
                   </tr>
                   <tr>
@@ -63,12 +62,14 @@ title: Average WAR Explained
                     <td class="battingDark"> / (</td>
                     <td class="battingDark"><input type="text" name="battingCareerGValue" size="3" /></td>
                     <td class="battingDark"> / 162 ) =</td>
-                    <td class="battingDark" style="background: black; padding: 4px;"> <span id="battingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span></td>
-                    <td style="padding-left: 6px;">
-            <input onclick="javascript:calculateBattingAvgWar();" type="button" value="Calculate" />
-            <br />
-            <input onclick="javascript:clearBattingAvgWar();" type="button" value="Clear" />
-            </td>
+                    <td class="battingDark" class="has-text-weight-bold has-background-black has-text-yellow">
+                      <span id="battingAvgWarValue">0.0</span>
+                    </td>
+                    <td class="has-text-centered">
+                      <input onclick="javascript:calculateBattingAvgWar();" type="button" value="Calculate" />
+                      <br />
+                      <input onclick="javascript:clearBattingAvgWar();" type="button" value="Clear" />
+                    </td>
                   </tr>
                 </tbody>
               </table>
@@ -119,7 +120,9 @@ title: Average WAR Explained
                     <td class="pitchingDark"> +</td>
                     <td class="pitchingDark"><input type="text" name="pitchingCareerGsValue" size="3" /></td>
                     <td class="pitchingDark"> )  /  68 ) =</td>
-                    <td class="pitchingDark" style="background: black; padding: 4px;"> <span id="pitchingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span></td>
+                    <td class="pitchingDark" style="background: black; padding: 4px;"> 
+                      <span id="pitchingAvgWarValue" style="background: black; color: yellow; font-size: large; padding: 4px;">0.0</span>
+                    </td>
                     <td style="padding-left: 6px;">
                       <input onclick="javascript:calculatePitchingAvgWar();" type="button" value="Calculate" /><br />
                       <input onclick="javascript:clearPitchingAvgWar();" type="button" value="Clear" />
@@ -136,7 +139,7 @@ title: Average WAR Explained
       <p>
         The result is <strong>Average WAR (avgWAR)</strong>&mdash;the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>
-      <div style="margin-left: 12px;">
+      <ul>
         <li><a href="average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2016-hall-of-fame-candidates.html">AvgWAR for 2016 Hall of Fame Candidates</a></li>
@@ -145,17 +148,17 @@ title: Average WAR Explained
         <li><a href="average-war-for-2013-hall-of-fame-candidates.html">AvgWAR for 2013 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2012-hall-of-fame-candidates.html">AvgWAR for 2012 Hall of Fame Candidates</a></li>
         <li><a href="lenny-harris-for-hall-of-fame-huh.html">Lenny Harris for Hall of Fame...huh?</a></li>
-      </div>
+      </ul>
       <br />
-    <table class="avg-war-players" width="550px" cellspacing="1" cellpadding="2">
+    <table class="avg-war-players">
       <tbody>
-        <tr style="background-color: #000000; color: #ffffff; font-weight: bold;">
+        <tr class="avg-war-players-header">
           <td colspan="4">Players with 8+ seasons</td>
           <td colspan="2">Career Batting</td>
           <td colspan="3">Career Pitching</td>
           <td></td>
         </tr>
-        <tr style="background-color: #000000; color: #ffffff; font-weight: bold;">
+        <tr class="avg-war-players-header">
           <td>Rank</td>
           <td>Player</td>
           <td>avgWAR</td>
@@ -20821,6 +20824,7 @@ title: Average WAR Explained
         </tr>
       </tbody>
     </table>
+    <br />
     <p>Stats from <a href="http://seanlahman.com/baseball-archive/statistics/">Lahman’s Baseball Database</a> and <a href="http://www.baseball-reference.com/about/war_explained.shtml">Baseball-Reference.com</a>.</p>
   </div>
 </section>

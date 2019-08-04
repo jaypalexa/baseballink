@@ -88,8 +88,16 @@ ul {
 .avg-war-players table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  border-spacing: 1px;
   font-family: Arial;
   font-size: 8pt;
+  padding: 2px;
+}
+
+.avg-war-players-header {
+  background-color: black;
+  color: white; 
+  font-weight: bold;
 }
 
 .basic-table th, td {
