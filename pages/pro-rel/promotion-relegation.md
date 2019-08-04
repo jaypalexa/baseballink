@@ -3683,9 +3683,9 @@ title: Promotion/Relegation Tables
         <td>57</td>
         <td>105</td>
         </tr>
-        <tr><td colspan="5">*** = World Series winner</td></tr>
-        <tr><td colspan="5">** = World Series loser</td></tr>
-        <tr><td colspan="5">* = in MLB playoffs</td></tr>
+        <tr><td colspan="4">*** = World Series winner</td></tr>
+        <tr><td colspan="4">** = World Series loser</td></tr>
+        <tr><td colspan="4">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>
@@ -4279,9 +4279,9 @@ title: Promotion/Relegation Tables
         <td>59</td>
         <td>103</td>
         </tr>
-        <tr><td colspan="5">*** = World Series winner</td></tr>
-        <tr><td colspan="5">** = World Series loser</td></tr>
-        <tr><td colspan="5">* = in MLB playoffs</td></tr>
+        <tr><td colspan="4">*** = World Series winner</td></tr>
+        <tr><td colspan="4">** = World Series loser</td></tr>
+        <tr><td colspan="4">* = in MLB playoffs</td></tr>
         </tbody>
         </table>
         </td>

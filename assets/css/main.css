@@ -190,3 +190,7 @@ ul {
 .storycontent p {
   margin-bottom: 1rem;
 }
+
+.vertical-align-top {
+  vertical-align: top;
+}
