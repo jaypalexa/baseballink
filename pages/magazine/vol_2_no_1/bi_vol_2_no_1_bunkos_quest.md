@@ -12,6 +12,7 @@ title: Vol. 2, No. 1 - June 2001 - Bunko's Quest
 </nav>
 
 <section class="storycontent">
+  <h1>Bunko's Quest</h1>
   <p><em>by Mike McCann</em></p>
 
   <p>
