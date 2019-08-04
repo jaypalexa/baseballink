@@ -71,14 +71,12 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
     Like the umpire said, the Kitty League was definitely a character.
   </p>
 
-  <p>
-    <figure class="center-element">
-      <img src="images/kitty_league_1936_all_star_team.jpg" alt="1936 Kitty League All-Star Team">
-      <figcaption class="has-text-centered">
-        1936 Kitty League All-Star Team
-      </figcaption>
-    </figure>
-  </p>
+  <figure class="center-element">
+    <img src="images/kitty_league_1936_all_star_team.jpg" alt="1936 Kitty League All-Star Team">
+    <figcaption class="has-text-centered">
+      1936 Kitty League All-Star Team
+    </figcaption>
+  </figure>
 
   <hr />
 
