@@ -74,7 +74,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   <p>
     <figure class="center-element">
       <img src="images/kitty_league_1936_all_star_team.jpg" alt="1936 Kitty League All-Star Team">
-      <figcaption>
+      <figcaption class="has-text-centered">
         1936 Kitty League All-Star Team
       </figcaption>
     </figure>

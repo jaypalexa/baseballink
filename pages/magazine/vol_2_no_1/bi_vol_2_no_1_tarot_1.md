@@ -17,6 +17,12 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   <p><em>by Kerri S. McIntire</em></p>
 
   <p>
+    <figure class="float-left">
+      <img src="images/seven_of_caps.jpg" alt="Seven of Caps">
+      <figcaption class="has-text-centered">
+        Seven of Caps
+      </figcaption>
+    </figure>
     Using the Internet as my research tool, I discovered no less than three Tarot card decks inspired by the Great American Pastime. These are the <strong>Tarot of Baseball </strong>(U. S. Games Inc.) by Beverly Ransom and Robert Kasher, the <strong>Baseball Tarot</strong> (Workman Publishing) by Laura Philips and Mark Lerner, and the <strong>Tarot de Cooperstown</strong> by Jim Markowich and Paul Kuhrman.
   </p>
 
