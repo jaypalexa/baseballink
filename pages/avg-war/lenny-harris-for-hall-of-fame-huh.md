@@ -14,8 +14,7 @@ title: Lenny Harris for Hall of Fame...huh?
   <h1>Lenny Harris for Hall of Fame...huh?</h1>
   <p><em>December 27, 2010 by TheUmpire</em></p>
   <p>
-    If you suffer from credibility issues, what do you do about it? 
-    <a href="http://bbwaa.com/2010/11/2011-hof-ballot/">Nominate Lenny Harris for the Hall of Fame</a>, of course.
+    If you suffer from credibility issues, what do you do about it?  Nominate Lenny Harris for the Hall of Fame, of course.
   </p>
   <p>
     The <a href="http://bbwaa.com/">Baseball Writers' Association of America</a> (BBWAA) is responsible for electing inductees to the National Baseball Hall of Fame in Cooperstown, NY.  With some Steroid Era players now up for consideration, the BBWAA finds itself in the midst of one of baseball's most contentious debates.  One overly-dramatic and illogical writer even suggests that voting for a PED user is analogous to <a href="http://www.pressdemocrat.com/article/20101220/NEWS/101229944?p=all&amp;tc=pgall&amp;tc=ar">releasing a convicted murderer</a>.
@@ -27,7 +26,7 @@ title: Lenny Harris for Hall of Fame...huh?
     <p>"Voting shall be based upon the player's record, playing ability, integrity, sportsmanship, character, and contributions to the team(s) on which the player played"</p>
   </blockquote>
   <p>
-    ...but when you also have writers <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100105&content_id=7878286&vkey=news_mlb&fext=.jsp&c_id=mlb">deliberately excluding first-ballot-worthy players</a>&mdash;or <a href="http://espnradio.espn.go.com/espnradio/podcast/index">not voting at all</a>&mdash;then your organization has a problem.</p>
+    ...but when you also have writers deliberately excluding first-ballot-worthy players&mdash;or not voting at all&mdash;then your organization has a problem.</p>
   <p>
     Which brings us to <a href="http://www.baseball-reference.com/players/h/harrile01.shtml">Lenny Harris</a>.
   </p>
@@ -41,7 +40,7 @@ title: Lenny Harris for Hall of Fame...huh?
     It might be too late to restore prestige to the <a href="http://baseballhall.org/">National Baseball Hall of Fame</a>.  Maybe it never had any.  But allowing the BBWAA to continue to impose so much arbitrary influence with so little accountability is clearly not the answer.
   </p>
   <p>
-    Perhaps implementing <a href="http://www.profootballhof.com/hof/SelectionProcessFAQ.aspx">a process similar to the NFL and the Pro Football Hall of Fame</a> is a step in the right direction?</p>
+    Perhaps implementing <a href="https://www.profootballhof.com/heroes-of-the-game/selection-process-faq/">a process similar to the NFL and the Pro Football Hall of Fame</a> is a step in the right direction?</p>
   <p>
     <strong>Follow-up:</strong> For the <a href="http://www.baseball-reference.com/awards/hof_2011.shtml">2011 Hall of Fame candidates</a>, six players received zero votes and two players received one vote.  Which two guys nominated eight players yet did not vote for them?
   </p>
