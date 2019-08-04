@@ -22,7 +22,7 @@ title: Vol. 1, No. 4 - March 2001 - Table of Contents
     <li><a href="bi_vol_1_no_4_ryans_corner.html"><strong>Ryan's Corner</strong></a>, by Ryan</li>
     <li><a href="bi_vol_1_no_4_diamond_madness.html"><strong>Diamond Madness #3</strong></a> - a baseball crossword puzzle</li>
     <li><a href="bi_vol_1_no_4_little_sluggers.html"><strong>Little Sluggers</strong></a>, by PFC Damian J. McGee</li>
-    <li><a href="bi_vol_1_no_4_field_of_dreams.html"><strong>Tommy T's Baseball Flix Pix - Field of Dreams</strong></a>, by Tom Tilert</li>
+    <li><a href="bi_vol_1_no_4_tommy_t.html"><strong>Tommy T's Baseball Flix Pix - Field of Dreams</strong></a>, by Tom Tilert</li>
     <li><a href="bi_vol_1_no_4_ive_done_what_i_can.html"><strong>I've Done What I Can</strong></a>, by Rick Lopez</li>
     <li><a href="bi_vol_1_no_4_shaking_hands.html"><strong>Shaking Hands With The Babe</strong></a>, by Steve A. Maze</li>
     <li><a href="bi_vol_1_no_4_how_to_become.html"><strong>How To Become A Baseball CEO</strong></a>, by Tim Darnell</li>

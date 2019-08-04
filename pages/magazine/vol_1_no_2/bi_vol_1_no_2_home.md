@@ -19,7 +19,7 @@ title: Vol. 1, No. 2 - September 2000 - Table of Contents
     <li><a href="bi_vol_1_no_2_where_were_you.html"><strong>Where Were You When McGwire Hit 62?</strong></a>, lyrics by Allen Levi</li>
     <li><a href="bi_vol_1_no_2_king_of_the_sweeps.html"><strong>King of the Sweeps</strong></a>, by Steve Lombardi</li>
     <li><a href="bi_vol_1_no_2_our_trip_to_cuba.html"><strong>Our Trip to Cuba</strong></a>, by Dick Fitzgerald</li>
-    <li><a href="bi_vol_1_no_2_the_natural.html"><strong>Tommy T's Baseball Flix Pix - The Natural</strong></a>, by Tom Tilert</li>
+    <li><a href="bi_vol_1_no_2_tommy_t.html"><strong>Tommy T's Baseball Flix Pix - The Natural</strong></a>, by Tom Tilert</li>
     <li><a href="bi_vol_1_no_2_decline_of_the_minors.html"><strong>Decline of the Minor Leagues</strong></a>, by Gareth J. Von Kallenbach and Paul Zevgolis</li>
     <li><a href="bi_vol_1_no_2_5th_dimensional.html"><strong>5th Dimensional Baseball</strong></a>, by T. C. Moore</li>
     <li><a href="bi_vol_1_no_2_all_georgia_team.html"><strong>All-Star State Teams:  Georgia</strong></a>, by J. P. Alexander</li>

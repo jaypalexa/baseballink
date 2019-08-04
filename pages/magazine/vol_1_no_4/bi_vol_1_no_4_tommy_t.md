@@ -12,7 +12,7 @@ title: Vol. 1, No. 4 - March 2001 - Tommy T's Baseball Flix Pix - Field of Dream
 </nav>
 
 <section class="storycontent">
-  <h1>Tommy T's Baseball Flix Pix - Field of Dreams</h1>
+  <h1>Tommy T's Baseball Flix Pix</h1>
   <h2>Field of Dreams (1989)</h2>
 
   <p>
