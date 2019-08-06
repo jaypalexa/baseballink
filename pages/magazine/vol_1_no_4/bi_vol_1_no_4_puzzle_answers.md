@@ -14,8 +14,8 @@ title: Vol. 1, No. 4 - March 2001 - Puzzle Answers
 <section class="storycontent">
   <h1>Puzzle Answers</h1>
   <h2>Diamond Madness #3</h2>
-  <img src="images/bi_vol_1_no_4_puzzle_answers.gif" alt="Puzzle Answers - Diamond Madness">
+  <img src="images/bi_vol_1_no_4_puzzle_answers.gif" alt="Puzzle Answers - Diamond Madness" title="Puzzle Answers - Diamond Madness" >
   <hr />
   <h2>Carta's Crypto</h2>
-  <img src="images/bi_vol_1_no_4_puzzle_answers2.gif" alt="Puzzle Answers - Carta's Crypto">
+  <img src="images/bi_vol_1_no_4_puzzle_answers2.gif" alt="Puzzle Answers - Carta's Crypto" title="Puzzle Answers - Carta's Crypto" />
 </section>

@@ -13,5 +13,5 @@ title: Vol. 2, No. 2 - September 2001 - Cover
 
 <section class="storycontent">
   <h1>Cover</h1>
-  <img src="images/bi_vol_2_no_2_cover.jpg" alt="Vol 2., No. 2 - Cover">
+  <img src="images/bi_vol_2_no_2_cover.jpg" alt="Vol 2., No. 2 - Cover" title="Vol 2., No. 2 - Cover" />
 </section>

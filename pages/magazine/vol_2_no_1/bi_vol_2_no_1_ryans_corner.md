@@ -12,7 +12,7 @@ title: Vol. 2, No. 1 - June 2001 - Ryan's Corner
 </nav>
 
 <section class="storycontent">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ryanlogo_xsm.gif" alt="Ryan's Corner" title="Ryan's Corner"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ryanlogo_xsm.gif" alt="Ryan's Corner" title="Ryan's Corner" />
 
   <h1>Ryan's Corner</h1>
   <p><em>by Ryan, age 11</em></p>

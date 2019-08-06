@@ -13,5 +13,5 @@ title: Vol. 2, No. 1 - June 2001 - Puzzle Answers
 
 <section class="storycontent">
   <h1>Puzzle Answers</h1>
-  <img src="images/bi_vol_2_no_1_puzzle_answers.gif" alt="Puzzle Answers">
+  <img src="images/bi_vol_2_no_1_puzzle_answers.gif" alt="Puzzle Answers" title="Puzzle Answers" />
 </section>

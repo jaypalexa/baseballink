@@ -77,7 +77,7 @@ title: Vol. 1, No. 4 - March 2001 - I've Done What I Can
 
   <div class="level">
     <div class="level-item has-text-centered">
-      <img src="images/bi_vol_1_no_4_free_shoeless_joe.gif" alt="Free Shoeless Joe">
+      <img src="images/bi_vol_1_no_4_free_shoeless_joe.gif" alt="Free Shoeless Joe" title="Free Shoeless Joe" />
     </div>
   </div>
 

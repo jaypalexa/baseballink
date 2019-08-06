@@ -13,5 +13,5 @@ title: Vol. 1, No. 4 - March 2001 - Carta's Crypto
 
 <section class="storycontent">
   <h1>Carta's Crypto</h1>
-  <img src="images/bi_vol_1_no_4_cartas_crypto.gif" alt="Carta's Crypto">
+  <img src="images/bi_vol_1_no_4_cartas_crypto.gif" alt="Carta's Crypto" title="Carta's Crypto" />
 </section>

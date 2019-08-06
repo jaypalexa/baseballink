@@ -13,5 +13,5 @@ title: Vol. 2, No. 1 - June 2001 - Diamond Madness No. 4
 
 <section class="storycontent">
   <h1>Diamond Madness #4</h1>
-  <img src="images/bi_vol_2_no_1_diamond_madness.gif" alt="Diamond Madness #4">
+  <img src="images/bi_vol_2_no_1_diamond_madness.gif" alt="Diamond Madness #4" title="Diamond Madness #4" />
 </section>

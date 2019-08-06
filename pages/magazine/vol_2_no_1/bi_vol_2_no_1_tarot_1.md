@@ -78,7 +78,7 @@ title: Vol. 2, No. 1 - June 2001 - Tarot and Baseball, Part 1
   </p>
 
   <figure class="float-right">
-    <img src="images/seven_of_caps.jpg" alt="Seven of Caps">
+    <img src="images/seven_of_caps.jpg" alt="Seven of Caps" title="Seven of Caps" />
     <figcaption class="has-text-centered">
       Seven of Caps
     </figcaption>

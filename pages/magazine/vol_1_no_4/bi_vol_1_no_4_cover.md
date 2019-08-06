@@ -13,5 +13,5 @@ title: Vol. 1, No. 4 - March 2001 - Cover
 
 <section class="storycontent">
   <h1>Cover</h1>
-  <img src="images/bi_vol_1_no_4_cover.jpg" alt="Vol. 1, No. 4 - Cover">
+  <img src="images/bi_vol_1_no_4_cover.jpg" alt="Vol. 1, No. 4 - Cover" title="Vol. 1, No. 4 - Cover" />
 </section>

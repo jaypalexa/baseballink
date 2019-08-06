@@ -33,12 +33,12 @@ title: Vol. 2, No. 2 - September 2001 - Emphasizing Division Records
 
   <h2>Table 1: Seasons 1995-2000</h2>
   <p>
-    <img src="images/table1.gif" width="503" height="308" alt="Table 1: Seasons 1995-2000" />
+    <img src="images/table1.gif" width="503" height="308" alt="Table 1: Seasons 1995-2000" title="Table 1: Seasons 1995-2000" />
   </p>
 
   <h2>Table 2: 1990-1993</h2>
   <p>
-    <img src="images/table2.gif" width="388" height="172" alt="Table 2: 1990-1993" />
+    <img src="images/table2.gif" width="388" height="172" alt="Table 2: 1990-1993" title="Table 2: 1990-1993" />
   </p>
 
   <p>

@@ -20,7 +20,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <p>
-    <img src="images/kitty_league_baseball.jpg" class="float-left" alt="Kitty League Baseball">Despite the quip of vaudeville comedians to the contrary, it seemed like the players, managers, and even the fans of the Kitty League could indeed get away with practically anything. 
+    <img src="images/kitty_league_baseball.jpg" class="float-left" alt="Kitty League Baseball" title="Kitty League Baseball" />Despite the quip of vaudeville comedians to the contrary, it seemed like the players, managers, and even the fans of the Kitty League could indeed get away with practically anything. 
   </p>
 
   <p>
@@ -72,7 +72,7 @@ title: Vol. 1, No. 2 - September 2000 - Kitty League Baseball
   </p>
 
   <figure class="center-element">
-    <img src="images/kitty_league_1936_all_star_team.jpg" alt="1936 Kitty League All-Star Team">
+    <img src="images/kitty_league_1936_all_star_team.jpg" alt="1936 Kitty League All-Star Team" title="1936 Kitty League All-Star Team" />
     <figcaption class="has-text-centered">
       1936 Kitty League All-Star Team
     </figcaption>

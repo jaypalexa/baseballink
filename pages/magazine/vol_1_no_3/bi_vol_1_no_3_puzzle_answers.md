@@ -14,8 +14,8 @@ title: Vol. 1, No. 3 - December 2000 - Puzzle Answers
 <section class="storycontent">
   <h1>Puzzle Answers</h1>
   <h2>Diamond Madness #2</h2>
-  <img src="images/bi_vol_1_no_3_puzzle_answers.gif" alt="Puzzle Answers - Diamond Madness">
+  <img src="images/bi_vol_1_no_3_puzzle_answers.gif" alt="Puzzle Answers - Diamond Madness" title="Puzzle Answers - Diamond Madness" />
   <hr />
   <h2>Carta's Crypto</h2>
-  <img src="images/bi_vol_1_no_3_puzzle_answers2.gif" alt="Puzzle Answers - Carta's Crypto">
+  <img src="images/bi_vol_1_no_3_puzzle_answers2.gif" alt="Puzzle Answers - Carta's Crypto" title="Puzzle Answers - Carta's Crypto" />
 </section>

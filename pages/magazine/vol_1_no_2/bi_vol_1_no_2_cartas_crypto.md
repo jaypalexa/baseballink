@@ -13,5 +13,5 @@ title: Vol. 1, No. 2 - September 2000 - Carta's Crypto
 
 <section class="storycontent">
   <h1>Carta's Crypto</h1>
-  <img src="images/bi_vol_1_no_2_cartas_crypto.gif" alt="Carta's Crypto">
+  <img src="images/bi_vol_1_no_2_cartas_crypto.gif" alt="Carta's Crypto" title="Carta's Crypto" />
 </section>
