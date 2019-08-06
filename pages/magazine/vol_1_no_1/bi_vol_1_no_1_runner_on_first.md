@@ -14,7 +14,7 @@ title: Vol. 1, No. 1 - June 2000 - Runner On First
 <section class="storycontent">
   <h1>Runner On First</h1>
   
-  <pre style="font-family: Courier; width: 570px;">
+  <pre class="runner-on-first">
                       <strong>runner on first</strong>
 
 

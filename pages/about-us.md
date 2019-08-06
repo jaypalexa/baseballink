@@ -39,16 +39,16 @@ title: About Baseball Ink
   <p>We are not responsible for anything, explicit or implied. All rights reserved. Please contact us before using or quoting any materials herein. Mumbo. Jumbo.</p>
 
   <h3>Terms and Conditions</h3>
-  <ul>
-    <li>1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
-    <li>2. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</li>
-    <li>3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;</li>
-    <li>4. Information reasonably sufficient to permit us to contact the complaining party;</li>
-    <li>5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</li>
-    <li>6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
-  </ul>
+  <ol>
+    <li>A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
+    <li>Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</li>
+    <li>Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;</li>
+    <li>Information reasonably sufficient to permit us to contact the complaining party;</li>
+    <li>A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</li>
+    <li>A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+  </ol>
   <h4>1. Definitions.</h4>
-  <p>"BaseballInk.com<sup><span style="font-size: 7pt;">SM</span></sup>" is an on-line service ("BASEBALL INK") on the World Wide Web of the Internet, consisting of information services and content provided by BASEBALL INK, affiliates of BASEBALL INK and other third parties. "Subscriber" means each person who establishes or accesses a connection ("Account") for access to and use of BASEBALL INK, or each person who views a page on the website, or each person who leaves a comment on the website.</p>
+  <p>"BaseballInk.com<sup>SM</sup>" is an on-line service ("BASEBALL INK") on the World Wide Web of the Internet, consisting of information services and content provided by BASEBALL INK, affiliates of BASEBALL INK and other third parties. "Subscriber" means each person who establishes or accesses a connection ("Account") for access to and use of BASEBALL INK, or each person who views a page on the website, or each person who leaves a comment on the website.</p>
   <h4>2. General.</h4>
   <p>(A) This Agreement, which incorporates by reference other provisions applicable to use of BASEBALL INK, including, but not limited to, supplemental terms and conditions set forth in paragraph 14 hereof ("Supplemental Terms") governing the use of certain specific material contained in BASEBALL INK, sets forth the terms and conditions that apply to use of BASEBALL INK by Subscriber. By using BASEBALL INK (other than to read this Agreement for the first time), Subscriber agrees to comply with all of the terms and conditions hereof.</p>
   <p>The right to use BASEBALL INK is personal to Subscriber and is not transferable to any other person or entity. Subscriber is responsible for all use of Subscriber's Account (under any screen name or password) and for ensuring that all use of Subscriber's Account complies fully with the provisions of this Agreement. Subscriber shall be responsible for protecting the confidentiality of Subscriber's password(s), if any.</p>
