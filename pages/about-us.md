@@ -35,7 +35,7 @@ title: About Baseball Ink
 
   <h3>Disclaimers and All That</h3>
   <p>Not all the pictures and quoted content are ours. In such cases, the original source is noted, usually via a hyperlink.</p>
-  <p>All original content within is copyrighted to the author of each item unless otherwise indicated. Presentation of content is copyrighted &copy; 2000-2019 by Baseball Ink. Articles may be edited for clarity, content, and/or space. Offending, irrelevant, or idiotic comments may be deleted.</p>
+  <p>All original content within is copyrighted to the author of each item unless otherwise indicated. Presentation of content is copyrighted &copy; 2000-2020 by Baseball Ink. Articles may be edited for clarity, content, and/or space. Offending, irrelevant, or idiotic comments may be deleted.</p>
   <p>We are not responsible for anything, explicit or implied. All rights reserved. Please contact us before using or quoting any materials herein. Mumbo. Jumbo.</p>
 
   <h3>Terms and Conditions</h3>
