@@ -91,5 +91,5 @@ title: About Baseball Ink
   <p>BASEBALL INK does not collect any or personal information.</p>
 </div>
 <div class="content has-text-centered">
-  <p class="is-size-7">Copyright &copy; 2000-2019 Baseball Ink</p>
+  <p class="is-size-7">Copyright &copy; 2000-2020 Baseball Ink</p>
 </div>
