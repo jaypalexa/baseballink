@@ -75,18 +75,18 @@ title: Promotion/Relegation Tables
             <td>L</td>
             <td>RD</td>
           </tr>
-			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>San Francisco *</td><td>107</td><td>55</td><td>210</td></tr>
-			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>LA Dodgers *</td><td>106</td><td>56</td><td>269</td></tr>
-			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>Tampa Bay *</td><td>100</td><td>62</td><td>206</td></tr>
-			<tr class="pro-rel-status-promoted"><td>AL-W</td><td>Houston **</td><td>95</td><td>67</td><td>205</td></tr>
-			<tr class="pro-rel-status-promoted"><td>NL-C</td><td>Milwaukee *</td><td>95</td><td>67</td><td>115</td></tr>
-			<tr class="pro-rel-status-promoted"><td>AL-C</td><td>Chi White Sox *</td><td>93</td><td>69</td><td>160</td></tr>
-			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>Boston *</td><td>92</td><td>70</td><td>80</td></tr>
-			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>NY Yankees *</td><td>92</td><td>70</td><td>42</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>*San Francisco</td><td>107</td><td>55</td><td>210</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>*LA Dodgers</td><td>106</td><td>56</td><td>269</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Tampa Bay</td><td>100</td><td>62</td><td>206</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-W</td><td>**Houston</td><td>95</td><td>67</td><td>205</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-C</td><td>*Milwaukee</td><td>95</td><td>67</td><td>115</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-C</td><td>*Chi White Sox</td><td>93</td><td>69</td><td>160</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Boston</td><td>92</td><td>70</td><td>80</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>NY Yankees</td><td>92</td><td>70</td><td>42</td></tr>
 			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>Toronto</td><td>91</td><td>71</td><td>183</td></tr>
-			<tr><td>NL-C</td><td>St. Louis *</td><td>90</td><td>72</td><td>34</td></tr>
+			<tr><td>NL-C</td><td>*St. Louis</td><td>90</td><td>72</td><td>34</td></tr>
 			<tr><td>AL-W</td><td>Seattle</td><td>90</td><td>72</td><td>-51</td></tr>
-			<tr><td>NL-E</td><td>Atlanta ***</td><td>88</td><td>73</td><td>134</td></tr>
+			<tr><td>NL-E</td><td>***Atlanta</td><td>88</td><td>73</td><td>134</td></tr>
 			<tr><td>AL-W</td><td>Oakland</td><td>86</td><td>76</td><td>56</td></tr>
 			<tr><td>NL-C</td><td>Cincinnati</td><td>83</td><td>79</td><td>26</td></tr>
 			<tr><td>NL-E</td><td>Philadelphia</td><td>82</td><td>80</td><td>-11</td></tr>
