@@ -29,36 +29,36 @@ title: Average WAR for 2022 Hall of Fame Candidates
   <td>Player</td>
   <td>avgWAR</td>
   </tr>
-	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td><td>8.82699263228399</td></tr>
-	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/r/rodrial01.shtml">Alex Rodriguez</a></td><td>6.83728448275862</td></tr>
-	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td><td>6.68474576271186</td></tr>
-	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/r/rolensc01.shtml">Scott Rolen</a></td><td>5.57222767419038</td></tr>
-	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td><td>5.37910447761194</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/r/ramirma02.shtml">Manny Ramirez</a></td><td>4.8768896611642</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/j/jonesan01.shtml">Andruw Jones</a></td><td>4.62540983606557</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/h/heltoto01.shtml">Todd Helton</a></td><td>4.45554072096128</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/t/teixema01.shtml">Mark Teixeira</a></td><td>4.40236305048335</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/h/hudsoti01.shtml">Tim Hudson</a></td><td>4.09698231009365</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a></td><td>4.03279524214104</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/a/abreubo01.shtml">Bobby Abreu</a></td><td>4.02160824742268</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/b/buehrma01.shtml">Mark Buehrle</a></td><td>3.97507418397626</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/k/kentje01.shtml">Jeff Kent</a></td><td>3.91253263707572</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/p/pettian01.shtml">Andy Pettitte</a></td><td>3.89125475285171</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/s/sheffga01.shtml">Gary Sheffield</a></td><td>3.80473602484472</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/o/ortizda01.shtml">David Ortiz</a></td><td>3.7203488372093</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/c/crawfca02.shtml">Carl Crawford</a></td><td>3.69125874125874</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/p/peavyja01.shtml">Jake Peavy</a></td><td>3.48444444444444</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/h/hunteto01.shtml">Torii Hunter</a></td><td>3.46264755480607</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/r/rolliji01.shtml">Jimmy Rollins</a></td><td>3.38953846153846</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/m/morneju01.shtml">Justin Morneau</a></td><td>2.83106796116505</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/v/vizquom01.shtml">Omar Vizquel</a></td><td>2.48894878706199</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/l/linceti01.shtml">Tim Lincecum</a></td><td>2.41970802919708</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/f/fieldpr01.shtml">Prince Fielder</a></td><td>2.39329608938547</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/p/papeljo01.shtml">Jonathan Papelbon</a></td><td>2.28959537572254</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/n/nathajo01.shtml">Joe Nathan</a></td><td>2.225</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/w/wagnebi02.shtml">Billy Wagner</a></td><td>2.20820633059789</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/p/pierza.01.shtml">A.J. Pierzynski</a></td><td>1.87255949490044</td></tr>
-	<tr><td><a href="https://www.baseball-reference.com/players/h/howarry01.shtml">Ryan Howard</a></td><td>1.51488549618321</td></tr>
+	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a></td><td>8.83</td></tr>
+	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/r/rodrial01.shtml">Alex Rodriguez</a></td><td>6.84</td></tr>
+	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/c/clemero02.shtml">Roger Clemens</a></td><td>6.68</td></tr>
+	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/r/rolensc01.shtml">Scott Rolen</a></td><td>5.57</td></tr>
+	<tr class="avg-war-hof"><td><a href="https://www.baseball-reference.com/players/s/schilcu01.shtml">Curt Schilling</a></td><td>5.38</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/r/ramirma02.shtml">Manny Ramirez</a></td><td>4.88</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/j/jonesan01.shtml">Andruw Jones</a></td><td>4.63</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/h/heltoto01.shtml">Todd Helton</a></td><td>4.46</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/t/teixema01.shtml">Mark Teixeira</a></td><td>4.40</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/h/hudsoti01.shtml">Tim Hudson</a></td><td>4.10</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a></td><td>4.03</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/a/abreubo01.shtml">Bobby Abreu</a></td><td>4.02</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/b/buehrma01.shtml">Mark Buehrle</a></td><td>3.98</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/k/kentje01.shtml">Jeff Kent</a></td><td>3.91</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/p/pettian01.shtml">Andy Pettitte</a></td><td>3.89</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/s/sheffga01.shtml">Gary Sheffield</a></td><td>3.80</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/o/ortizda01.shtml">David Ortiz</a></td><td>3.72</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/c/crawfca02.shtml">Carl Crawford</a></td><td>3.69</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/p/peavyja01.shtml">Jake Peavy</a></td><td>3.48</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/h/hunteto01.shtml">Torii Hunter</a></td><td>3.46</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/r/rolliji01.shtml">Jimmy Rollins</a></td><td>3.39</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/m/morneju01.shtml">Justin Morneau</a></td><td>2.83</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/v/vizquom01.shtml">Omar Vizquel</a></td><td>2.49</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/l/linceti01.shtml">Tim Lincecum</a></td><td>2.42</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/f/fieldpr01.shtml">Prince Fielder</a></td><td>2.39</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/p/papeljo01.shtml">Jonathan Papelbon</a></td><td>2.29</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/n/nathajo01.shtml">Joe Nathan</a></td><td>2.23</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/w/wagnebi02.shtml">Billy Wagner</a></td><td>2.21</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/p/pierza.01.shtml">A.J. Pierzynski</a></td><td>1.87</td></tr>
+	<tr><td><a href="https://www.baseball-reference.com/players/h/howarry01.shtml">Ryan Howard</a></td><td>1.51</td></tr>
   </tbody>
   </table>
   <br />
