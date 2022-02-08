@@ -196,15 +196,4 @@ title: Vol. 1, No. 2 - September 2000 - Our Trip To Cuba
     International Baseball Rundown&trade; magazine provides information about baseball all over the world, with news from many of the 100-plus countries in which the game is played. It has been published for eight years (since March 1992). IBR&trade; will be published nine times in 2000 and is sent to about 4,000 people in more than 90 countries.
   </p>
 
-  <p>
-    For more information on International Baseball Rundown&trade;, please visit the website at <a href="http://members.aol.com/ibrundown/">http://members.aol.com/ibrundown/</a>, or write to:
-  </p>
-
-  <p>
-    International Baseball Rundown<br />
-    Jeff Elijah, Editor and Publisher<br />
-    PO Box 608<br />
-    Glen Ellyn, IL 60138-0608<br />
-    Email: <a href="mailto:ibrundown@aol.com">ibrundown@aol.com</a>
-  </p>
 </section>
