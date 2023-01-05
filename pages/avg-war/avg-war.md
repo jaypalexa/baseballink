@@ -142,6 +142,7 @@ title: Average WAR Explained
         The result is <strong>Average WAR (avgWAR)</strong>&mdash;the average number of wins above replacement that a player produces for his team over the course of a single season.
       </p>
       <ul>
+        <li><a href="average-war-for-2023-hall-of-fame-candidates.html">AvgWAR for 2023 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2022-hall-of-fame-candidates.html">AvgWAR for 2022 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
         <li><a href="average-war-for-2017-hall-of-fame-candidates.html">AvgWAR for 2017 Hall of Fame Candidates</a></li>
