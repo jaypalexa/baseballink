@@ -16,7 +16,7 @@ title: Average WAR for 2012 Hall of Fame Candidates
   <p><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> tops the list again for Baseball Hall of Fame candidates.  None of the first-year 2012 candidates makes the cut.</p>
   <p><a href="http://www.baseball-reference.com/players/j/jordabr01.shtml">Brian Jordan</a> leads the pack of non-worthy rookies, largely due to an impressive defensive WAR.</p>
   <p><a href="http://www.baseball-reference.com/players/w/womacto01.shtml">Tony Womack</a> looks to be <a href="lenny-harris-for-hall-of-fame-huh.html">this year&rsquo;s Lenny Harris</a>.</p>
-  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p>We have converted a baseball player's career <a href="https://www.baseball-reference.com/about/war_explained.shtml">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>

@@ -15,7 +15,7 @@ title: Average WAR for 2014 Hall of Fame Candidates
   <p><em>January 1, 2014 by TheUmpire</em></p>
   <p><a href="http://www.baseball-reference.com/players/m/mussimi01.shtml">Mike Mussina</a> leads the pack of first-year candidates.</p>
   <p><a href="http://www.baseball-reference.com/players/j/jonesto02.shtml">Todd Jones</a> looks to be <a href="lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
-  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p>We have converted a baseball player's career <a href="https://www.baseball-reference.com/about/war_explained.shtml">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>

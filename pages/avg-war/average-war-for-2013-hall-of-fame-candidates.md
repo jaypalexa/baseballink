@@ -16,7 +16,7 @@ title: Average WAR for 2013 Hall of Fame Candidates
   <p>Led by <a href="http://www.baseball-reference.com/players/b/bondsba01.shtml">Barry Bonds</a>, this year's ballot features five avgWAR 5+ players. <a href="http://www.baseball-reference.com/players/s/sosasa01.shtml">Sammy Sosa</a> ain't one of 'em, despite his 609 career home runs.</p>
   <p><a href="http://www.baseball-reference.com/players/b/bagweje01.shtml">Jeff Bagwell</a> leads the pack of first-year candidates.</p>
   <p><a href="http://www.baseball-reference.com/players/m/mesajo01.shtml">José Mesa</a> looks to be <a href="{{ site.url }}{{ site.baseurl }}/lenny-harris-for-hall-of-fame-huh.html">this year's Lenny Harris</a>.</p>
-  <p>We have converted a baseball player's career <a href="http://saberlibrary.com/misc/war/">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
+  <p>We have converted a baseball player's career <a href="https://www.baseball-reference.com/about/war_explained.shtml">Wins Above Replacement</a> (WAR) into a rate statistic which indicates the <a href="avg-war.html">average number of wins above replacement a player would give his team per single season</a> (avgWAR). <a href="http://www.baseball-reference.com">Baseball-Reference.com</a> uses the following scale for WAR values:</p>
   <ul>
   <li>8+ MVP Quality </li>
   <li>5+ All-Star Quality </li>
