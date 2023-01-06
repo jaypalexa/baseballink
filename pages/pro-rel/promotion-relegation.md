@@ -203,10 +203,10 @@ title: Promotion/Relegation Tables
         <br />
         <p>The 2022 BPL first-round matchups:</p>
         <ul>
-        <li>(1) San Francisco Giants vs (8) Toronto Blue Jays</li>
-        <li>(4) Houston Astros vs (5) Milwaukee Brewers</li>
-        <li>(3) Tampa Bay Rays vs (6) Boston Red Sox</li>
-        <li>(2) Los Angeles Dodgers vs (7) New York Yankees</li>
+        <li>(1) Los Angeles Dodgers vs (8) Cleveland Guardians</li>
+        <li>(4) New York Mets vs (5) New York Yankees</li>
+        <li>(3) Atlanta Braves vs (6) St. Louis Cardinals</li>
+        <li>(2) Houston Astros vs (7) Toronto Blue Jays</li>
         </ul>
         <br />
         <table class="pro-rel-table">
