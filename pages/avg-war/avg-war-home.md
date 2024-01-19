@@ -12,6 +12,7 @@ title: Average War
 <h1>Average War</h1>
 <ul>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/avg-war.html">AvgWAR Explained</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/average-war-for-2024-hall-of-fame-candidates.html">AvgWAR for 2024 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/average-war-for-2023-hall-of-fame-candidates.html">AvgWAR for 2023 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/average-war-for-2022-hall-of-fame-candidates.html">AvgWAR for 2022 Hall of Fame Candidates</a></li>
   <li><a href="{{ site.url }}{{ site.baseurl }}/pages/avg-war/average-war-for-2018-hall-of-fame-candidates.html">AvgWAR for 2018 Hall of Fame Candidates</a></li>
