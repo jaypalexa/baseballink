@@ -62,6 +62,156 @@ title: Promotion/Relegation Tables
         <table class="pro-rel-table">
         <tbody>
         <tr class="pro-rel-table-header">
+          <td colspan="3" class="has-text-centered">2023 Baseball Standings</td>
+        </tr>
+        <tr>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BPL</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+			<tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Atlanta</td><td>104</td><td>58</td><td>231</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Baltimore</td><td>101</td><td>61</td><td>129</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>*Los Angeles</td><td>100</td><td>62</td><td>207</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>*Tampa Bay</td><td>99</td><td>63</td><td>195</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-C</td><td>*Milwaukee</td><td>92</td><td>70</td><td>81</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-W</td><td>***Texas</td><td>90</td><td>72</td><td>165</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-W</td><td>*Houston</td><td>90</td><td>72</td><td>129</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Philadelphia</td><td>90</td><td>72</td><td>81</td></tr>
+			<tr><td>AL-E</td><td>*Toronto</td><td>89</td><td>73</td><td>75</td></tr>
+			<tr><td>AL-W</td><td>Seattle</td><td>88</td><td>74</td><td>99</td></tr>
+			<tr><td>AL-C</td><td>*Minnesota</td><td>87</td><td>75</td><td>119</td></tr>
+			<tr><td>NL-W</td><td>**Arizona</td><td>84</td><td>78</td><td>-15</td></tr>
+			<tr><td>NL-E</td><td>*Miami</td><td>84</td><td>78</td><td>-57</td></tr>
+			<tr><td>NL-C</td><td>Chicago</td><td>83</td><td>79</td><td>96</td></tr>
+			<tr><td>NL-W</td><td>San Diego</td><td>82</td><td>80</td><td>104</td></tr>
+			<tr><td>AL-E</td><td>New York</td><td>82</td><td>80</td><td>-25</td></tr>
+			<tr><td>NL-C</td><td>Cincinnati</td><td>82</td><td>80</td><td>-38</td></tr>
+			<tr><td>NL-W</td><td>San Francisco</td><td>79</td><td>83</td><td>-45</td></tr>
+			<tr><td>AL-E</td><td>Boston</td><td>78</td><td>84</td><td>-4</td></tr>
+			<tr><td>AL-C</td><td>Detroit</td><td>78</td><td>84</td><td>-79</td></tr>
+			<tr><td>AL-C</td><td>Cleveland</td><td>76</td><td>86</td><td>-35</td></tr>
+			<tr><td>NL-C</td><td>Pittsburgh</td><td>76</td><td>86</td><td>-98</td></tr>
+			<tr><td>NL-E</td><td>New York</td><td>75</td><td>87</td><td>-12</td></tr>
+			<tr><td>AL-W</td><td>Los Angeles</td><td>73</td><td>89</td><td>-90</td></tr>
+			<tr><td>NL-C</td><td>St. Louis</td><td>71</td><td>91</td><td>-110</td></tr>
+			<tr><td>NL-E</td><td>Washington</td><td>71</td><td>91</td><td>-145</td></tr>
+			<tr><td>AL-C</td><td>Chicago</td><td>61</td><td>101</td><td>-200</td></tr>
+			<tr class="pro-rel-status-relegated"><><td>NL-W</td><td>Colorado</td><td>59</td><td>103</td><td>-236</td></tr>
+			<tr class="pro-rel-status-relegated"><><td>AL-C</td><td>Kansas City</td><td>56</td><td>106</td><td>-183</td></tr>
+			<tr class="pro-rel-status-relegated"><><td>AL-W</td><td>Oakland</td><td>50</td><td>112</td><td>-339</td></tr>
+          <tr><td colspan="5">*** = World Series winner</td></tr>
+          <tr><td colspan="5">** = World Series loser</td></tr>
+          <tr><td colspan="5">* = in MLB playoffs</td></tr>
+          </tbody>
+          </table>
+        </td>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BL2</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+			<tr class="pro-rel-status-promoted"><td>IL-E</td><td>Norfolk</td><td>90</td><td>59</td><td>152</td></tr>
+			<tr class="pro-rel-status-promoted"><td>PCL-E</td><td>Oklahoma City</td><td>90</td><td>58</td><td>147</td></tr>
+			<tr class="pro-rel-status-playoff"><td>PCL-E</td><td>Round Rock</td><td>89</td><td>60</td><td>156</td></tr>
+			<tr class="pro-rel-status-playoff"><td>PCL-W</td><td>Reno</td><td>88</td><td>62</td><td>133</td></tr>
+			<tr class="pro-rel-status-playoff"><td>IL-E</td><td>Durham</td><td>88</td><td>62</td><td>129</td></tr>
+			<tr class="pro-rel-status-playoff"><td>IL-W</td><td>St. Paul</td><td>84</td><td>64</td><td>132</td></tr>
+			<tr><td>IL-W</td><td>Nashville</td><td>83</td><td>65</td><td>62</td></tr>
+			<tr><td>IL-W</td><td>Iowa</td><td>82</td><td>65</td><td>61</td></tr>
+			<tr><td>IL-E</td><td>Lehigh Valley</td><td>80</td><td>66</td><td>84</td></tr>
+			<tr><td>IL-E</td><td>Worcester</td><td>79</td><td>68</td><td>48</td></tr>
+			<tr><td>PCL-W</td><td>Tacoma</td><td>77</td><td>73</td><td>63</td></tr>
+			<tr><td>IL-E</td><td>Buffalo</td><td>76</td><td>72</td><td>66</td></tr>
+			<tr><td>PCL-W</td><td>Las Vegas</td><td>75</td><td>74</td><td>-28</td></tr>
+			<tr><td>IL-W</td><td>Louisville</td><td>75</td><td>73</td><td>-43</td></tr>
+			<tr><td>IL-E</td><td>Scranton/Wilkes-Barre</td><td>73</td><td>75</td><td>35</td></tr>
+			<tr><td>IL-W</td><td>Memphis</td><td>71</td><td>78</td><td>32</td></tr>
+			<tr><td>IL-W</td><td>Indianapolis</td><td>70</td><td>78</td><td>21</td></tr>
+			<tr><td>IL-W</td><td>Toledo</td><td>70</td><td>78</td><td>-47</td></tr>
+			<tr><td>IL-W</td><td>Gwinnett</td><td>70</td><td>78</td><td>-54</td></tr>
+			<tr><td>IL-E</td><td>Jacksonville</td><td>70</td><td>79</td><td>-74</td></tr>
+			<tr><td>PCL-W</td><td>Salt Lake</td><td>70</td><td>79</td><td>-88</td></tr>
+			<tr><td>IL-W</td><td>Columbus</td><td>68</td><td>79</td><td>0</td></tr>
+			<tr><td>IL-W</td><td>Omaha</td><td>68</td><td>77</td><td>-58</td></tr>
+			<tr><td>PCL-E</td><td>Albuquerque</td><td>68</td><td>82</td><td>-74</td></tr>
+			<tr><td>PCL-W</td><td>Sacramento</td><td>67</td><td>82</td><td>-40</td></tr>
+			<tr><td>IL-E</td><td>Rochester</td><td>66</td><td>80</td><td>-159</td></tr>
+			<tr><td>PCL-E</td><td>El Paso</td><td>62</td><td>88</td><td>-120</td></tr>
+			<tr class="pro-rel-status-relegated"><td>PCL-E</td><td>Sugar Land</td><td>61</td><td>89</td><td>-149</td></tr>
+			<tr class="pro-rel-status-relegated"><td>IL-E</td><td>Charlotte</td><td>53</td><td>96</td><td>-291</td></tr>
+			<tr class="pro-rel-status-relegated"><td>IL-E</td><td>Syracuse</td><td>61</td><td>85</td><td>-96</td></tr>
+          </tbody>
+          </table>
+        </td>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BL3</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+			<tr class="pro-rel-status-promoted"><td>EL-NE</td><td>Somerset</td><td>84</td><td>53</td><td>211</td></tr>
+			<tr class="pro-rel-status-promoted"><td>SL-S</td><td>Montgomery</td><td>80</td><td>58</td><td>54</td></tr>
+			<tr class="pro-rel-status-playoff"><td>SL-S</td><td>Pensacola</td><td>79</td><td>57</td><td>99</td></tr>
+			<tr class="pro-rel-status-playoff"><td>TL-S</td><td>Amarillo</td><td>77</td><td>61</td><td>20</td></tr>
+			<tr class="pro-rel-status-playoff"><td>EL-NW</td><td>Erie</td><td>75</td><td>62</td><td>79</td></tr>
+			<tr class="pro-rel-status-playoff"><td>SL-N</td><td>Tennessee</td><td>75</td><td>62</td><td>63</td></tr>
+			<tr><td>SL-S</td><td>Biloxi</td><td>74</td><td>63</td><td>73</td></tr>
+			<tr><td>EL-NW</td><td>Richmond</td><td>74</td><td>64</td><td>43</td></tr>
+			<tr><td>EL-NE</td><td>Binghamton</td><td>74</td><td>61</td><td>0</td></tr>
+			<tr><td>EL-NE</td><td>Portland</td><td>73</td><td>63</td><td>104</td></tr>
+			<tr><td>TL-N</td><td>Arkansas</td><td>73</td><td>65</td><td>48</td></tr>
+			<tr><td>TL-N</td><td>Springfield</td><td>72</td><td>66</td><td>18</td></tr>
+			<tr><td>SL-N</td><td>Chattanooga</td><td>70</td><td>67</td><td>92</td></tr>
+			<tr><td>TL-S</td><td>Corpus Christi</td><td>70</td><td>68</td><td>34</td></tr>
+			<tr><td>TL-S</td><td>Midland</td><td>70</td><td>68</td><td>26</td></tr>
+			<tr><td>TL-S</td><td>San Antonio</td><td>70</td><td>68</td><td>-37</td></tr>
+			<tr><td>EL-NW</td><td>Bowie</td><td>67</td><td>70</td><td>-40</td></tr>
+			<tr><td>EL-NW</td><td>Altoona</td><td>67</td><td>68</td><td>-42</td></tr>
+			<tr><td>TL-N</td><td>Tulsa</td><td>65</td><td>73</td><td>-4</td></tr>
+			<tr><td>EL-NW</td><td>Akron</td><td>65</td><td>73</td><td>-16</td></tr>
+			<tr><td>TL-S</td><td>Frisco</td><td>64</td><td>73</td><td>0</td></tr>
+			<tr><td>TL-N</td><td>Wichita</td><td>64</td><td>73</td><td>-49</td></tr>
+			<tr><td>TL-N</td><td>NW Arkansas</td><td>64</td><td>74</td><td>-56</td></tr>
+			<tr><td>EL-NE</td><td>New Hampshire</td><td>62</td><td>72</td><td>-1</td></tr>
+			<tr><td>SL-S</td><td>Mississippi</td><td>62</td><td>75</td><td>-8</td></tr>
+			<tr><td>EL-NW</td><td>Harrisburg</td><td>59</td><td>77</td><td>-26</td></tr>
+			<tr><td>EL-NE</td><td>Reading</td><td>59</td><td>77</td><td>-84</td></tr>
+			<tr><td>SL-N</td><td>Rocket City</td><td>58</td><td>80</td><td>-155</td></tr>
+			<tr><td>EL-NE</td><td>Hartford</td><td>57</td><td>76</td><td>-228</td></tr>
+			<tr><td>SL-N</td><td>Birmingham</td><td>51</td><td>87</td><td>-218</td></tr>
+          </tbody>
+          </table>
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <br />
+        <p>The 2023 BPL first-round matchups:</p>
+        <ul>
+        <li>(1) Atlanta Braves vs (8) Philadelphia Phillies</li>
+        <li>(4) Tampa Bay Rays vs (5) Milwaukee</li>
+        <li>(3) Los Angeles Dodgers vs (6) Texas Rangers</li>
+        <li>(2) Baltimore Orioles vs (7) Houston Astros</li>
+        </ul>
+        <br />	  
+        <table class="pro-rel-table">
+        <tbody>
+        <tr class="pro-rel-table-header">
           <td colspan="3" class="has-text-centered">2022 Baseball Standings</td>
         </tr>
         <tr>
