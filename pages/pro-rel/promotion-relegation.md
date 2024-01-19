@@ -66,6 +66,7 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td class="vertical-align-top">
+		
           <table class="pro-rel-table-standings">
           <tbody>
           <tr class="pro-rel-table-standings-header">
