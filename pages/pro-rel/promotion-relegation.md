@@ -66,7 +66,6 @@ title: Promotion/Relegation Tables
         </tr>
         <tr>
         <td class="vertical-align-top">
-		
           <table class="pro-rel-table-standings">
           <tbody>
           <tr class="pro-rel-table-standings-header">
@@ -103,9 +102,9 @@ title: Promotion/Relegation Tables
 			<tr><td>NL-C</td><td>St. Louis</td><td>71</td><td>91</td><td>-110</td></tr>
 			<tr><td>NL-E</td><td>Washington</td><td>71</td><td>91</td><td>-145</td></tr>
 			<tr><td>AL-C</td><td>Chicago</td><td>61</td><td>101</td><td>-200</td></tr>
-			<tr class="pro-rel-status-relegated"><><td>NL-W</td><td>Colorado</td><td>59</td><td>103</td><td>-236</td></tr>
-			<tr class="pro-rel-status-relegated"><><td>AL-C</td><td>Kansas City</td><td>56</td><td>106</td><td>-183</td></tr>
-			<tr class="pro-rel-status-relegated"><><td>AL-W</td><td>Oakland</td><td>50</td><td>112</td><td>-339</td></tr>
+			<tr class="pro-rel-status-relegated"><td>NL-W</td><td>Colorado</td><td>59</td><td>103</td><td>-236</td></tr>
+			<tr class="pro-rel-status-relegated"><td>AL-C</td><td>Kansas City</td><td>56</td><td>106</td><td>-183</td></tr>
+			<tr class="pro-rel-status-relegated"><td>AL-W</td><td>Oakland</td><td>50</td><td>112</td><td>-339</td></tr>
           <tr><td colspan="5">*** = World Series winner</td></tr>
           <tr><td colspan="5">** = World Series loser</td></tr>
           <tr><td colspan="5">* = in MLB playoffs</td></tr>
