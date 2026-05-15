@@ -51,7 +51,7 @@ title: Vol. 1, No. 2 - September 2000 - Where Were You When McGwire Hit 62?
   </p>
 
   <p>
-    <em>(Written 9/9/1998. Copyright (c) Allen C. Levi. Reprinted by permission.)</em>
+    <em>(Written 9/9/1998. Copyright &copy; Allen C. Levi. Reprinted by permission.)</em>
   </p>
 
   <p>
