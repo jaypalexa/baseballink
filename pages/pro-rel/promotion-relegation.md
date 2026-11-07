@@ -75,6 +75,49 @@ title: Promotion/Relegation Tables
             <td>L</td>
             <td>RD</td>
           </tr>
+			<tr class="pro-rel-status-promoted"><td>NL-C</td><td>***Milwaukee Brewers</td><td>103</td><td>59</td><td>214</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>*Los Angeles Dodgers</td><td>100</td><td>62</td><td>201</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>**Tampa Bay Rays</td><td>98</td><td>64</td><td>86</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Atlanta Braves</td><td>94</td><td>68</td><td>116</td></tr>
+			<tr class="pro-rel-status-promoted"><td>AL-E</td><td>*New York Yankees</td><td>93</td><td>68</td><td>138</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-W</td><td>*San Diego Padres</td><td>91</td><td>71</td><td>41</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-C</td><td>*Chicago Cubs</td><td>89</td><td>73</td><td>147</td></tr>
+			<tr class="pro-rel-status-promoted"><td>NL-E</td><td>*Philadelphia Phillies</td><td>88</td><td>74</td><td>15</td></tr>
+			<tr><td>AL-E</td><td>*Boston Red Sox</td><td>87</td><td>75</td><td>78</td></tr>
+			<tr><td>NL-W</td><td>Arizona Diamondbacks</td><td>86</td><td>76</td><td>9</td></tr>
+			<tr><td>AL-C</td><td>*Cleveland Guardians</td><td>85</td><td>77</td><td>11</td></tr>
+			<tr><td>AL-C</td><td>*Chicago White Sox</td><td>84</td><td>78</td><td>56</td></tr>
+			<tr><td>NL-C</td><td>Pittsburgh Pirates</td><td>82</td><td>80</td><td>28</td></tr>
+			<tr><td>AL-W</td><td>*Houston Astros</td><td>81</td><td>81</td><td>-32</td></tr>
+			<tr><td>NL-E</td><td>Miami Marlins</td><td>80</td><td>82</td><td>3</td></tr>
+			<tr><td>AL-W</td><td>Texas Rangers</td><td>80</td><td>82</td><td>-46</td></tr>
+			<tr><td>AL-E</td><td>Baltimore Orioles</td><td>79</td><td>82</td><td>-21</td></tr>
+			<tr><td>AL-E</td><td>Toronto Blue Jays</td><td>79</td><td>83</td><td>-46</td></tr>
+			<tr><td>NL-E</td><td>Washington Nationals</td><td>77</td><td>85</td><td>6</td></tr>
+			<tr><td>NL-C</td><td>St. Louis Cardinals</td><td>77</td><td>85</td><td>-29</td></tr>
+			<tr><td>AL-C</td><td>Minnesota Twins</td><td>77</td><td>85</td><td>-58</td></tr>
+			<tr><td>AL-C</td><td>Detroit Tigers</td><td>76</td><td>86</td><td>71</td></tr>
+			<tr><td>AL-W</td><td>Seattle Mariners</td><td>76</td><td>86</td><td>-58</td></tr>
+			<tr><td>NL-C</td><td>Cincinnati Reds</td><td>75</td><td>87</td><td>-160</td></tr>
+			<tr><td>NL-E</td><td>New York Mets</td><td>74</td><td>88</td><td>-32</td></tr>
+			<tr><td>AL-C</td><td>Kansas City Royals</td><td>69</td><td>93</td><td>-120</td></tr>
+			<tr><td>NL-W</td><td>San Francisco Giants</td><td>65</td><td>97</td><td>-91</td></tr>
+			<tr class="pro-rel-status-relegated"><td>AL-W</td><td>Athletics</td><td>64</td><td>98</td><td>-238</td></tr>
+			<tr class="pro-rel-status-relegated"><td>AL-W</td><td>Los Angeles Angels</td><td>62</td><td>100</td><td>-97</td></tr>
+			<tr class="pro-rel-status-relegated"><td>NL-W</td><td>Colorado Rockies</td><td>58</td><td>104</td><td>-192</td></tr>
+          </tbody>
+          </table>
+        </td>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BL2</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
 			<tr class="pro-rel-status-promoted"><td>IL-E</td><td>Rochester Red Wings</td><td>90</td><td>58</td><td>142</td></tr>
 			<tr class="pro-rel-status-promoted"><td>PCL-E</td><td>Oklahoma City Comets</td><td>89</td><td>60</td><td>196</td></tr>
 			<tr class="pro-rel-status-playoff"><td>PCL-W</td><td>Las Vegas Aviators</td><td>87</td><td>61</td><td>51</td></tr>
