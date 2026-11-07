@@ -62,6 +62,110 @@ title: Promotion/Relegation Tables
         <table class="pro-rel-table">
         <tbody>
         <tr class="pro-rel-table-header">
+          <td colspan="3" class="has-text-centered">2026 Baseball Standings</td>
+        </tr>
+        <tr>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BPL</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+			<tr class="pro-rel-status-promoted"><td>IL-E</td><td>Rochester Red Wings</td><td>90</td><td>58</td><td>142</td></tr>
+			<tr class="pro-rel-status-promoted"><td>PCL-E</td><td>Oklahoma City Comets</td><td>89</td><td>60</td><td>196</td></tr>
+			<tr class="pro-rel-status-playoff"><td>PCL-W</td><td>Las Vegas Aviators</td><td>87</td><td>61</td><td>51</td></tr>
+			<tr class="pro-rel-status-playoff"><td>IL-W</td><td>Memphis Redbirds</td><td>83</td><td>67</td><td>76</td></tr>
+			<tr class="pro-rel-status-playoff"><td>IL-W</td><td>St. Paul Saints</td><td>82</td><td>67</td><td>43</td></tr>
+			<tr class="pro-rel-status-playoff"><td>IL-E</td><td>Charlotte Knights</td><td>81</td><td>68</td><td>126</td></tr>
+			<tr><td>IL-E</td><td>Syracuse Mets</td><td>81</td><td>68</td><td>40</td></tr>
+			<tr><td>IL-W</td><td>Nashville Sounds</td><td>80</td><td>69</td><td>36</td></tr>
+			<tr><td>PCL-W</td><td>Sacramento River Cats</td><td>79</td><td>68</td><td>92</td></tr>
+			<tr><td>IL-E</td><td>Scranton/Wilkes-Barre RailRiders</td><td>78</td><td>68</td><td>58</td></tr>
+			<tr><td>IL-W</td><td>Columbus Clippers</td><td>78</td><td>69</td><td>17</td></tr>
+			<tr><td>IL-E</td><td>Worcester Red Sox</td><td>76</td><td>67</td><td>72</td></tr>
+			<tr><td>IL-W</td><td>Gwinnett Stripers</td><td>76</td><td>73</td><td>50</td></tr>
+			<tr><td>IL-W</td><td>Indianapolis Indians</td><td>75</td><td>75</td><td>58</td></tr>
+			<tr><td>IL-W</td><td>Toledo Mud Hens</td><td>74</td><td>74</td><td>35</td></tr>
+			<tr><td>PCL-E</td><td>Sugar Land Space Cowboys</td><td>74</td><td>75</td><td>-34</td></tr>
+			<tr><td>IL-E</td><td>Jacksonville Jumbo Shrimp</td><td>73</td><td>74</td><td>8</td></tr>
+			<tr><td>PCL-E</td><td>Round Rock Express</td><td>73</td><td>77</td><td>-4</td></tr>
+			<tr><td>PCL-E</td><td>Albuquerque Isotopes</td><td>73</td><td>77</td><td>-29</td></tr>
+			<tr><td>PCL-W</td><td>Tacoma Rainiers</td><td>72</td><td>78</td><td>17</td></tr>
+			<tr><td>IL-E</td><td>Buffalo Bisons</td><td>68</td><td>79</td><td>-36</td></tr>
+			<tr><td>IL-E</td><td>Lehigh Valley IronPigs</td><td>68</td><td>81</td><td>-120</td></tr>
+			<tr><td>PCL-W</td><td>Salt Lake Bees</td><td>67</td><td>81</td><td>-73</td></tr>
+			<tr><td>PCL-W</td><td>Reno Aces</td><td>67</td><td>82</td><td>-92</td></tr>
+			<tr><td>IL-E</td><td>Durham Bulls</td><td>67</td><td>81</td><td>-123</td></tr>
+			<tr><td>IL-W</td><td>Louisville Bats</td><td>65</td><td>83</td><td>-78</td></tr>
+			<tr><td>IL-W</td><td>Omaha Storm Chasers</td><td>65</td><td>81</td><td>-88</td></tr>
+			<tr class="pro-rel-status-relegated"><td>IL-W</td><td>Iowa Cubs</td><td>63</td><td>82</td><td>-136</td></tr>
+			<tr class="pro-rel-status-relegated"><td>PCL-E</td><td>El Paso Chihuahuas</td><td>60</td><td>90</td><td>-143</td></tr>
+			<tr class="pro-rel-status-relegated"><td>IL-E</td><td>Norfolk Tides</td><td>58</td><td>89</td><td>-161</td></tr>
+          </tbody>
+          </table>
+        </td>
+        <td class="vertical-align-top">
+          <table class="pro-rel-table-standings">
+          <tbody>
+          <tr class="pro-rel-table-standings-header">
+            <td>BL3</td>
+            <td>Team</td>
+            <td>W</td>
+            <td>L</td>
+            <td>RD</td>
+          </tr>
+			<tr class="pro-rel-status-promoted"><td>TL-N</td><td>Tulsa Drillers</td><td>88</td><td>50</td><td>134</td></tr>
+			<tr class="pro-rel-status-promoted"><td>EL-SW</td><td>Erie SeaWolves</td><td>79</td><td>58</td><td>114</td></tr>
+			<tr class="pro-rel-status-playoff"><td>SL-S</td><td>Pensacola Blue Wahoos</td><td>79</td><td>58</td><td>4</td></tr>
+			<tr class="pro-rel-status-playoff"><td>TL-N</td><td>Springfield Cardinals</td><td>78</td><td>59</td><td>75</td></tr>
+			<tr class="pro-rel-status-playoff"><td>TL-S</td><td>Amarillo Sod Poodles</td><td>77</td><td>60</td><td>31</td></tr>
+			<tr class="pro-rel-status-playoff"><td>EL-NE</td><td>Somerset Patriots</td><td>74</td><td>64</td><td>45</td></tr>
+			<tr><td>EL-SW</td><td>Richmond Flying Squirrels</td><td>74</td><td>61</td><td>-21</td></tr>
+			<tr><td>TL-S</td><td>Frisco RoughRiders</td><td>73</td><td>64</td><td>74</td></tr>
+			<tr><td>SL-N</td><td>Knoxville Smokies</td><td>73</td><td>64</td><td>41</td></tr>
+			<tr><td>SL-N</td><td>Rocket City Trash Pandas</td><td>72</td><td>65</td><td>22</td></tr>
+			<tr><td>SL-S</td><td>Montgomery Biscuits</td><td>71</td><td>66</td><td>96</td></tr>
+			<tr><td>TL-N</td><td>Arkansas Travelers</td><td>71</td><td>67</td><td>65</td></tr>
+			<tr><td>EL-NE</td><td>Portland Sea Dogs</td><td>71</td><td>65</td><td>-17</td></tr>
+			<tr><td>EL-NE</td><td>Reading Fightin Phils</td><td>70</td><td>67</td><td>21</td></tr>
+			<tr><td>EL-SW</td><td>Akron RubberDucks</td><td>68</td><td>68</td><td>82</td></tr>
+			<tr><td>EL-SW</td><td>Chesapeake Baysox</td><td>67</td><td>68</td><td>21</td></tr>
+			<tr><td>EL-SW</td><td>Harrisburg Senators</td><td>67</td><td>67</td><td>8</td></tr>
+			<tr><td>SL-S</td><td>Biloxi Shuckers</td><td>66</td><td>68</td><td>3</td></tr>
+			<tr><td>TL-S</td><td>Midland RockHounds</td><td>66</td><td>71</td><td>-14</td></tr>
+			<tr><td>EL-NE</td><td>Hartford Yard Goats</td><td>66</td><td>71</td><td>-18</td></tr>
+			<tr><td>SL-S</td><td>Columbus Clingstones</td><td>64</td><td>68</td><td>-10</td></tr>
+			<tr><td>TL-S</td><td>Corpus Christi Hooks</td><td>62</td><td>76</td><td>-15</td></tr>
+			<tr><td>EL-NE</td><td>Binghamton Rumble Ponies</td><td>61</td><td>76</td><td>-41</td></tr>
+			<tr><td>SL-N</td><td>Birmingham Barons</td><td>61</td><td>77</td><td>-73</td></tr>
+			<tr><td>EL-SW</td><td>Altoona Curve</td><td>61</td><td>77</td><td>-126</td></tr>
+			<tr><td>EL-NE</td><td>New Hampshire Fisher Cats</td><td>59</td><td>75</td><td>-68</td></tr>
+			<tr><td>SL-N</td><td>Chattanooga Lookouts</td><td>59</td><td>79</td><td>-83</td></tr>
+			<tr><td>TL-S</td><td>San Antonio Missions</td><td>59</td><td>79</td><td>-166</td></tr>
+			<tr><td>TL-N</td><td>Northwest Arkansas Naturals</td><td>57</td><td>79</td><td>-107</td></tr>
+			<tr><td>TL-N</td><td>Wichita Wind Surge</td><td>55</td><td>81</td><td>-77</td></tr>
+          </tbody>
+          </table>
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <br />
+        <p>The 2026 BPL first-round matchups:</p>
+        <ul>
+        <li>(1) Milwaukee Brewers vs (8) Philadelphia Phillies</li>
+        <li>(4) Atlanta Braves vs (5) New York Yankees</li>
+        <li>(3) Tampa Bay Rays vs (6) San Diego Padres</li>
+        <li>(2) Los Angeles Dodgers vs (7) Chicago Cubs</li>
+        </ul>
+        <br />	  
+        <table class="pro-rel-table">
+        <tbody>
+        <tr class="pro-rel-table-header">
           <td colspan="3" class="has-text-centered">2025 Baseball Standings</td>
         </tr>
         <tr>
