@@ -1,0 +1,111 @@
+WAR: 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Replacement
+
+
+battingCareerG = (SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) 
+battingAvgPAPer162GSeason = (battingCareerPA / battingTotalSeasons)
+battingTotalSeasons = (battingCareerG / 162) 
+avgWAR = (careerWAR / battingTotalSeasons)
+
+SELECT Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayerName, 'YES' AS  IsInNBHof, Master.finalGame AS FinalGame, WarPositionPlayers.WAR AS CareerWAR, 
+VAL(FORMAT(WarPositionPlayers.WAR / (SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) / (SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) / ((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162))), "0.000"))  AS AvgWARPer162GSeason, 
+SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) AS CareerPA, 
+(SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF))) / (SUM(Batting.G) / 162) AS PAPer162GSeason, 
+((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162) AS Total162GSeasons  
+FROM Master, WarPositionPlayers, Batting 
+WHERE Master.bbrefID = WarPositionPlayers.bbrefID 
+AND Master.playerID = Batting.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID,  Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPositionPlayers.WAR 
+HAVING ((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162) >= VAL(0) 
+UNION SELECT Master.playerID,  Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayelName, 'no' AS IsInNBHof, Master.finalGame AS FinalGame, WarPositionPlayers.WAR AS CareerWAR, 
+VAL(FORMAT(WarPositionPlayers.WAR / (SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) / (SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) / ((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162))), "0.000"))  AS AvgWARPer162GSeason, 
+SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF)) AS CareerPA, 
+(SUM(IIF(ISNULL(Batting.AB), 0, Batting.AB) + IIF(ISNULL(Batting.BB), 0, Batting.BB)  + IIF(ISNULL(Batting.HBP), 0, Batting.HBP) + IIF(ISNULL(Batting.SH), 0, Batting.SH) + IIF(ISNULL(Batting.SF), 0, Batting.SF))) / ((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162) AS PAPer162GSeason,  
+((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162) AS Total162GSeasons  
+FROM Master, WarPositionPlayers, Batting 
+WHERE Master.bbrefID = WarPositionPlayers.bbrefID 
+AND Master.playerID = Batting.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND NOT EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID,  Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPositionPlayers.WAR 
+HAVING ((SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) / 162) >= VAL(@MinSeasons)
+ORDER BY AvgWARPer162GSeason DESC;
+
+
+
+
+162 Game Average
+This is an attempt to condense each pitcher's career into a single season's worth of stats. 
+With batters this is easy. Just take their career games played and divide by 162 and then divide their career totals by that factor. 
+For pitchers, this is more difficult. What I have done is treat a pitcher season as having Games Pitched + Games Started = 68 as a single-season. 
+So I normalize everything, so a pitcher has Games + Games Started = 68. So an average season is 34 starts or 68 relief appearances. 
+
+
+pitchingCareerIP = (SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) 
+pitchingCareerG = (SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) 
+pitchingCareerGS = (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS))) 
+pitchingAvgIPPerSeason = (pitchingCareerIP / ((pitchingCareerG + pitchingCareerGS) / 68)) 
+pitchingTotalSeasons = (pitchingCareerIP / pitchingAvgIPPerSeason) 
+avgWAR = (CareerWAR / pitchingTotalSeasons) 
+
+SELECT Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayerName, 'YES' AS  IsInNBHof, Master.finalGame AS FinalGame, WarPitchers.WAR AS CareerWAR,
+VAL(FORMAT(WarPitchers.WAR / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))), "0.000")) AS AvgWARPerSeason, 
+(SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) AS CareerIP, 
+((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))  AS IPPerSeason, 
+((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))) AS TotalSeasons 
+FROM Master, WarPitchers, Pitching 
+WHERE Master.bbrefID = WarPitchers.bbrefID 
+AND Master.playerID = Pitching.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPitchers.WAR 
+HAVING ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68)))  >= VAL(0)  
+UNION SELECT Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayerName, 'no' AS  IsInNBHof, Master.finalGame AS FinalGame, WarPitchers.WAR AS CareerWAR,
+VAL(FORMAT(WarPitchers.WAR / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))), "0.000")) AS AvgWARPerSeason, 
+(SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) AS CareerIP, 
+((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))  AS IPPerSeason, 
+((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))) AS TotalSeasons 
+FROM Master, WarPitchers, Pitching 
+WHERE Master.bbrefID = WarPitchers.bbrefID 
+AND Master.playerID = Pitching.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND NOT EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPitchers.WAR 
+HAVING ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / ((SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68))) >= VAL(@MinSeasons)
+ORDER BY AvgWARPerSeason DESC;
+
+
+
+
+
+CareerIP = (SUM(IIF(ISNULL(Pitching.IPouts), 0, Pitching.IPouts)) / 3) 
+CareerG = (SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) 
+CareerGS = (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS))) 
+IPPerSeason = (CareerIP / ((CareerG + CareerGS) / 68)) 
+TotalSeasons = ((CareerG + CareerGS) / 68) 
+AvgWARPerSeason = CareerWAR / TotalSeasons 
+
+SELECT Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayerName, 'YES' AS  IsInNBHof, Master.finalGame AS FinalGame, WarPitchers.WAR AS CareerWAR,
+VAL(FORMAT(WarPitchers.WAR / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68), "0.000")) AS AvgWARPerSeason, 
+(((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68) AS TotalSeasons 
+FROM Master, WarPitchers, Pitching 
+WHERE Master.bbrefID = WarPitchers.bbrefID 
+AND Master.playerID = Pitching.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPitchers.WAR 
+HAVING (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68) >= VAL(0)  
+UNION SELECT Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast AS PlayerName, 'no' AS  IsInNBHof, Master.finalGame AS FinalGame, WarPitchers.WAR AS CareerWAR,
+VAL(FORMAT(WarPitchers.WAR / (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68), "0.000")) AS AvgWARPerSeason, 
+(((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68) AS TotalSeasons 
+FROM Master, WarPitchers, Pitching 
+WHERE Master.bbrefID = WarPitchers.bbrefID 
+AND Master.playerID = Pitching.playerID 
+AND Master.finalGame < @FinalGameMDY 
+AND NOT EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = Master.hofID AND inducted = 'Y' AND category = 'Player') 
+GROUP BY Master.playerID, Master.bbrefID, Master.nameFirst + ' ' + Master.nameLast, Master.finalGame, WarPitchers.WAR 
+HAVING (((SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) + (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS)))) / 68) >= VAL(@MinSeasons)
+ORDER BY AvgWARPerSeason DESC;
+
+

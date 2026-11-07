@@ -1,0 +1,120 @@
+GOLD:#FFD700
+SILVER:#C0C0C0
+BRONZE:#D2B48C
+
+ style="background-color:#D2B48C" 
+
+=CONCATENATE("<tr style=""background-color:#000000;color:#FFFFFF;font-weight:bold""><td>", A1, "</td><td>", F1, "</td><td>", I1, "</td><td>", H1, "</td><td>", J1, "</td><td>", K1, "</td><td>", L1, "</td><td>", M1, "</td><td>", N1, "</td><td>", E1, "</td></tr>")=CONCATENATE("<tr><td>", A2, "</td><td><a href=""http://www.baseball-reference.com/players/", LEFT(C2, 1), "/", C2, ".shtml"">", F2, "</a></td><td>", TEXT(I2, "0.00"), "</td><td>", TEXT(H2, "0.0"), "</td><td>", TEXT(J2, "0"), "</td><td>", TEXT(K2, "0.00"), "</td><td>", TEXT(L2, "0"), "</td><td>", TEXT(M2, "0"), "</td><td>", TEXT(N2, "0.00"), "</td><td>", E2, "</td></tr>")
+=CONCATENATE("<tr><td>", A2, "</td><td><a href=""http://www.baseball-reference.com/players/", LEFT(C2, 1), "/", C2, ".shtml"">", F2, "</a></td><td>", TEXT(I2, "0.00"), "</td><td>", TEXT(H2, "0.0"), "</td><td>", TEXT(J2, "0"), "</td><td>", TEXT(K2, "0.00"), "</td><td>", TEXT(L2, "0"), "</td><td>", TEXT(M2, "0"), "</td><td>", TEXT(N2, "0.00"), "</td><td>", E2, "</td></tr>")
+
+UPDATE WarBbref INNER JOIN jjj2 ON WarBbref.bbrefID =  jjj2.bbrefID SET WarBbref.battingCareerPA =  jjj2.BattingCareerPA, WarBbref.battingCareerG =  jjj2.BattingCareerG, WarBbref.pitchingCareerIP =  jjj2.PitchingCareerIP, WarBbref.pitchingCareerG =  jjj2.PitchingCareerG, WarBbref.pitchingCareerGS =  jjj2.PitchingCareerGS
+UPDATE WarBbref SET WarBbref.isInNBHof = 'N' WHERE NOT EXISTS (SELECT 1 FROM HallOfFame WHERE hofID = WarBbref.hofID AND inducted = 'Y' AND category = 'Player') 
+
+pitchingAvgIPPerSeason
+pitchingTotalSeasons
+
+
+BBI HoF
+
+transparent -- public nominating and votes
+
+two rounds of nominations, must be > 50%
+
+one year of voting, 75% - 79.9% = bronze, 80 - 89.9 = silver, 90+ = gold
+
+veteran's committee -- 15+ years
+
+----------------------- OR ----------------------- 
+
+battingCareerG = (SUM(IIF(ISNULL(Batting.G), 0, Batting.G))) 
+battingTotalSeasons = (battingCareerG / 162) 
+avgWAR = (careerWAR / battingTotalSeasons)
+avgWAR = (careerWAR / (battingCareerG / 162))
+
+pitchingCareerG = (SUM(IIF(ISNULL(Pitching.G), 0, Pitching.G))) 
+pitchingCareerGS = (SUM(IIF(ISNULL(Pitching.GS), 0, Pitching.GS))) 
+pitchingTotalSeasons = (pitchingCareerG + pitchingCareerGS) / 68
+avgWAR = (careerWAR / ((pitchingCareerG + pitchingCareerGS) / 68)) 
+
+
+http://www.baseball-reference.com/blog/archives/6063
+
+WAR: 8+ MVP, 5+ All-Star, 2+ Starter, 0-2 Sub, <0 Replacement
+
+http://www.baseballprojection.com/war/statdef.htm
+WAR (Batting) - Wins above replacement - Runs above replacement divided by a runs to wins converter. This is normally close to 10 runs per win but is less in lower run scoring environments
+WAR (Pitching) - Wins above replacement - Runs above replacement, adjusted for leverage, divided by a runs to wins converter. This is normally close to 10 runs per win but is less in lower run scoring environments. Pitchers are credited with extra leverage halfway between their actual leverage and 1.0. This is due to the effect of chaining, a relief ace who normally has a leverage of 2.0 and is injured. He will be replaced by a setup man, who is normally an above average pitcher himself, and all pitchers will move up into higher impact situations. The net effect is less than if we assume that the relief ace is directly replaced by a replacement level pitcher.
+
+http://www.baseballprojection.com/war/top500.htm
+Career WAR value calculated and copyrighted © 2008-2010 by Sean Smith.
+
+http://www.baseball-reference.com
+
+GOLD:  > 7.75
+SILVER:  6.25 - 7.749
+BRONZE:  4.75 - 6.249
+
+Very good players are between 4 and 6 WAR; 
+players between 1 and 3 are useful, 
+and those with a WAR less than 1 are, by definition, easily replaceable.
+
+competing advanced pitcher statistics (FIP, xFIP, SIERA, for example) or fielding metrics
+competing WAR formulae
+Wins Above Replacement (WAR), Defensive WAR (dWAR), Ultimate Zone Rating (UZR), UZR/150
+
+
+http://www.beyondtheboxscore.com/2009/6/12/906943/war-lords-of-the-diamond-position
+    * WAR, due to the lack of quality defensive metrics for catchers, assumes all catchers are average defensively (fair or not)
+    * WAR does not measure a player's true talent level, merely their past performance
+    * WAR assumes that talent between the AL and NL is equal, though much evidence suggests that this is not the case and that an AL 2 win player is more valuable than his 2 win NL counterpart
+    * Fangraphs does not claim decimal point accuracy (a 4.8 win and 4.3 win player are very similar)
+    * As I discussed in a previous PR Academy session, wins are not linear, meaning that two wins added to a 60 win team are much less valuable than two wins added to a 90 win team
+    * In that same vein, a two win player for a 60 win team would probably not have that kind of impact on a 90 win team
+    * Due to the AL having the DH, positional adjustments don't add up to zero
+
+
+10 best WAR seasons?
+
+http://saberlibrary.com/misc/war/
+http://sports.yahoo.com/mlb/blog/big_league_stew/post/Everything-you-always-wanted-to-know-about-WAR?urn=mlb-211211
+
+FanGraphs WAR
+BProjection WAR
+Baseball Prospectus WAR
+
+WAR is probably the most popular total value stat out there today, a single number that attempts to quantify a player's worth by looking at his offense, defense (or pitching), defensive position, and the context of the year and league.
+
+FanGraphs only calculates WAR going back to 2002 since that’s the earliest year that we have UZR data.
+Sean Smith has created a historical WAR database that goes back all the way to the 1800s.  His WAR numbers is on a slightly different scale than those at FanGraphs and he uses different fielding data, but they’re a great tool for evaluating past players.
+
+http://www.baseballprojection.com/
+http://www.baseballprojection.com/war/top500.htm
+
+http://www.beyondtheboxscore.com/2010/6/25/1536419/on-fielding-independent-pitching
+
+Two of the most oft-cited implementations are FanGraphs' WAR and Rally's WAR (often cited as Sean Smith's WAR or BaseballProjection.com WAR—this is also the WAR used on Baseball-Reference.com). For position players, the implementation is similar, despite some key differences that can make certain players vary in value depending in the WAR source you use.
+
+
+plate appearances (official at-bats plus bases-on-balls and hits-by-pitch and sacrifice hits and sacrifice flies)
+
+
+Since 1980 no pitcher has thrown more than 300 innings during a single season and the modern average for starting pitchers is roughly 204 innings pitched per regular season.
+
+in response to cumulative vs. qualitative, WAR tries to combine the two by recognizing that the additional innings Jenkins pitched added real value in and of themselves... Every inning he pitched was an inning a lesser pitcher didn't have to.
+
+Pitching WAR is actually pretty simple. Look at how many runs the pitcher gave up during the season, compared to what a replacement-level pitcher would be estimated to give up in the same number of IP. Adjust it for the park. Adjust it based on defensive support. That's it. That's runs above replacement, and it just gets converted to wins. It does not consider in any way whether the pitcher was credited with a win, a loss, pitched a shutout, had Babe Ruth as a teammate. Just total runs allowed and adjusted by defense. 
+
+(Also, relievers have an adjustment based on their leverage -- Mariano Rivera gets a boost because he pitches in more important situations than average.)
+
+
+162 Game Average
+This is an attempt to condense each pitcher's career into a single season's worth of stats. With batters this is easy. Just take their career games played and divide by 162 and then divide their career totals by that factor. For pitchers, this is more difficult. What I have done is treat a pitcher season as having Games Pitched + Games Started = 68 as a single-season. So I normalize everything, so a pitcher has Games + Games Started = 68. So an average season is 34 starts or 68 relief appearances. 
+
+# Eligible Candidates — Candidates to be eligible must meet the following requirements:
+
+   1. A baseball player must have been active as a player in the Major Leagues at some time during a period beginning twenty (20) years before and ending five (5) years prior to election.
+   2. Player must have played in each of ten (10) Major League championship seasons, some part of which must have been within the period described in 3 (A).
+   3. Player shall have ceased to be an active player in the Major Leagues at least five (5) calendar years preceding the election but may be otherwise connected with baseball.
+   4. In case of the death of an active player or a player who has been retired for less than five (5) full years, a candidate who is otherwise eligible shall be eligible in the next regular election held at least six (6) months after the date of death or after the end of the five (5) year period, whichever occurs first.
+   5. Any player on Baseball’s ineligible list shall not be an eligible candidate.
+
